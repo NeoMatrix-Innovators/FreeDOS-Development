@@ -1,0 +1,23 @@
+Begin3
+Title:                FindDisk
+Version:              2005-03-23a
+Entered-date:         2016-06-26
+Description:          Utility to locate a disk by label
+Summary:              A small utility to locate a disk by label
+Keywords:             freedos, disk
+Author:               Eric Auer <eric (at) coli.uni-sb.de>
+Maintained-by:        Eric Auer <eric (at) coli.uni-sb.de>
+Original-site:        http://www.auersoft.eu/soft/
+Platform:             DOS (nasm assembler)
+Copying-policy:       Public Domain
+Defunct-Primary-Site: http://www.coli.uni-sb.de/~eric/stuff/soft/
+CRC:                  ba1f7c50
+MD5:                  f066b9d17d9b0355b6ad37bda3f8760e
+SHA:                  c114208d3cfad7b2a74a15c49d9a601abdf7aaa842381f86b4329e8412a89313
+Bin-files:            6
+Bin-size:             1724
+Source-files:         1
+Source-size:          6654
+Total-files:          7
+Total-size:           8378
+End

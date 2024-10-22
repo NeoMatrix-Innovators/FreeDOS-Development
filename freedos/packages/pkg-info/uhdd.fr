@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       UHDD
+Description: UHDD est un pilote de mise en cache sur disque uniquement pour un maximum de 22 disques BIOS sur un maximum de 9 contr“leurs ®Legacy¯ et PCI natif SATA/IDE.
+Keywords:    cache, disk, driver, ide, sata
+End

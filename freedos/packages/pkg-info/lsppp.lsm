@@ -1,0 +1,20 @@
+Begin3
+Title:          LSppp
+Version:        1.0
+Entered-date:   2003-10-12
+Description:    A small DOS PPP packet driver
+Keywords:       packet
+Author:         David Lindauer
+Primary-site:   http://macall.net/ladsoft/index.htm
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2 or later
+CRC:            20c6a2b7
+MD5:            0fb0f62dae4286999ca54686558df057
+SHA:            c1e970df9338c4a829b2055ba98e019a293e14537e54301090d73b0af1972d0f
+Bin-files:      8
+Bin-size:       65291
+Source-files:   19
+Source-size:    219483
+Total-files:    27
+Total-size:     284774
+End

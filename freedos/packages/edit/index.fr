@@ -1,0 +1,17 @@
+FD-REPOv1	Build time: 1645361091	êditeurs	16
+biew	6.10a	Biew est un visionneur/Çditeur binaire/hexadÇcimal. (nÇcessite i686+)	1fe6ebe6
+blocek	1.62r2	Un Çditeur de texte graphique avec support de l'Unicode et des formats d'images	c2dbe140
+doshexed	1.2g	êditeur et visionneur hexadÇcimal	4f1cd182
+e3	2.7.1a	un mini Çditeur de texte disponible en 32 et 16 bits	cda01462
+elvis	2.2a	Un clone de vi/ex, l'Çditeur standard UNIX. Supporte presque toutes les commandes vi/ex	295f17c0
+fed	2.24c	Un Çditeur de texte avec coloration syntaxique et plus encore	a58e4e3b
+freemacs	1.6h	êditeur similaire Ö emacs pour DOS (comme GNU Emacs)	59bf43d3
+mbedit	8.64a	mbedit est un Çditeur de texte en plein Çcran avec option macro, calculateur en ligne, tampon de l'historique des commandes, Çditeur hexadÇcimal et de nombreuses autres fonctionnalitÇs.	170f2c36
+mined	2015.25a	êditeur de texte avec prise en charge Çtendue de l'Unicode et du CJK. Fonctions pratiques et efficaces pour l'Çdition de documents en texte brut, de programmes, du HTML etc. Interface conviviale, contrìle via la souris et menus.	2b9519a5
+msedit	0.11a	L'Çditeur chic de Mateusz	8b351c1c
+ospedit	2.1.1a	Un Çditeur de texte convivial pour DOS	c9400b69
+pico	3.96a	êditeur de texte simple dans le style de Pine Composer	301fc35c
+setedit	0.5.4a	Un Çditeur pour programmeurs pour DJGPP, similaire Ö l'IDE BCE et Ö RHIDE	bb805916
+tde	5.1w	TDE est un Çditeur de fichiers texte et binaire simple, du domaine public, gÇrant les fichiers et fenàtres multiples Çcrit pour les PC IBM et compatibles proches fonctionnant sous DOS et Win32 (console)	6e7518af
+uhex	1.0.4a	uHex est un Çditeur hexadÇcimal simple et rapide	910e592c
+vim	7.3a	Version amÇliorÇe de l'Çditeur 'vi'	14cff902

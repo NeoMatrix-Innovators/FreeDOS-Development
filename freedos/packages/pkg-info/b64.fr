@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       b64
+Description: Utilitaire qui impl‚mente le standard d'encodage de transfert de contenu Base64 d‚crit dans la RFC1113.
+Keywords:    b64,base64
+End

@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       sleep
+Description: sleep est similaire … l'utilitaire UNIX du mˆme nom. sleep peut ˆtre utilis‚ pour suspendre l'ex‚cution des fichiers de commandes pendant un certain temps. sleep donne les tranches de temps aux systŠmes d'exploitation qui le supportent. sleep reconnaŒt et honore ‚galement le switchar DOS.
+Keywords:    extension, utilitaire, veille
+End

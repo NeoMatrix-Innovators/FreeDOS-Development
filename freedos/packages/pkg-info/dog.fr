@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       DOG
+Description: Un shell command.com alternatif, similaire … FreeCOM mais diff‚rent.
+Keywords:    commande, shell
+End

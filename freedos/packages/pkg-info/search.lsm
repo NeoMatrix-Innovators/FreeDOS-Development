@@ -1,0 +1,21 @@
+Begin3
+Title:                Search
+Version:              1.0a
+Entered-date:         2003-04-01
+Description:          Locates files on your computer
+Keywords:             freedos, search
+Author:               Joe Cosentino <onehardmarine@attbi.com>
+Maintained-by:        Joe Cosentino <onehardmarine@attbi.com>
+defunct-Primary-site: http://www.geocities.com/xsaintx69/freedos
+Platforms:            DOS
+Copying-policy:       GNU General Public License, Version 2
+CRC:                  788d1840
+MD5:                  0d69f9d2127a55c57808fad61a6af256
+SHA:                  777cd38b094d6df965f75e2d9c08cd659ab42b66d7ecc4100ee3fc962272dd29
+Bin-files:            9
+Bin-size:             35151
+Source-files:         3
+Source-size:          18087
+Total-files:          12
+Total-size:           53238
+End

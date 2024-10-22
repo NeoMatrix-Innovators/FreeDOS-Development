@@ -1,0 +1,17 @@
+FD-REPOv1	Build time: 1645361091	GerÑtetreiber	16
+cdrcache	2004-05-13a	CD-ROM Cache, beschleunigt LesevorgÑnge fÅr ein Laufwerk, XMS, 386 oder besser.	2484bd2a
+doslfn	0.41d	Stellt die API fÅr lange Dateinamen (LFN) in einfachem DOS bereit (kein Windows!).	8726041d
+gcdrom	2.4b	SATA nativer IDE CD/DVD-ROM-Treiber fÅr DOS (auch bekannt als ODD DOS-Treiber), unterstÅtzt alle SATA Native IDE-Controller, wie Intel ICH6/ICH7/ICH8, Jmicron 363/368, Nvidia CK804 MCP55/MCP51 usw. (erstellt aus einem umfirmierten XCDROM).	63fb5de0
+hiram	1.9a	Upper Memory (UMB) Extender fÅr 80286, 80386, 80486 CPUs.	550728b5
+lfndos	1.06a	Bietet Win95 Long Filename API fÅr DOS-Programme. Jedes LFN-DOS-Programm, wie DOS7 command.com/edit und alle DJGPP Programme kann lange Dateinamen nutzen. Entwickelt fÅr Win95, kann es jedoch auch Ñlteren DOS Versionen lange Dateinamen beibringen.	2a0a4419
+lptdrv	0.7a	Ein Tool um Hardware am LPT manuell oder nach einem Zeitplan steuern zu kînnen.	50863821
+ntfs	30Mar2001 (rev A)	Ermîglicht Zugriff auf NTFS Partitionen.	362ef6db
+shareext	2.0a	Share Extender	d4f54b79
+shsufdrv	1.02a	SHSUFDRV ist ein Treiber fÅr Floppy- und Festplattenimages. SHSURDRV kopiert ein Image in den Arbeitsspeicher und/oder erstellt Ramdrives.	d62292b1
+spool	2.2a	Druckt im Hintergrund. Braucht das DOS-Tool PRINT nicht.	9597704c
+srdisk	2.09d	Grî·enverÑnderbare Ramdisk. SRDISK ist schnell und kann mit mehr als 32MB XMS und EMS Speicher umgehen. Die Grî·e kann ohne Neustart oder Datenverlust geÑndert werden. Diskcopy kompatibel.	db1a819e
+udvd2	2015-03-05d	CD/DVD UltraDMA Treiber.	f17eefb5
+uhdd	2021-10-30	UHDD ist ein reiner Festplatten-Caching-Treiber fÅr bis zu 22 BIOS-Festplatten auf bis zu 9 Legacy- und Native-PCI-SATA/IDE-Controllern.	18c6e633
+uide	2020-07-07a	Ein universeller Caching-Treiber fÅr DOS-Laufwerke, Disketten, CD/DVD, SATA und UltraDMA-Festplatten.	8ce0e4b3
+usbdos	2010-01-30a	Sammlung von DOS-Treibern fÅr UHCI USB Controller (USB 1.1, 12 Mbit/1.5 Mbit).	47a59627
+xkeyb	1.15a	Tastaturtreiber fÅr internationale UnterstÅtzung. EnthÑlt au·erdem KEYMAN, KLIB, LISTXDEF, SCANKBD.	c1e50ea2

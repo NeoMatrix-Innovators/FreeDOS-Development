@@ -1,0 +1,22 @@
+Begin3
+Title:          FDI Sources
+Version:        1.3
+Entered-date:   2022-02-20
+Description:    The FreeDOS Installer (FDI) source files.
+Keywords:       dos batch
+Author:         Jerome Shidel <jerome _AT_ shidel.net>
+Maintained-by:  Jerome Shidel <jerome _AT_ shidel.net>
+Primary-site:   https://github.com/shidel/FDI
+Original-site:  http://up.lod.bz/FDI/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 1 or later
+CRC:            679abd34
+MD5:            d08dd69e5a5d425cd46ac820bf073a8d
+SHA:            5c941cc648fce09ea38f2597d9a11c9afa7f922485add8f49bc8d9d8ba0b99cc
+Bin-files:      1
+Bin-size:       477
+Source-files:   106
+Source-size:    364396
+Total-files:    107
+Total-size:     364873
+End

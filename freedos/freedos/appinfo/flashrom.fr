@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Flashrom
+Description: Outil universel de sauvegarde/mise … jour du micrologiciel eeprom et bios
+Keywords:    flashrom flash bios firmware uefi efi
+End

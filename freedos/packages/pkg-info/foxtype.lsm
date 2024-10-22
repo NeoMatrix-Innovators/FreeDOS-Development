@@ -1,0 +1,22 @@
+Begin3
+Title:          FoxType
+Version:        0.16a
+Entered-date:   2006-09-28
+Description:    Text file viewer supporting UTF-8
+Keywords:       text, viewer, UTF-8, UTF8, Unicode, DOS
+Author:         Mateusz Viste
+Maintained-by:  Mateusz Viste
+Mirror-site:    http://ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/foxtype.html
+Platforms:      dos
+Copying-policy: GNU General Public License, Version 2
+Summary:        Advanced text file viewer supporting UTF-8
+CRC:            463a0d36
+MD5:            c326375f0d9e3cf6d9724ae1e7cfe206
+SHA:            189c71ac44ca980bffb7c7814f9749d5f12d692d727ce5f15ef4512ff41b6160
+Bin-files:      14
+Bin-size:       5403296
+Source-files:   28
+Source-size:    5590622
+Total-files:    42
+Total-size:     10993918
+End

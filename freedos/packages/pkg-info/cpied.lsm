@@ -1,0 +1,21 @@
+Begin3
+Title:          cpied
+Version:        1.3d
+Entered-date:   2013-08-05
+Description:    GUI-driven CPI font editor
+Keywords:       cpi,cpx,font,editor
+Author:         Balthasar Szczepanski
+defunct-site:   http://baltixy.w.interia.pl/cpied/index.htm
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 3
+Summary:        A GUI-driven CPI font editor.
+CRC:            dce8e6a1
+MD5:            a63cff25262d64804eded94ed436d6d1
+SHA:            6a9016ce304d89e9a943b2012144d34933bf9687f72d3c619f931ac01dbbc470
+Bin-files:      9
+Bin-size:       158457
+Source-files:   4
+Source-size:    81170
+Total-files:    13
+Total-size:     239627
+End

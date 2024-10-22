@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       FindDisk
+Description: petit utilitaire pour localiser un disque par ‚tiquette
+Keywords:    Freedos, disque
+End

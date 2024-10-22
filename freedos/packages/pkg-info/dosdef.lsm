@@ -1,0 +1,23 @@
+Begin3
+Title:          DOS Defender
+Version:        1.00a
+Entered-date:   2018-06-14
+Description:    DOS Defender is an x86 real mode 2D shooter
+Summary:        DOS Defender is an x86 real mode 2D shooter. Since few DOS machines still exist, the target platform is actually DOSBox, though it should work to some extent in other virtual machines. The game can be played with a mouse but it's intended to be played with a joystick/gamepad.
+Keywords:       games
+Author:         skeeto
+Maintained-by:  -
+Primary-site:   https://github.com/skeeto/dosdefender-ld31
+Alternate-site: -
+Platforms:      DOS
+Copying-policy: Public Domain
+CRC:            d61ee06b
+MD5:            f0aafcfd1bdb49f5f6839d4b69fdb36c
+SHA:            067f8cf1f910478642ab2455816eb02fecce538efb8b61a4b39d3ca5453fe9a2
+Bin-files:      6
+Bin-size:       12383
+Source-files:   19
+Source-size:    40946
+Total-files:    25
+Total-size:     53329
+End

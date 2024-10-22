@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       cpied
+Description: un ‚diteur de polices CPI pilot‚ par interface graphique
+Keywords:    cpi,cpx,police,‚diteur
+End

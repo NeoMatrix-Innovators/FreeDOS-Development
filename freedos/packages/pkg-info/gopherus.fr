@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Gopherus
+Description: Navigateur gopher en mode texte
+Keywords:    gopher
+End

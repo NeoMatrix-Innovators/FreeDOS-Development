@@ -1,0 +1,21 @@
+Begin3
+Title:          GCDROM
+Version:        2.4b
+Entered-date:   2019-11-11
+Description:    SATA native IDE CD/DVD-ROM driver
+Keywords:       CD-ROM driver, SATA, driver
+Author:         Jack R. Ellis, marktsai0316 -AT- gmail.com, elvingoh -AT- users.sourceforge.net
+Original-site:  http://sourceforge.net/projects/cdromdosdrv/
+Platforms:      DOS, FreeDOS
+Copying-policy: GNU General Public License, Version 2 or later
+Summary:        SATA native IDE CD/DVD-ROM driver that supports all SATA Native IDE controllers, such as Intel ICH6/ICH7/ICH8, Jmicron 363/368, Nvidia CK804 MCP55/MCP51 etc.
+CRC:            63fb5de0
+MD5:            1f30bdc1846b3fca39a98cbabd8e3dde
+SHA:            432858d5cfd3edc1258ae8b3990d8a139ea8d5ec9808ed6d814160427493860d
+Bin-files:      8
+Bin-size:       6168
+Source-files:   8
+Source-size:    271285
+Total-files:    16
+Total-size:     277453
+End

@@ -1,0 +1,20 @@
+Begin3
+Title:          Floppy Bird
+Version:        1.0a
+Entered-date:   2015-09-15
+Description:    Fly a bird through obstacles by tapping the spacebar on your keyboard.
+Keywords:       games, action
+Author:         Mihail Szabolcs
+Primary-site:   https://github.com/icebreaker/floppybird
+Platforms:      DOS
+Copying-policy: MIT License
+CRC:            ad292fd8
+MD5:            4b43ff9222cef6aa405bf0cc1c339271
+SHA:            cec0aff9535b98299b85a905d9b23c23b2de9596807f552d900771768c4b4b0c
+Bin-files:      9
+Bin-size:       14239
+Source-files:   48
+Source-size:    6350980
+Total-files:    57
+Total-size:     6365219
+End

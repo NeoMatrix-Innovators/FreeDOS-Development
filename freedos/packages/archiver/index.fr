@@ -1,0 +1,12 @@
+FD-REPOv1	Build time: 1645361091	Gestionnaires d'archives	11
+7zdec	17.00 beta (rev A)	extracteur d'archives pour les fichiers .7z	6c57d9b1
+arj	2.78a	Le gestionnaire d'archives ARJ libre.	ed591315
+bz2	1.0.8a	Programme de compression BZIP2	47c8c90c
+cabext	1.8a	CABExtract peut extraire des fichiers de divers formats Microsoft CAB.	357ee2a5
+gzip	1.2.4a	Compression GNU zip  - un outil d'archivage de fichiers, comme PKZIP	5e2d3f37
+lpq1	2a	lpq1 est un compresseur de fichiers et un cr‚ateur d'archives	070fc1b4
+p7zip	4.65a	p7zip est un portage rapide de 7za.exe (version ligne de commande de 7zip). 7-Zip est le gestionnaire d'archives avec le taux de compression le plus ‚lev‚.	81c055e7
+tar	1.12a	Un cr‚ateur d'archives sur bande magn‚tique	f90e739d
+unzip	6.00a	Un outil de d‚compression de fichiers, similaire … PKUNZIP.	0a8a4d72
+zip	3.0	Un outil d'archivage de fichiers, similaire … PKZIP.	7efefc96
+zoo	2.1a	Manipuler les archives zoo.	5948a9c2

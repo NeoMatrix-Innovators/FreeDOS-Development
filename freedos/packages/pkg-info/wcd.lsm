@@ -1,0 +1,24 @@
+Begin3
+Title:          wcd
+Version:        6.0.2a
+Entered-date:   2018-05-10
+Description:    Wherever Change Directory
+Keywords:       chdir, cd, change directory, fast
+Author:         waterlan _AT_ xs4all.nl (Erwin Waterlander)
+Maintained-by:  waterlan _AT_ xs4all.nl (Erwin Waterlander)
+Primary-site:   http://waterlan.home.xs4all.nl/
+Alternate-site: http://sourceforge.net/projects/wcd/
+Original-site:  http://www.xs4all.nl/~waterlan/
+Platforms:      DOS, Windows, Unix
+Copying-policy: GNU General Public License, Version 2
+Summary:        Wherever Change Directory (WCD) 16-bit version for DOS, similar to Norton Change Directory (NCD) with more features.
+CRC:            16fb7a22
+MD5:            640a842cb1396c7068bd588b4226d738
+SHA:            a850740d429ccf3c23da7c7db60c98f999860dfc2a8f5d34565d6699a32b9df3
+Bin-files:      16
+Bin-size:       381435
+Source-files:   152
+Source-size:    3021712
+Total-files:    168
+Total-size:     3403147
+End

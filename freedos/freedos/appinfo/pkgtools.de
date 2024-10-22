@@ -1,0 +1,7 @@
+Begin3
+Language:    DE, 858
+Title:       Package Tools
+Description: Die allgemeinen Wartungsutilities fÅr FreeDOS-Pakete.
+Summary:     Dienstprogramme zum Erstellen und Anzeigen von Informationen Åber installierte FreeDOS-Pakete. Eventuell werden auch noch Dienstprogramme zum Verschieben, Lîschen und DurchfÅhren anderer allgemeiner Paketwartungen hinzugefÅgt werden.
+Keywords:    dos 16 bit, asm, pascal
+End

@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       GNU Chess
+Description: GNU Chess est un programme d'‚checs public. Les contributeurs font don de leur temps et de leurs efforts pour en faire un logiciel plus puissant, meilleur et plus soign‚.
+Keywords:    ‚checs,gnuchess
+End

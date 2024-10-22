@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       HEAD
+Description: affiche une partie d'un fichier
+Keywords:    head
+End

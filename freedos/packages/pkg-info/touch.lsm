@@ -1,0 +1,23 @@
+Begin3
+Title:                 TOUCH
+Version:               1.4.4a
+Updated:               2010-03-31
+Entered-Date:          2012-09-22
+Description:           Set the date + time stamp on a file
+Keywords:              touch, time stamp, unix
+Author:                k -at- heidenstrom.gen.nz
+Mirror-site:           http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/util/file
+Platforms:             DOS (2.0, 8086), FreeDOS
+Copying-policy:        GNU General Public License, Version 2
+Defunct-Original-Site: http://home.clear.net.nz/pages/kheidens/
+Summary:               Set the date + time stamp on a file like *nix "touch"
+CRC:                   b4fc87a3
+MD5:                   408b6265da4b8b26837c98a1acc4cc76
+SHA:                   5a1d747f92ca5e0d69ee01209e35ae9b9acb1dadf4c1a637ea95d7c7c62079af
+Bin-files:             8
+Bin-size:              37132
+Source-files:          7
+Source-size:           91272
+Total-files:           15
+Total-size:            128404
+End

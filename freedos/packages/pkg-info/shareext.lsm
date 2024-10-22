@@ -1,0 +1,19 @@
+Begin3
+Title:          shext
+Version:        2.0a
+Entered-date:   1998-04-15
+Description:    Share Extender
+Keywords:       share extension
+Author:         Gennady S. Kolesnik
+Platforms:      DOS, FreeDOS
+Copying-policy: GNU General Public License, Version 2
+CRC:            d4f54b79
+MD5:            6e11a14fd6d8199a70227b5a537fed94
+SHA:            854474125b8869c2a4b615c88f12800841bed35c649c02db233b31a7ee96c183
+Bin-files:      8
+Bin-size:       40038
+Source-files:   2
+Source-size:    46648
+Total-files:    10
+Total-size:     86686
+End

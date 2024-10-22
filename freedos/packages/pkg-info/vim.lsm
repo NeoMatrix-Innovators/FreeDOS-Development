@@ -1,0 +1,22 @@
+Begin3
+Title:          Vi IMproved (vim)
+Version:        7.3a
+Entered-date:   2017-05-05
+Description:    Improved version of the "vi" editor
+Summary:        Improved version of the "vi" editor, one of the standard text editors on UNIX systems. These are the runtime files for VIM. [GPL-compatible, but asks that if you find it useful you make a donation to help children in Uganda through the ICCF. The full license text can be found in README.txt.] DOS 32-bit only (since 7.1).
+Keywords:       editor, vi, vim
+Author:         Bram Moolenaar <Bram -at- Moolenaar.net>
+Original-site:  http://www.vim.org/
+Platforms:      *nix, Windows, Macintosh, DOS, others
+Copying-policy: Source code available (open)
+CRC:            14cff902
+MD5:            4d7c8101c0743b835c74e1405579ff41
+SHA:            9199184c96a2de6bcd8db902bc3ca2ed433d5ebe7a7a1376baa0d14b76ce7a05
+LFN:            1
+Bin-files:      2882
+Bin-size:       40736466
+Source-files:   421
+Source-size:    9456887
+Total-files:    3303
+Total-size:     50193353
+End

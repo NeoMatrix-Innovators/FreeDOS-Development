@@ -1,0 +1,7 @@
+Begin3
+Language:    DE, 858
+Title:       ListVESA
+Description: Dienstprogramm das meldet, welche VESA-Videomodi unterst》zt werden.
+Summary:     ListVESA ist ein Dienstprogramm, um zu melden, welche VESA-Videomodi von der Systemhardware unterst》zt werden. Sie k馬nen Befehlszeilenoptionen verwenden, um die aufgelisteten Informationen auf einen bestimmten Modus, Modi, die eine bestimmte Farbtiefe unterst》zen, Modi, die linearen Bildpuffer unterst》zen, oder einfach allgemeine Informationen zum Videoadapter selbst ohne detaillierte Bildschirmmodusdaten zuzuschneiden.
+Keywords:    list, mode, VESA, video
+End

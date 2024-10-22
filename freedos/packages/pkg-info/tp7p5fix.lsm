@@ -1,0 +1,26 @@
+Begin3
+Title:                 TP7/P5+ fix
+Version:               1.04
+Entered-date:          2004-06-20
+Description:           TSR to fix runtime error 200 in programs
+Keywords:              DOS, GAME
+Author:                Robert Riebisch and Marek Futrega
+Maintained-by:         Robert Riebisch
+Primary-site:          -
+Alternate-site:        http://www.bttr-software.de/freesoft/system.htm#oldprogs
+Defunct-Original-site: http://www.futrega.org/tp7p5fix.zip
+Mirror-Site:           https://web.archive.org/web/20061215082836/http://www.futrega.org/tp7p5fix.zip
+Platforms:             DOS
+Copying-policy:        GNU LIBRARY GENERAL PUBLIC LICENSE, Version 2
+Modified-date:         2021-11-21.0
+Summary:               TSR to fix runtime error 200 in Turbo Pascal programs at runtime without patching needing to patch the executable.
+CRC:                   222b7ada
+MD5:                   a5429c4697be56ffd992474567371f9b
+SHA:                   cda4cd5664a79461e43d0d5be95e017324f3534df492f321921470b4ff833743
+Bin-files:             10
+Bin-size:              33143
+Source-files:          3
+Source-size:           28830
+Total-files:           13
+Total-size:            61973
+End

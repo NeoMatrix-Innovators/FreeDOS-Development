@@ -1,0 +1,7 @@
+Begin3
+Language:    FR, 850
+Title:       ImgEdit
+Description: diteur simple d?images
+Summary:     Un ‚diteur de pixels essentiellement pour cr‚er des graphiques pour le moteur Danger. PossŠde une prise en charge limit‚e des formats non natifs tels que BMP. · l?heure actuelle, certaines options (comme la taille de l?image) ne peuvent ˆtre d‚finies que depuis la ligne de commande. Comprend ‚galement IMGVIEW, un visionneur simple. N‚cessite 386+, VGA et une souris. (Compress‚ avec UPX)
+Keywords:    dos, jeu, images, sprites, igg, igs, bmp, d‚veloppement, dev
+End

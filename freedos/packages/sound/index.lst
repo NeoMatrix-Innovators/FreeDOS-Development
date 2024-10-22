@@ -1,0 +1,6 @@
+FD-REPOv1	Build time: 1645361091	Sound Tools	5
+adplay	1.6b	Multiple format music player using OPL2/3 audio	1197d98e
+cdp	A4 (rev A)	The command line driven audio CD player	76265c51
+dosmid	0.9.5a	MIDI and MUS player for many synthesizers	a4ba39bd
+mplayer	1.0rc2 (rev A)	A movie player ported from Linux	79c7bf85
+opencp	2.6.0pre6 (rev A)	A multi-format (mp3,wav,mid...) music player	fb37a44c

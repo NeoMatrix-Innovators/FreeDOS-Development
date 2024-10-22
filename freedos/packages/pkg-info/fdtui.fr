@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       FreeDOS TUI Shell
+Description: Shell d'interface utilisateur en mode texte de FreeDOS.
+Keywords:    freedos, shell
+End

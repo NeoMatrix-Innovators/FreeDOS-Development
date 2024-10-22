@@ -1,0 +1,20 @@
+Begin3
+Title:          localcfg
+Version:        0.90a
+Entered-date:   2015-06-02
+Description:    Locales preferences configuration tool
+Keywords:       country.sys
+Author:         Mateusz Viste
+Original-site:  http://localcfg.sourceforge.net
+Platforms:      DOS
+Copying-policy: Simplified (2-Clause) BSD License
+CRC:            18191130
+MD5:            f778888304d85f04d102dc89f137311f
+SHA:            45557289a19296a0d91b3e63b63aa0e86abaaa93ecd7166eb6a50a496c35c263
+Bin-files:      8
+Bin-size:       12120
+Source-files:   7
+Source-size:    33416
+Total-files:    15
+Total-size:     45536
+End

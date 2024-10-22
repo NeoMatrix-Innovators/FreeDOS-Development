@@ -1,0 +1,20 @@
+Begin3
+Title:          Pico
+Version:        3.96a
+Entered-date:   2013-08-17
+Description:    Text editor in the style of the Pine Composer
+Keywords:       editor
+Author:         Michael Seibel, Laurence Lundblade
+Platforms:      DOS
+Copying-policy: GNU General Public License
+Summary:        A simple text editor in the style of the Pine Composer
+CRC:            301fc35c
+MD5:            e3c40938b60cf225986ce6ef01aac51f
+SHA:            7dbcd052b11ba12a5a77073b858aae20e34d181600be22c272e3d88d2722ca4c
+Bin-files:      11
+Bin-size:       251940
+Source-files:   41
+Source-size:    569057
+Total-files:    52
+Total-size:     820997
+End

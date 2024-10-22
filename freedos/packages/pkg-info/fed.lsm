@@ -1,0 +1,22 @@
+Begin3
+Title:          FED
+Version:        2.24c
+Entered-date:   2020-01-16
+Description:    A folding text editor with color syntax highlighting and more
+Keywords:       text, editor
+Author:         Shawn Hargreaves
+Maintained-by:  Robert Riebisch
+Primary-site:   http://www.bttr-software.de/products/fed/
+Original-site:  http://www.shawnhargreaves.com/fed/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+CRC:            a58e4e3b
+MD5:            4d86eac11df746c93020e79a22f5b539
+SHA:            5f28f4fa92fb83a038d8d244486300a3c488d76c3a58f7df7e25b8517b09ec95
+Bin-files:      12
+Bin-size:       157562
+Source-files:   35
+Source-size:    513689
+Total-files:    47
+Total-size:     671251
+End

@@ -1,0 +1,22 @@
+Begin3
+Title:          hexcomp
+Version:        1.0.4a
+Entered-date:   2015-05-13
+Description:    Graphically compares binary files
+Keywords:       hex,compare
+Author:         Maelys McCardle
+Maintained-by:  Mateusz Viste
+Original-site:  http://sourceforge.net/projects/hexcompare/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 3
+Summary:        Graphically compares binary files,
+CRC:            703659ad
+MD5:            d9d7b75d9527243d89fd65487efe388e
+SHA:            406f75827f82c9b535e48e4bf1db8e7daef9af8a745399cdd4e0e0e2c6e5189e
+Bin-files:      7
+Bin-size:       77275
+Source-files:   7
+Source-size:    37618
+Total-files:    14
+Total-size:     114893
+End

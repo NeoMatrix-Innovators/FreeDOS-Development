@@ -1,0 +1,20 @@
+Begin3
+Title:          zoo
+Version:        2.1a
+Entered-date:   2012-09-21
+Description:    Manipulate zoo archives
+Summary:        Manipulate zoo archives.
+Keywords:       zoo
+Author:         Rahul Dhesi
+Platform:       DOS
+Copying-policy: Public Domain
+CRC:            5948a9c2
+MD5:            78b2b46426effe4dd7438add4f5e27f3
+SHA:            5762b111267c8bad9d1fa97865dab0eea6702854342c0606d6339f66ec838973
+Bin-files:      9
+Bin-size:       170059
+Source-files:   90
+Source-size:    559767
+Total-files:    99
+Total-size:     729826
+End

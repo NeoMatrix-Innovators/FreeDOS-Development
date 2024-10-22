@@ -1,0 +1,20 @@
+Begin3
+Title:          VNC Viewer 8086
+Version:        3.3.7a
+Entered-date:   2015-12-01
+Description:    VNC viewer for 8086+, based on Xvncviewer
+Keywords:       VNC, 8086
+Author:         Mateusz Viste
+Primary-site:   http://vncviewer8086.sourceforge.net/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+CRC:            dde4b5b9
+MD5:            3af962840f69e07eda2897702bdd5852
+SHA:            10d52af71c57056ad6c00fd0763b47eee27c4cafd2812ce9dc2c698ecdde92a0
+Bin-files:      8
+Bin-size:       108438
+Source-files:   128
+Source-size:    1198658
+Total-files:    136
+Total-size:     1307096
+End

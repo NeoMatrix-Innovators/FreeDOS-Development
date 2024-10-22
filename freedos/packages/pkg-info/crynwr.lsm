@@ -1,0 +1,21 @@
+Begin3
+Title:          Crynwr
+Version:        2006-09-02c
+Entered-date:   2021-12-30
+Description:    Collection of free packet drivers
+Summary:        A collection of free packet drivers from Crynwr Software.
+Keywords:       packet
+Author:         Crynwr
+Primary-site:   http://crynwr.com
+Platforms:      DOS
+Copying-policy: Open source
+CRC:            e375b46d
+MD5:            50b84ec92248767cde9ec3f35d8900f5
+SHA:            f394ca997b26403dde1dbdc9f003fc0e1dda6c7db020a484d2947dfedf6fa735
+Bin-files:      172
+Bin-size:       1094167
+Source-files:   373
+Source-size:    6420648
+Total-files:    545
+Total-size:     7514815
+End

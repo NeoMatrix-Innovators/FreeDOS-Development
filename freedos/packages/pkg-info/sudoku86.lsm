@@ -1,0 +1,22 @@
+Begin3
+Title:          sudoku86
+Version:        1.0.3a
+Entered-date:   2015-06-13
+Description:    A 16-bit Sudoku game for 8086/8088 CPUs
+Summary:        A 16-bit Sudoku game for 8086/8088 CPUs
+Keywords:       sudoku,games
+Author:         Mateusz Viste
+Maintained-by:  Mateusz Viste
+Original-site:  http://sudoku86.sourceforge.net/
+Platforms:      DOS
+Copying-policy: Simplified (2-Clause) BSD License
+CRC:            9e0d8f33
+MD5:            4469c2c55897f51e21e8dfc906ddbaee
+SHA:            d20b069001aa3210f01e7f8c7de303adbf8db3fd8445406a8d951f4235eb9b01
+Bin-files:      11
+Bin-size:       62461
+Source-files:   46
+Source-size:    281267
+Total-files:    57
+Total-size:     343728
+End

@@ -1,0 +1,29 @@
+FD-REPOv1	Build time: 1645361091	Spiele	28
+bolitare	0.62b	Ein Freecell Klon fÅr DOS.	224feeb6
+boom	2.02a	Ein GPL Port des Doom Quellcodes. Kommt mit FreeDOOM um ein komplettes Spiel zu erhalten.	5dbc91d6
+dosdef	1.00a	DOS Defender ist ein x86-Realmodus-DOS-Spiel fÅr Ludum Dare #31 (Dezember 2014). Da es nur noch wenige DOS-Rechner gibt, ist die Zielplattform eigentlich DOSBox, obwohl sie einigerma·en auf jedem DOS-System funktionieren sollte. Das Spiel kann mit einer Maus gespielt werden, aber es sollte mit einem Joystick/Gamepad gespielt werden.	d61ee06b
+eliza	1.01a	Eine der ersten kÅnstlichen Chatbot-Intelligenzen.	f9850151
+empong	0.91a	Emeritus Pong ist ein Klon des guten alten PONG-Spiels.	52985e35
+ev4de	1.2a	EV4DE (ausgesprochen 'evade') ist ein Spiel, bei dem es darum geht, ein Schiff durch den Weltraum zu fliegen und Asteroiden zu umgehen. Spielen Sie drei verschiedene Spielmodi, schalten Sie zusÑtzliche Schiffe frei und erzielen Sie einen Highscore! EV4DE kann mit einer Tastatur gespielt werden, aber ich empfehle dringend, einen Joystick oder ein Gamepad zu verwenden.	3b6610b9
+ewsnake	0.5a	Ein Klon des klassischen Snake Spiels (auch 'nibbles').	23a4dbe0
+flpybird	1.0a	Floppy Bird ist ein Klon des berÅchtigten Flappy Bird, der in 16-Bit (x86)-Assembly geschrieben wurde. Mit anderen Worten, es funktioniert auf PURER HARDWARE und erfordert kein zugrunde liegendes Betriebssystem, es ist ein eigenes Betriebssystem.	ad292fd8
+fmines	1.00a	Ein Spiel Ñhnlich Minesweeper mit ein paar netten grafischen Themen.	6a56b580
+freedoom	3.30b	SMMU ist ein Doom-Port von MBF und Boom. Dieses Paket kommt mit einer Version von FreeDoom um ein komplettes Spiel zu erhalten.	85fb87e3
+gnuchess	4.0 patch 60 (rev A)	GNU Chess ist ein Schachcomputer. Entwickelt von einer Community um es stÑrker, besser und schlanker zu machen.	46f36a97
+hangman	1.05b	Mehrsprachige Version des Hangman-Spiels.	b173eadd
+ivan	0.50a	Ein grafisches Rogue-Spiel.	4f6b5e97
+kraptor	Apr_2004 (rev A)	Kraptor ist ein OpenSource Raptor Spiel mit vielen Levels.	b36aaf4b
+liquiwar	5.6.3a	Ein einzigartiges Multi-Player Kriegsspiel.	5401d9b0
+mirmagic	2.0.2a	Ein Arcadespiel im Stil von Deflektor (C64) oder Mindbender (Amiga).	94e0c875
+mistral	1.0	Ein rundenbasiertes Retro-RPG (Rollenspiel) zum Thema Spionage fÅr deine klassische Maschine.	beb32643
+nethack	3.4.3a	Ein Single Player Dungeon Spiel.	d104b799
+nge_nibb	0.1.0a	Ein Klon von Nibbles, einem alten Arcade-Spiel.	a2200bf9
+noudar	1.2	Ein First-Person-Dungeon-Crawler, der Software-Rendering und Festkomma-Mathematik verwendet.	f71896d2
+qtetris	1.4.1a	Ein Klon des TETRIS Spiels, gleichzeitig ein Tribut an die Band Queen.	b017ab63
+senet	1.0a	Ein sehr altes Spiel aus dem alten égypten.	3c5bee15
+smiley	2021-11-10 alpha	Ein einfaches Spiel im Stil von Pong (VGA, 386+)	a8feccfa
+sudoku86	1.0.3a	Ein 16bit Sudoku Spiel fÅr DOS auf 8086/8088 CPUs.	9e0d8f33
+vertigo	0.26a	Ein Flugsimulator, der sich darauf konzentriert, mîglich nah an der RealitÑt des Flugmodells zu sein.	10627770
+vitetris	0.55a	Ein textbasierter Tetris Klon.	c303363a
+wing	0.7a	Ein Space-Shooter Ñhnlich Galaga.	31da5be0
+zmiy	0.85.2a	Ein Snake Spiel fÅr DOS (8086, Ñhnlich Nibbles).	1ad03ce9

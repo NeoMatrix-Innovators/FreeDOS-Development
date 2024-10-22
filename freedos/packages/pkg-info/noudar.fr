@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Dungeons of Noudar 3D
+Description: Un jeu d'exploration de donjon Ö la premiäre personne avec un goñt de jeu DOS, Çcrit en in C++14 en utilisant  OpenGL 1.1 ou OpenGL ES 2.0.
+Keywords:    games, rpg
+End

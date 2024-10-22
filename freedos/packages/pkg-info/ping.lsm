@@ -1,0 +1,20 @@
+Begin3
+Title:          ping
+Version:        2.2a
+Entered-date:   2013-06-23
+Description:    The ping internet diagnostic tool.
+Keywords:       ping
+Author:         Erick Engelke
+Platforms:      FreeDOS
+Copying-policy: GNU General Public License
+Summary:        The ping internet diagnostic tool. This version is extracted from the Watt-32 v2.2 suite.
+CRC:            35b92e05
+MD5:            550a8b62b5e02e9e0270a34b01179551
+SHA:            044ce09e78a343d97f7762df7e2c1d247c786d593a448d6c1c2a253e1cb7fcfd
+Bin-files:      6
+Bin-size:       1819219
+Source-files:   2
+Source-size:    8316
+Total-files:    8
+Total-size:     1827535
+End

@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Biew
+Description: Biew est un visionneur/‚diteur binaire/hexad‚cimal. (n‚cessite i686+)
+Keywords:    Biew, binaire, hexad‚cimal, visionneur, ‚diteur
+End

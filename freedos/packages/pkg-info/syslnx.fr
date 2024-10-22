@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Syslinux
+Description: Collection de chargeur d'amoráage Syslinux
+Keywords:    eltorito syslinux memdisk isolinux module chaåne
+End

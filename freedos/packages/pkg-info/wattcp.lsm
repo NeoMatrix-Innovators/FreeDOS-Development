@@ -1,0 +1,19 @@
+Begin3
+Title:          WATTCP
+Version:        2016-05-19a
+Entered-date:   2016-05-19
+Description:    WATTCP
+Keywords:       freedos, curl
+Maintained-by:  Doug Kaufman
+Platforms:      FreeDOS
+Copying-policy: Open source
+CRC:            fa7b5ade
+MD5:            41022ed553345d1ea03992f80deb49ea
+SHA:            699dc3585a5309c4bfd952eb984611218b3e9fcd459295099ba3b837d8a190b9
+Bin-files:      9
+Bin-size:       29294
+Source-files:   84
+Source-size:    411031
+Total-files:    93
+Total-size:     440325
+End

@@ -1,0 +1,18 @@
+Begin3
+Title:          Bolitaire
+Version:        0.62b
+Entered-date:   2015-12-04
+Description:    A Freecell card game
+Author:         Yogesh
+Copying-policy: GNU General Public License, Version 2
+Summary:        A Freecell card game for DOS.
+CRC:            224feeb6
+MD5:            781f5e105de325ae0af1c00d21d4ad62
+SHA:            ee54af558cf1f49292b7ff45576f1a578d76aeeb2bf3eea99fcbd69244cd7da6
+Bin-files:      47
+Bin-size:       1068745
+Source-files:   60
+Source-size:    1207571
+Total-files:    107
+Total-size:     2276316
+End

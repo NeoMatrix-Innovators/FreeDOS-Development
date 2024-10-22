@@ -1,0 +1,24 @@
+Begin3
+Title:          sleep
+Version:        1.0a
+Entered-date:   2000-09-08
+Description:    Similar to the UNIX 'sleep' utility
+Summary:        Similar to the UNIX 'sleep' utility. sleep can be used to suspend execution of batch files for a time. sleep gives up time-slices to operating systems that support it. sleep also recognizes and honours the DOS switchar.
+Keywords:       extension, utility, sleep
+Author:         "Trane Francks" <trane _at_ gol.com>
+Maintained-by:  "Trane Francks" <trane _at_ gol.com>
+Primary-site:   http://www2.gol.com/users/trane/programming/programming.html
+MIrror-site:    http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/util/user/
+Original-site:  http://www2.gol.com/users/trane/programming/programming.html
+Copying-policy: GNU General Public License, Version 2
+Platforms:      DOS, FreeDOS
+CRC:            f1322eee
+MD5:            4f832862a75a232c3b4b4cc9d94bb91b
+SHA:            c9b2bf3077daf0a383e4a405d58abd60196a2f520381606262a047f618bc92e5
+Bin-files:      10
+Bin-size:       27629
+Source-files:   1
+Source-size:    14336
+Total-files:    11
+Total-size:     41965
+End

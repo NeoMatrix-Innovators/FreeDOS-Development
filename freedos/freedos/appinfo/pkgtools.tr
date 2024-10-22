@@ -1,0 +1,7 @@
+Begin3
+Language:    TR, 857
+Title:       Package Tools
+Description: FreeDOS paketleri iáin genel bakçm yardçmcç programlarç
+Summary:     FreeDOS iáin kurulu paketler hakkçnda bilgi oluüturmak ve gîrÅntÅlemek iáin yardçmcç programlar. Daha sonra, paketleri yeniden konumlandçrmak, silmek ve dißer genel paket bakçm iülemlerinin yapmak amacçyla yardçmcç programlar eklenebilecektir.
+Keywords:    dos 16 bit, asm, pascal
+End

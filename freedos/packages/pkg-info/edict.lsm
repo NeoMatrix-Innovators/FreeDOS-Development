@@ -1,0 +1,24 @@
+Begin3
+Title:          EDICT
+Version:        0.10 (BETA) (rev A)
+Entered-date:   2018-01-26
+Description:    Create images of problem diskettes
+Keywords:       dos 16 bit
+Author:         Jerome Shidel <jerome _AT_ shidel.net>
+Maintained-by:  Jerome Shidel <jerome _AT_ shidel.net>
+Primary-site:   http://up.lod.bz/EDICT
+Alternate-site: http://fd.lod.bz/repos/current/pkg-html/edict.html
+Original-site:  http://github.com/shidel/edict
+Platforms:      DOS
+Copying-policy: Simplified (2-Clause) BSD License
+Summary:        Enhanced Disk Image Creation Tool - disk image creation utility for floppy disks with problems
+CRC:            0c2eebaf
+MD5:            38773ed1821bc8ae0ebf0212a28d4a65
+SHA:            e3e5727e57f1dfa8734745cdb6300836ff5957e358bf6467481514cbc1fbcc4e
+Bin-files:      14
+Bin-size:       31856
+Source-files:   21
+Source-size:    103212
+Total-files:    35
+Total-size:     135068
+End

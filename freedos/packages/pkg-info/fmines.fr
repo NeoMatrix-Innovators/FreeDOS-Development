@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       FancyMines
+Description: Un jeu de type mines avec de jolis thämes graphiques.
+Keywords:    mines
+End

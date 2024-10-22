@@ -1,0 +1,12 @@
+FD-REPOv1	Build time: 1645361091	Archivers	11
+7zdec	17.00 beta (rev A)	Standalone decompressor for 7-Zip archives	6c57d9b1
+arj	2.78a	The open-source ARJ archiver	ed591315
+bz2	1.0.8a	BZIP2 compression program	47c8c90c
+cabext	1.8a	Extract files from a variety of CAB formats	357ee2a5
+gzip	1.2.4a	GZip compression program	5e2d3f37
+lpq1	2a	A file compressor and archiver	070fc1b4
+p7zip	4.65a	P7ZIP is a quick port of 7za.exe	81c055e7
+tar	1.12a	A tape archiver	f90e739d
+unzip	6.00a	A file decompression tool, like PKUNZIP	0a8a4d72
+zip	3.0	A file archiver tool, like PKZIP	7efefc96
+zoo	2.1a	Manipulate zoo archives	5948a9c2

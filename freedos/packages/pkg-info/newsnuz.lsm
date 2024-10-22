@@ -1,0 +1,19 @@
+Begin3
+Title:          NewSNUZ
+Version:        0.98a
+Entered-date:   2015-05-28
+Description:    Usenet (NNTP) reader based on WatTCP
+Keywords:       nntp,usenet
+Author:         Doug MacDonald
+Platforms:      DOS
+Copying-policy: Public Domain
+CRC:            21ce4a27
+MD5:            ca88df7562cd977936635d904e3f14ef
+SHA:            05917d7f6e6a26cff68eaba7d23b44c92fada2cf336563d6f8c3ae754eefe3c5
+Bin-files:      7
+Bin-size:       65963
+Source-files:   3
+Source-size:    59718
+Total-files:    10
+Total-size:     125681
+End

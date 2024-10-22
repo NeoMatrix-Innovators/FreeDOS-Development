@@ -1,0 +1,7 @@
+Begin3
+Language:    DE, 858
+Title:       MinEd
+Description: Texteditor mit Unicode und CJK Support. Nette Features zum Editieren von reinen Text Dateien, Programmen, HTML usw. Benutzerfreundliche Oberfl„che, Maus und Mens.
+Summary:     Mined ist ein umfangreicher Text Editor. Mined bietet Unicode und CJK Untersttzung und viele Feature fr Special-Cases, von denen andere Editoren noch nie geh”rt haben. Beispielsweise Auto-Erkennung, Handling verschiedener Terminals und Han-Support. Er war der erste Editor, der Unicode in einem Nur-Text-Terminal untersttzt hatte (z.B. Xterm oder rxvt).
+Keywords:    edit, editor, unicode, codepage, encoding
+End

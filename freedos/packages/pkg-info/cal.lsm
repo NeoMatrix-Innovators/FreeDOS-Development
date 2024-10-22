@@ -1,0 +1,21 @@
+Begin3
+Title:          cal
+Version:        1.07a
+Entered-date:   2008-09-30
+Description:    Calendar program, similar to UNIX 'cal'
+Keywords:       freedos
+Author:         Charles Dye
+Maintained-by:  Charles Dye
+Platforms:      dos
+Copying-policy: Freeware with source
+Summary:        Calendar program, similar to the UNIX 'cal' program.
+CRC:            25b7be9c
+MD5:            abd8bfeb2b7dc764fae6a8fbd0c06ae9
+SHA:            5bd26c15e5a59da539bcef6a4a8eb487d82718f40aa5d6831c6d967e3017e7e8
+Bin-files:      7
+Bin-size:       2670
+Source-files:   1
+Source-size:    21197
+Total-files:    8
+Total-size:     23867
+End

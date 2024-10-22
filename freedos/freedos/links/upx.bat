@@ -1,0 +1,1 @@
+devel\upx\upx.exe

@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       TP7/P5+ fix
+Description: TSR (programme r‚sident) permettant de corriger l?erreur runtime 200 dans les programmes Turbo Pascal au moment de l?ex‚cution sans avoir besoin d?appliquer une rustine sur l?ex‚cutable.
+Keywords:    DOS, JEU
+End

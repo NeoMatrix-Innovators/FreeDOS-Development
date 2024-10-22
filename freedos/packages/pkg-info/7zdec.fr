@@ -1,0 +1,7 @@
+Begin3
+Language:    FR, 850
+Title:       7zdec
+Description: extracteur d'archives pour les fichiers .7z
+Summary:     petit d‚compresseur autonome pour archives 7-Zip (avec sources ANSI C)
+Keywords:    7z, 7zdec, 7zdecode, gestionnaires d'archives
+End

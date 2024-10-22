@@ -1,0 +1,6 @@
+Begin3
+Language:    DE, 858
+Title:       GNU grep
+Description: Grep durchsucht Dateien (oder stdin) nach Zeilen, die  einem vorgegebenen Muster entsprechen. Das Muster kann ein regul„rer Ausdruck oder eine literale Zeichenfolge sein.
+Keywords:    grep,pattern
+End

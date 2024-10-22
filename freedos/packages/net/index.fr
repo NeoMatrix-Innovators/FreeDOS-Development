@@ -1,0 +1,32 @@
+FD-REPOv1	Build time: 1645361091	R‚seau	31
+arachne	1.99	Un navigateur web pour DOS (versions 8086 & i386)	fa0d73e3
+crynwr	2006-09-02c	Une collection de pilotes de paquets libres de l'entreprise Crynwr	e375b46d
+curl	7.77.0	Curl est un outil en ligne de commande pour transf‚rer des donn‚es sp‚cifi‚es avec la syntaxe de l'URL.	e0b7c5a1
+dillo	3.0p9a (rev B)	Navigateur Web graphique connu pour sa rapidit‚ et son faible encombrement.	df849702
+dwol	1.0a	Petit utilitaire qui calcule et envoie les paquets 'wake-on-lan'	322dfd21
+e1000pkt	February 1, 2007 (rev A)	Pilote de paquets pour les adaptateurs Intel(R) PRO/1000, par exemple les contr“leurs Ethernet bas‚s sur 82544, 82540, 82545, 82541, et 82547.	806489aa
+e100pkt	0.2a	Pilote de paquets pour DOS	141af3c6
+etherdfs	0.8.2a	SystŠme de fichiers DOS Ethernet (mappe un lecteur distant sur Ethernet brut)	2c7e5118
+ethtools	8feb2010 (rev A)	Une collection d'outils de diagnostic pour les r‚seaux Ethernet. Compil‚ avec la pile WatTCP. Comprend ETHWHAT, WWWATCH, ETHSEND, ETHDUMP, ETHWATCH, ETHSHOW,	fde3a0c2
+fdnet	2022-01-11	Paquet de prise en charge du r‚seau basique pour FreeDOS. (fond‚ sur MetaDOS de Rugxulo)	6650e592
+gopherus	1.2a	Navigateur gopher en mode texte	bbe5c905
+htget	1.06a	HTGET est un gestionnaire de fichiers qui r‚cup‚rera des fichiers … partir de serveurs HTTP.	2155309a
+links	2.25	Links est un navigateur WWW textuel et graphique similaire … Lynx.	581cb740
+lsppp	1.0	Un petit pilote de paquet PPP pour DOS	20c6a2b7
+lynx	2.9.0-dev.10r2	Navigateur WWW textuel et graphique Lynx (portage DJGPP)	958baffb
+m2wat	0.1a	Utilitaire pour transf‚rer les r‚glages de MTCP.CFG vers WATTCP.CFG.	d6568304
+mskermit	3.16a	Suite de communication suite par l'Universit‚ de Columbia.	0b7491f9
+mtcp	2020-03-07	Collection d'outils TCP/IP  pour DOS 16 bits : DHCP, IRC, FTP, Telnet, Netcat, HTGet, Ping, SNTP	6c876606
+newsnuz	0.98a	Lecteur Usenet (NNTP) bas‚ sur WatTCP	21ce4a27
+ntool	1.5a	NTOOL est simplement une autre incarnation du c‚lŠbre programme NETCAT, bas‚e sur la pile WatTCP.	e6f4a6db
+picosntp	0.9.1a	Client SNTP pour DOS, bas‚ sur picoTCP	fd13e8eb
+picotcp	20151119a	Pile de r‚seau picoTCP (librairie et outils de configuration)	63458220
+ping	2.2a	L'outil de diagnostic Internet ping. Cette version est extraite de la suite Watt-32 v2.2.	35b92e05
+rsync	2.2.5a	rsync est un utilitaire qui synchronise les fichiers et les r‚pertoires d'un emplacement … un autre tout en minimisant le transfert de donn‚es en utilisant le codage delta, le cas ‚ch‚ant. Ce portage rsync est n‚cessairement un sous-ensemble du rsync complet, en partie … cause des limitations de m‚moire et en partie … cause des particularit‚s de DOS. Les principales diff‚rences sont les suivantes : client uniquement ; aucun support pour rsh ou ssh ; les noms de fichiers sur le serveur doivent ˆtre au format DOS ; les donn‚es de fichier ne sont pas compress‚es.	2ae9d57f
+ssh2dos	0.2.1a	Client SSH pour le protocole SSH v. 2.0. Contient ‚galement SCP, SFTP et telnet dans les versions 8086 et 386.	8b129854
+sshdos	0.95a	Client SSH pour DOS. Contient ‚galement SSH, SCP et SFTP dans les versions 8086 et 386.	84b2ae5a
+terminal	3.2a	Un petit terminal vt100/ansi pour tous les PC	85f77c4a
+vmsmount	0.5c	Une redirection DOS pour monter les dossiers partag‚s Vmware	9cf80608
+vncview	3.3.7a	Visionneur VNC pour 8086+, bas‚ sur Xvncviewer	dde4b5b9
+wattcp	2016-05-19a	WATTCP	fa7b5ade
+wget	1.11.2a	L'outil de t‚l‚chargement non interactif.	1598769b

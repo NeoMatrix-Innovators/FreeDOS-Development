@@ -1,0 +1,22 @@
+Begin3
+Title:          MPlayer
+Version:        1.0rc2 (rev A)
+Entered-date:   2013-02-01
+Description:    A movie player ported from Linux
+Keywords:       multimedia,video,player
+Primary-site:   http://ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/mplayer.html
+Original-site:  http://mplayerhq.hu/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        MPlayer is a movie player ported from Linux.
+CRC:            79c7bf85
+MD5:            8601082219f9b34f0cea9c9044f0a15d
+SHA:            6c01a97a287afaddd2fe55db6265cae488be3f77c90e6dd6234c04f6bd79a16e
+LFN:            1
+Bin-files:      1073
+Bin-size:       21809115
+Source-files:   3161
+Source-size:    49656723
+Total-files:    4234
+Total-size:     71465838
+End

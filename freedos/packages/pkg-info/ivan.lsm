@@ -1,0 +1,20 @@
+Begin3
+Title:          Iter Vehems ad Necem
+Version:        0.50a
+Entered-date:   2013-12-17
+Description:    A graphical rogue-like game
+Author:         Timo Kiviluoto
+Primary-site:   http://ivan.sourceforge.net
+Platforms:      DOS, Windows
+Copying-policy: GNU General Public License, Version 2
+Summary:        A graphical rogue-like game.
+CRC:            4f6b5e97
+MD5:            bedbd9f8b6c981295f221034431e1be5
+SHA:            e6d8acd2e2a438cb1cc2a0cf0a2b09db9857c8e5376bc50673b42b67c71ae03c
+Bin-files:      34
+Bin-size:       3660121
+Source-files:   217
+Source-size:    3212103
+Total-files:    251
+Total-size:     6872224
+End

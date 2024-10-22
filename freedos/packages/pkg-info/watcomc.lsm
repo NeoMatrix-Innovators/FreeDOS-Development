@@ -1,0 +1,20 @@
+Begin3
+Title:          Open Watcom C Compiler
+Version:        1.9
+Entered-date:   2014-07-27
+Description:    Open Watcom C/C++ compiler
+Keywords:       watcom, c, compiler
+Primary-site:   http://www.openwatcom.org
+Original-site:  http://www.openwatcom.org
+Platforms:      DOS
+Copying-policy: Sybase Open Watcom Public License, Version 1.0
+CRC:            9c22f267
+MD5:            d1497f9fdf8b12f680aa7712eeed46f2
+SHA:            d2f8f665cc1a6cf55c2d5a787f6df9fc6aa610eb5856f84d12bbeba7bda1ce8c
+Bin-files:      3003
+Bin-size:       104563127
+Source-files:   0
+Source-size:    0
+Total-files:    3003
+Total-size:     104563127
+End

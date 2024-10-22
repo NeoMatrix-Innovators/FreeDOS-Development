@@ -1,0 +1,7 @@
+FD-REPOv1	Build time: 1645361091	Development	6
+bcc	0.16.10a	Simple C compiler that produces 8086 assembler for tiny/small models.	7bed01aa
+fpc	3.2.2	Pascal compiler supporting Turbo and Delphi dialects. (Portions require LFN Support)	1bb88014
+kittenc	2021-08-01	Catgets/kittengets compatible resource compiler	c4fbf05d
+nasm	2.15.05a	The Netwide Assembler (NASM)	b33948e8
+upx	3.96a	High-performance executable packer	be14f7f2
+watcomc	1.9	Open Watcom C/C++ compiler	9c22f267

@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Wget
+Description: L'outil de t‚l‚chargement non interactif.
+Keywords:    freedos, wget
+End

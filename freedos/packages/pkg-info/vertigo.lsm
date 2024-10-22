@@ -1,0 +1,20 @@
+Begin3
+Title:          Vertigo
+Version:        0.26a
+Entered-date:   2013-12-07
+Description:    Flight simulator that focuses on realism of the flight model
+Author:         Anton Norup Sorensen
+Primary-site:   http://stjerneskud.info/vertigo
+Platforms:      DOS, GNU/Linux, BeOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        A flight simulator that focuses on realism of the flight model.
+CRC:            10627770
+MD5:            49935b1ea23982986fbd3e7869f328f2
+SHA:            8996d6c8ee0fc6e9065b0a5c368d02e6c1eca318b949caad348bb653c867dff4
+Bin-files:      83
+Bin-size:       3247941
+Source-files:   191
+Source-size:    4173563
+Total-files:    274
+Total-size:     7421504
+End

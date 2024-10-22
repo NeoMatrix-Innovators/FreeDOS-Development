@@ -1,0 +1,23 @@
+Begin3
+Title:          DWOL
+Version:        1.0a
+Entered-date:   2017-03-19
+Description:    Compute and send "wake-on-lan" packets
+Summary:        A tiny tool that computes and sends "wake-on-lan" packets
+Keywords:       dos net
+Author:         Mateusz Viste
+Maintained-by:  Mateusz Viste
+Primary-site:   http://dwol.sourceforge.net
+Original-site:  http://dwol.sourceforge.net
+Platforms:      DOS
+Copying-policy: MIT License
+CRC:            322dfd21
+MD5:            6f2286ca3abdbe70ad185913122a9d39
+SHA:            c53d502bfbc4b3e05d4b37300578130d9ce56a8973d47bee4115e480e0537592
+Bin-files:      7
+Bin-size:       4624
+Source-files:   1
+Source-size:    8696
+Total-files:    8
+Total-size:     13320
+End

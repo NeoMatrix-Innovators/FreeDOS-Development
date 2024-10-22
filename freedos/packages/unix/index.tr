@@ -1,0 +1,17 @@
+FD-REPOv1	Build time: 1645361091	Unix Araálarç	16
+cal	1.07a	UNIX 'cal' gibi bir takvim programç	25b7be9c
+du	1.0a	UNIX 'du' gibi disk kullançmçnç gîrÅntÅle	b7833017
+gnubc	1.02a	bc keyfi bir hassas sayçsal iülem dilidir. Sîzdizimi C'ye benzer, ancak biráok înemli alanda farklçlçk gîsterir. òfadelerin etkileüimli yÅrÅtÅlmesini destekler. bc, POSIX P1003.2 / D11 taslak standardçnda bulunan bir yardçmcç programdçr.	be361cdb
+gnused	4.2.2a	GNU sed, POSIX akçm dÅzenleyicisi 'sed'in GNU uygulamasçdçr.	f8b2f576
+grep	2.0a	grep, belirli bir desenle eüleüen satçrlarç dosyalarda (veya standart girdide) arar. Desen dÅzenli bir ifade veya dÅz bir dize olabilir.	1831fda3
+head	1.0a	Bir dosyançn paráasçnç gîrÅntÅler	c10358ad
+less	291a	less, more'a benzer bir programdçr, ancak ileriye doßru hareketin yanç sçra dosyada geriye doßru harekete izin verir. Ayrçca, less baülamadan înce giriü dosyasçnçn tamamçnç okumak zorunda kalmaz, bu nedenle bÅyÅk giriü dosyalarç ile vi gibi metin dÅzenleyicilerinden daha hçzlç baülar.	6536b9c0
+md5sum	3.0a	MD5 saßlama hesaplayçcçsç	71586e3c
+nro	1.2a	UNIX Åzerinde nroff'a benzer bir metin iüleyicisi	b9ece9dd
+sleep	1.0a	sleep, aynç ismi taüçyan UNIX yardçmcç programçna benzer. sleep, toplu iü (batch) dosyalarçnçn áalçütçrçlmasçnç bir sÅre askçya almak iáin kullançlabilir. sleep, onu destekleyen iületim sistemlerine zaman dilimleri verir. sleep ayrçca DOS switchar'ç tançr ve destekler.	f1322eee
+tee	2.0.3a	Bir kopyasçnç stdout'a yazdçrçrken, giriüinin bir kopyasçnç bir dosyaya kaydeder	dc1ecfcf
+touch	1.4.4a	*nix 'touch' ile yapçldçßç gibi bir dosyançn tarih + saat damgasçnç ayarlayçn	b4fc87a3
+trch	3.1g	Karakter áevirir. Bu, UNIX2DOS programçydç, ancak karakterleri áevirmek sizin iáin daha fazlasçnç yapabilir. [UNIX 'tr' programçna benzer, ama aynçsç deßildir. (GNU LGPL Cats programçnç iáerir)	4b117090
+uptimec	2.60a	DOSEmu iáinde bile áalçüma sÅresini raporlar. UNIX 'uptime' programçna benzer.	55e9c9c4
+which	2.1a	which kullançcçlarçn, PATH ortam deßiükeninde listelenen dizinlerde yÅrÅtÅlebilir dosyalarç bulmasçnç saßlayan UNIX dÅnyasçnda doßmuü bir yardçmcç programdçr. Tam joker desteßi, gîreli yol adlarç, isteße baßlç dosya ayrçntçlarç (boyut, tarih) mevcuttur. Kullançcç tançmlç program uzantçlarç, doßru kod sayfasç zaman/tarih biáimini de destekler. Yeni DOS switchar desteßi de iáerir.	0a9c224b
+xgrep	1.03a	DÅzenli ifadeleri destekleyen hçzlç UNIX benzeri 'grep' klonu	6801a74d

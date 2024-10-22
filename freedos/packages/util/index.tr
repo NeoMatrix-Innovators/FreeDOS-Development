@@ -1,0 +1,57 @@
+FD-REPOv1	Build time: 1645361091	˜zlenceler	56
+aefdisk	1.0a	DOS i‡in komut satr arayzl disk b”lmleme yardmc program (Open Watcom i‡in taŸnmŸtr)	fe87ee00
+ambread	20201223	Ancient Machine Book bi‡imi g”rntleyicisi	3845698b
+ansimat	0.93a	ANSiMat, ANSI dosyalar i‡in grafik bir g”rntleyicidir. ANSI dosyalarn alŸlagelmiŸ (BMP/PCX/PPM/TGA/TIF) grafik dosyalarna veya FLC (FLiC) canlandrmalarna d”nŸtrmek i‡in de kullanlabilir.	0fd59a47
+b64	0.06R (rev A)	RFC1113 tarafndan tanmlanan Base64 ˜‡erik-Aktarm-Kodlamas standardn uygulayan yardmc program.	f940dfeb
+bmp2png	1.62a	BMP resimleri PNG bi‡imine (ve tersine) de§iŸtirmeye imkƒn sa§layan komut satr arac	0f396f96
+bootfix	1.4a	Bootfix, bir ”nykleme sekt”r snama ve dzeltme aracdr.	d409f0e6
+bsum	1.1a	Dosyalarn BSD sa§lamalarn hesaplar	2c81e33a
+callver	2007-08-19a	Bir program ‡alŸtrrken DOS srmn belirler.	b1fd312f
+cdrom2ui	2003-11-16a	Src harfi ile se‡ilmiŸ herhangi bir CD-ROM'u ‡kartmak, par‡ay kapatmak, kilitlemek, kilidi a‡mak veya sfrlamak i‡in k‡k bir ara‡.	0ca5a9dd
+cpied	1.3d	Grafik arayzl CPI yaztipi dzenleyicisi	dce8e6a1
+cwsdpmi	7a	DJGPP i‡in tasarlanmŸ 32-bit DPMI DOS geniŸleticisi.	68000114
+dialog	1.1-20080819a	Kabuk betiklerinde diyalog kutular g”rntle	5c966da5
+dog	0.8.3c	Alternatif bir command.com kabu§u, FreeCOM'a benzer ama farkldr.	9b0fc76a
+dos32a	9.1.2a	DOS/32A, bir DOS geniŸleticisidir.	1f6e8894
+dosfsck	2.11d	PC/MS-DOS dosya sistemlerinin tutarll§n kontrol eder ve iste§e ba§l olarak bunlar onarmaya ‡alŸr.	597867a7
+dosutil	2012a	Batch dosyalar i‡in k‡k yardmc programlar koleksiyonu	2d651e83
+edict	0.10 (BETA) (rev A)	GeliŸtirilmiŸ disk kalb oluŸturma arac ya da Enhanced Disk Image Creation Tool - sorunlu disketler i‡in disk kalb oluŸturma yardmc program	0c2eebaf
+fdnpkg	0.99.7a	FreeDOS i‡in a§ destekli bir paket y”neticisi	852ca0c0
+finddisk	2005-03-23a	Bir diski etiketiyle bulmak i‡in k‡k bir yardmc program	ba1f7c50
+flashrom	0.9.4(-revision 1495) (rev A)	Evrensel eeprom firmware ve bios kaydetme/gncelleme arac	eecd8007
+foxcalc	0.92a	Gzel bir hesap makinesi. Metin Kullanc Arayz (TUI) ve fare deste§i bulunur.	847cedc6
+foxtype	0.16a	GeliŸmiŸ, UTF-8 destekli metin dosyas g”rntleyicisi	463a0d36
+gnuchcp	1.0b	LOADFONT (GNUCHCP), metin kipinde ekrandaki EGA/VGA bitmap yaztipini de§iŸtirir.	f2bfcc3a
+gnufonts	1.0a	Metin kipleri i‡in LOADFONT (GNUCHCP) ham EGA/VGA bitmap yaz tipleri.	7552f3fd
+hexcomp	1.0.4a	˜kili dosyalar grafik olarak karŸlaŸtrr	703659ad
+listpci	1.02	PCI cihazlar hakknda bilgi g”rntler	5cccd490
+listvesa	1.01	Hangi VESA video kiplerinin desteklendiklerini raporlayan yarmc program	77f6a43e
+localcfg	0.90a	YerelleŸtirme tercihleri yaplandrma arac	18191130
+localize	1.00a	Metinleri tercme eder	9e837051
+memteste	2003a	MEMTESTE, Intel 386 veya daha g‡l yongalar zerine kurulu PC uyumlu bilgisayarlarn DRAM (ana belle§ini) denemek i‡in bir programdr.	45a0cce1
+ospimg	1.4a	Disket kalplar okumak ve yazmak i‡in bir yardmc program	e4cecfa1
+part	2.37a	Partition Manager Ÿunlar yapabilir: Ana ™nykleme Kaydn kaydedebilir ve geri ykleyebilir; B”lmler oluŸturabilir ve silebilir; Sabit disklerin IDE bilgilerini g”rntleyebilir; FAT-16 ve FAT-32 dosya sistemlerini bi‡imlendirebilir ve yeniden boyutlandrabilir; GeliŸmiŸ ™nykleme Y”neticileri ile birlikte gelir.	030a698e
+pcisleep	12 mar 2005 (rev A)	PCISLEEP, PCI kartlarn listeler ve uykuya alr.	c23acedd
+pdtree	1.02-1a	Bir src veya yolun dizin yapsn grafik olarak g”rntler. Uzun dosya isimlerini LFN API's bulunuyorsa destekler, cats kullanarak mesaj kataloglarn (de§iŸik dilleri) destekler ve hem Windows NT/9x hem de DOS'u destekler.	9f5b0a7c
+pg	1.16a	Bir metin dosyasnn i‡eri§ini sayfa sayfa g”rntler	3fe5e511
+pkgtools	2021-12-31	FreeDOS paketleri i‡in genel bakm yardmc programlar	ea34f091
+raread	1.1a	Bir disket i‡in kalb okur (ki bu kalp RAWRITE kullanlarak yazlabilir). Disk kalplar oluŸturmak i‡in kullanŸldr.	f274d322
+rawrite	1.3a	Disk dosyasn ham diskete yaz	68f5edcd
+rcal	1.0a	'ka§t rulolu' hesap makinelerini taklit eden kayan noktaya sahip byk say hesaplaycs. 8086+	3aa4c8ab
+search	1.0a	Bilgisayarnzdaki dosyalar bulur	788d1840
+setlock	1.0a	Caps Lock, Num Lock ve Scroll Lock tuŸlarn yazlmdan ayarlayn	8119cad8
+slowdown	3.10a	Hzl bir bilgisayar yavaŸlatr. Speed, tamamen komut satrndan veya ksayol tuŸlar ile yaplandrlabilir. Bilgisayar yavaŸlatmak i‡in ‡eŸitli de§iŸik 'metotlar' veya 'kipleri' bulunur.	05cc2a16
+stamp	2.0a	Dosyalarn zaman damgalarn ayarlayn, g”rntleyin ve filtreleyin	00deaaff
+switchar	1.0a	DOS switchar'n g”rntleyin ve ayarlayn	3586ba66
+testdisk	7.1a	Testdisk disklerin b”lmlerini/”nykleyicilerini kontrol eder; Photorec bir‡ok veri trn kurtarr	e796f84e
+topspin	3a	Kullanclarn hi‡biri yokken 'entegre' ortamlar oluŸturmalarna izin veren men yorumlayc bir program.	606ba79c
+tp7p5fix	1.04	Turbo Pacal programlarnda runtime 200 hatasn iŸleyiŸ esnasnda ‡alŸtrlabilir dosyay yamalamaya gerek olmadan gidermeye yarayan TSR (yerleŸik program).	222b7ada
+unrtf	0.21.5a	RTF bi‡imindeki belgeleri baŸka bi‡imlere (html, latex, txt...) d”nŸtrr	0fc20871
+utf8tocp	0.9.2a	UTF-8 metin dosyalarn farkl kod sayfalarna d”nŸtrr, bu d”nŸtrmeyi ters y”nde de yapabilir	281792ca
+v8power	22.02.07	DOS i‡in metin kullanc arabirimi ve di§er iŸlevleri sa§layan bir dizi toplu iŸ (batch) dosyas geliŸtirme arac	50f478fc
+wcd	6.0.2a	Wherever Change Directory (WCD) 16 bit DOS srm, daha fazla iŸlevi bulunan Norton Change Directory (NCD, Norton Dizin De§iŸtirici) klonu.	16fb7a22
+wde	3.0c	Wde, bir disk dzenleyicisidir.	b3285ecd
+whichfat	2003-11-24a	FAT32 ‡ekirdek deste§i alglama ve src baŸna FAT (12-32) tipi alglama	3963ec2f
+wptail	0.52.10a	TUI diyalog kutular ile formlar oluŸturun ve libnewt kullanarak kullanc girdisini toplayn	b1c631ab
+xdel	2.06a	GeniŸletilmiŸ dosya silme, DR-DOS gibi	4e7cd24c
+zerofill	1.05a	Bir diskteki boŸ alan sfrlar ile doldurur.	435c4521

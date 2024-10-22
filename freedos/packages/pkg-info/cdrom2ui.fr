@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       cdrom2ui
+Description: Petit outil pour ‚jecter, fermer un morceau, verrouiller, enlever le verrou ou remettre … z‚ro tout CD-ROM, s‚lectionn‚ par la lettre du lecteur.
+Keywords:    freedos, cd-rom
+End

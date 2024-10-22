@@ -1,0 +1,23 @@
+Begin3
+Title:                 DU
+Version:               1.0a
+Entered-date:          1994-05-13
+Description:           Display disk usage, similar to UNIX 'du'
+Keywords:              du, display disk usage
+Author:                minyard _AT_ mindspring.com
+Maintained-by:         minyard _AT_ mindspring.com
+Platforms:             DOS, FreeDOS
+Copying-policy:        GNU General Public License, Version 2
+Defunct-Original-Site: http://www.mindspring.com/~minyard/software.html
+Defunct-Primary-Site:  http://www.mindspring.com/~minyard/software.html
+Summary:               Displays disk usage, similar to UNIX 'du'
+CRC:                   b7833017
+MD5:                   b69e3ab0a6b259168121128b8f0e0cab
+SHA:                   34f90f448e33ed8b1d786f05041aacf75a6ae2e2e075567a8128418f95a2a93c
+Bin-files:             6
+Bin-size:              17332
+Source-files:          1
+Source-size:           3618
+Total-files:           7
+Total-size:            20950
+End

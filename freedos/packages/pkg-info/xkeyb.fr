@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       xkeyb
+Description: Pilote de clavier pour la prise en charge du support international. Comprend ‚galement KEYMAN + KLIB + LISTXDEF + SCANKBD
+Keywords:    keyb, clavier, pilote
+End

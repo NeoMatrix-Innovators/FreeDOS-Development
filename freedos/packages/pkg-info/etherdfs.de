@@ -1,0 +1,7 @@
+Begin3
+Language:    DE, 858
+Title:       ETHERDFS
+Description: Ethernet-DOS-Dateisystem (mapt ein Remote-Laufwerk Åber pures Ethernet).
+Summary:     EtherDFS ist ein 'installierbares Dateisystem' TSR fÅr DOS. Es ordnet ein Laufwerk von einem Remote-Computer (normalerweise Linux-basiert) einem lokalen Laufwerksbuchstaben zu, wobei Raw-Ethernet-Frames zur Kommunikation verwendet werden. Jahrelang habe ich LapLink verwendet, um Dateien zwischen meinen verschiedenen 'Retro'-Computern zu Åbertragen. Es funktioniert, ja, aber es ist auch Ñrgerlich langsam und erfordert stÑndige Aufmerksamkeit. Eines Tages dachte ich: 'WÑre es nicht erstaunlich, wenn alle meine DOS-PCs ein gemeinsames Netzlaufwerk teilen kînnten, Ñhnlich wie NFS in der *nix-Welt funktioniert?'. An diesem Tag wurde EtherDFS geboren. Ich habe eindeutig nichts erfunden - das Konzept gibt es fast so lange wie den ersten IBM-PC, und in der Vergangenheit haben mehrere kommerzielle Produkte diesem Bedarf Rechnung getragen. Mir ist jedoch keine kostenlose und quelloffene Lîsung bekannt. Au·erdem mÅssen alle kommerziellen Lîsungen, die ich kenne, zuerst eine ziemlich komplexe Netzwerkumgebung einrichten, wÑhrend EtherDFS nicht mehr als nur einen Pakettreiber benîtigt.
+Keywords:    etherdfs
+End

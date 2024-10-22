@@ -1,0 +1,19 @@
+Begin3
+Title:          Eliza
+Version:        1.01a
+Entered-date:   2015-08-26
+Description:    One of the earliest AI chatterbots
+Author:         Michael Day
+Platforms:      DOS
+Copying-policy: Public Domain
+Summary:        One of the earliest computer chatterbots AI
+CRC:            f9850151
+MD5:            809de3e3a3b983e48d0f4b7fc4155a88
+SHA:            3e8402ace10de9de18b3727e92e8e3c52b3388673f9647b9c935cc75b3bbf4ae
+Bin-files:      8
+Bin-size:       11149
+Source-files:   4
+Source-size:    21241
+Total-files:    12
+Total-size:     32390
+End

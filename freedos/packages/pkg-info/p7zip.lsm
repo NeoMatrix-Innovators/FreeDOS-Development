@@ -1,0 +1,23 @@
+Begin3
+Title:          7-ZIP
+Version:        4.65a
+Entered-date:   2012-09-25
+Description:    P7ZIP is a quick port of 7za.exe
+Keywords:       7zip, p7zip, compression, zip, unzip, arj
+Author:         Igor Pavlov
+Maintained-by:  Igor Pavlov
+Primary-site:   http://sourceforge.net/projects/p7zip
+Original-site:  http://www.7-zip.org/
+Platforms:      DOS
+Copying-policy: GNU Lesser General Public License, Version 2.1
+Summary:        P7ZIP is a quick port of 7za.exe (command line version of 7zip). 7-Zip is a file archiver with the highest compression ratios.
+CRC:            81c055e7
+MD5:            a5069ff52ba8d8be7e78648f7998e0d2
+SHA:            faaee86103231eebbd127e42f19e926103e53f8a6849a69645c8d7a5c6437d17
+Bin-files:      58
+Bin-size:       1839283
+Source-files:   1755
+Source-size:    19102425
+Total-files:    1813
+Total-size:     20941708
+End

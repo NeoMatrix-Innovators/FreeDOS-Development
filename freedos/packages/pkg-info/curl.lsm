@@ -1,0 +1,24 @@
+Begin3
+Title:          cURL
+Version:        7.77.0
+Entered-date:   2021-05-27
+Description:    Command line tool for transferring data
+Keywords:       freedos, curl
+Maintained-by:  Michael Kostylev
+Primary-Site:   https://github.com/curl/
+original-site:  http://curl.haxx.se http://curl.se
+Alternate-site: http://mik.dyndns.pro/dos-stuff/bin/
+Platforms:      FreeDOS
+Copying-policy: Open source
+Summary:        Curl is a command line tool for transferring data specified with URL syntax.
+CRC:            e0b7c5a1
+MD5:            5c4a5fd10e87443340d42d359a2ea412
+SHA:            5a5499a9a584fd835110488c9e5d623dd30dbf5e36ed660abc4e4bf8f4c4e264
+LFN:            1
+Bin-files:      45
+Bin-size:       3229130
+Source-files:   3390
+Source-size:    16699389
+Total-files:    3435
+Total-size:     19928519
+End

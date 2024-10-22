@@ -1,0 +1,22 @@
+Begin3
+Title:          raread
+Version:        1.1a
+Entered-date:   2001-08-10
+Description:    Creates an image of a floppy diskette
+Keywords:       raw, read, floppy, image
+Author:         Brian E. Reifsnyder (reifsnyderb _at_ mindspring.com)
+Maintained-by:  Brian E. Reifsnyder (reifsnyderb _at_ mindspring.com)
+defunct-site:   http://www.fdos.org/ripcord/rawrite/
+Platforms:      DOS, FreeDOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        Reads the image for a floppy disk (that can be written using RAWRITE). Useful for creating disk images.
+CRC:            f274d322
+MD5:            10c026c1f18275d46ed74d1789d82406
+SHA:            6150a0c4db57f1356ba0218604359d4de728c8102578348bde3de9b06a2799a0
+Bin-files:      6
+Bin-size:       8802
+Source-files:   9
+Source-size:    15782
+Total-files:    15
+Total-size:     24584
+End

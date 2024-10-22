@@ -1,0 +1,24 @@
+Begin3
+Title:          NGE Nibbles
+Version:        0.1.0a
+Entered-date:   2013-07-17
+Description:    Version of the classic snake game
+Keywords:       nibbles
+Author:         Andrea Fazzi
+Maintained-by:  -
+Primary-site:   -
+Alternate-site: -
+Original-site:  http://nge.sourceforge.net/
+Platforms:      DOS, FreeDOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        A graphical version of the classic snake game for DOS.
+CRC:            a2200bf9
+MD5:            02ed045a48beec2de31c9ba75b9157bc
+SHA:            891f250aeaf5f701260b96d43703205417187e08a10a085e3398db4afa64418e
+Bin-files:      23
+Bin-size:       625115
+Source-files:   49
+Source-size:    598447
+Total-files:    72
+Total-size:     1223562
+End

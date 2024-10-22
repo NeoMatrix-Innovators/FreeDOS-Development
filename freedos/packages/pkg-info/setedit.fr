@@ -1,0 +1,7 @@
+Begin3
+Language:    FR, 850
+Title:       setedit
+Description: Un ‚diteur pour programmeurs pour DJGPP, similaire … l'IDE BCE et … RHIDE
+Summary:     setedit est un ‚diteur de texte de console convivial qui a l'aspect des ‚diteurs Borland pour DOS. Cette page de manuel d‚crit uniquement les options de ligne de commande de l'‚diteur. Vous pouvez obtenir l'aide complŠte au sujet de l'‚diteur grƒce … l'aide de l'‚diteur. N'importe quel nombre de noms de fichiers peut ˆtre sp‚cifi‚ aprŠs les options et ils seront automatiquement charg‚s par l'‚diteur dans le mˆme ordre que vous les aurez r‚pertori‚s. Vous pouvez passer des options de ligne de commande suppl‚mentaires … l'aide de la variable d'environnement SET_CMD-LINE. Lisez la documentation pour plus d'informations sur cette fonctionnalit‚. (Remarque: setedit ne fonctionnera pas sous DOSBox)
+Keywords:    ‚diteur, unicode, DJGPP
+End

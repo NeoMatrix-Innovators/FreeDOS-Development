@@ -1,0 +1,21 @@
+Begin3
+Title:          Emeritus Pong
+Version:        0.91a
+Entered-date:   2012-09-21
+Description:    A clone of the good old "Pong" game
+Keywords:       Pong, Games
+Author:         Mateusz Viste
+primary-site:   http://sourceforge.net/projects/empong/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 3
+Summary:        Emeritus Pong is a clone of the good old "Pong" game.
+CRC:            52985e35
+MD5:            218546c0876b1261044a73676734e062
+SHA:            b1848e9b1753f91f49da3654cf8098aff0cd0f22642dcc812bbd19098e7a4aba
+Bin-files:      11
+Bin-size:       166579
+Source-files:   9
+Source-size:    185365
+Total-files:    20
+Total-size:     351944
+End

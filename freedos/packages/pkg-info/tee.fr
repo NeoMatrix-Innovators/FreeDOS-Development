@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       TEE
+Description: Enregistre une copie de son entr‚e dans un fichier, tout en imprimant une copie sur stdout
+Keywords:    tee, unix
+End

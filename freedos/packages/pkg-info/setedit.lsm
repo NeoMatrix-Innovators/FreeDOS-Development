@@ -1,0 +1,23 @@
+Begin3
+Title:          setedit
+Version:        0.5.4a
+Entered-date:   2017-05-04
+Description:    A programmer's editor for DJGPP, similar to BC++ IDE and RHIDE
+Summary:        A programmer's editor for DJGPP, similar to BC++ IDE and RHIDE. (Note: setedit will not run under DOSBox)
+Keywords:       editor, unicode, DJGPP
+Author:         Salvador Eduardo Tropea (set -at- users.sf.net)
+Maintained-by:  Salvador Eduardo Tropea (set -at- users.sf.net)
+Primary-site:   http://setedit.sourceforge.net/
+Original-site:  http://setedit.sourceforge.net/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+CRC:            bb805916
+MD5:            bb2bcbfc6f268bf1bc8b51ed1ae3a305
+SHA:            89705314d34905c39df74aed7dc5de305fa66ba6997866a680934fef02efca53
+Bin-files:      95
+Bin-size:       2936198
+Source-files:   1911
+Source-size:    14072172
+Total-files:    2006
+Total-size:     17008370
+End

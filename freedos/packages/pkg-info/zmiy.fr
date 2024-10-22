@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       zmiy
+Description: Un jeu de serpent (similaire … Nibbles) pour DOS et 8086
+Keywords:    nibbles, serpent
+End

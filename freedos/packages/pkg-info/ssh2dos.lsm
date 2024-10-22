@@ -1,0 +1,24 @@
+Begin3
+Title:          SSH2DOS
+Version:        0.2.1a
+Entered-date:   2017-01-22
+Description:    SSH client for SSH protocol v. 2.0
+Keywords:       ssh protocol network communication remote access
+Author:         nagyd@users.sourceforge.net
+Maintained-by:  nagyd@users.sourceforge.net
+Primary-site:   http://sshdos.sourceforge.net
+Alternate-site: http://sshdos.sourceforge.net
+Original-site:  http://sshdos.sourceforge.net
+Platforms:      DOS (OpenWatcom 1.x)
+Copying-policy: GNU General Public License, Version 2
+Summary:        SSH client for SSH protocol v. 2.0. Also contains SCP, SFTP and telnet in both 8086 and 386 versions.
+CRC:            8b129854
+MD5:            1b8fbd75a24a87a7363c6d87ff0b5578
+SHA:            91e00298f7502669dfc3d9ec0d64950eb98c3e47ea5df8938c42b962b984cb0f
+Bin-files:      44
+Bin-size:       1893199
+Source-files:   90
+Source-size:    1010241
+Total-files:    134
+Total-size:     2903440
+End

@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       EW Snake
+Description: Un clone du jeu classique de serpent (aussi connu en tant que 'nibbles').
+Keywords:    serpent, nibble
+End

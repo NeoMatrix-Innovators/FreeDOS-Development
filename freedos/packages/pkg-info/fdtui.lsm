@@ -1,0 +1,21 @@
+Begin3
+Title:          FDTUI
+Version:        0.8
+Entered-date:   2022-02-19
+Description:    Text User Interface Shell for FreeDOS
+Keywords:       freedos, shell
+Author:         Ercan Ersoy
+Maintained-by:  Ercan Ersoy
+Primary-site:   https://github.com/ercanersoy/FDTUI
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2 & 3
+CRC:            d0196837
+MD5:            9462753c71515f965a7720cbe05dc10f
+SHA:            b8a58f4f4d761dd877d30c1cf29eac13f1564b1872c8640ebe0ed8f5518eeb47
+Bin-files:      26
+Bin-size:       329234
+Source-files:   256
+Source-size:    1361940
+Total-files:    282
+Total-size:     1691174
+End

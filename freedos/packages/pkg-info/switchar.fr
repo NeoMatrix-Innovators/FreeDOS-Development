@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       switchar
+Description: Afficher et d‚finir le switchar DOS
+Keywords:    freedos
+End

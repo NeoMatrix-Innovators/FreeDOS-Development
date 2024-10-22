@@ -1,0 +1,21 @@
+Begin3
+Title:          HEAD
+Version:        1.0a
+Entered-date:   2003-03-18
+Description:    Displays a part of a file
+Keywords:       head
+Author:         Wolf Bergenheim
+Maintained-by:  Wolf Bergenheim
+Platforms:      DOS, FreeDOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        Displays a part of a file from the beginning.
+CRC:            c10358ad
+MD5:            c27c22738828f7089b1320d5c99763f7
+SHA:            d738a2705c32d09979559daeb954ba1e2204f4addb8fbb3ea2ee061aa41d8e29
+Bin-files:      7
+Bin-size:       25655
+Source-files:   2
+Source-size:    17739
+Total-files:    9
+Total-size:     43394
+End

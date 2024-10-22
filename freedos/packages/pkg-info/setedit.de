@@ -1,0 +1,7 @@
+Begin3
+Language:    DE, 858
+Title:       setedit
+Description: Ein Programmier-Editor fÅr DJGPP, Ñhnlich der Borland C++ IDE und RHIDE.
+Summary:     Setedit ist ein freundlicher Konsolen-Texteditor mit dem Look-And-Feel des Borland Editors fÅr DOS. (Anmerkung: setedit funktioniert nicht unter DOSBOX)
+Keywords:    editor, unicode, DJGPP
+End

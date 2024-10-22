@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Wing
+Description: Un jeu de tir dans l'espace similaire … galaga.
+Keywords:    galaga
+End

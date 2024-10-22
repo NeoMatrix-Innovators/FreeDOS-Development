@@ -1,0 +1,20 @@
+Begin3
+Title:          Bootfix
+Version:        1.4a
+Entered-date:   2009-02-15
+Description:    Bootfix is a boot sector repair tool
+Keywords:       Bootfix, boot, sector, mbr, disk
+Author:         Arkady
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        Bootfix is a boot sector testing and fixing tool.
+CRC:            d409f0e6
+MD5:            5f059ea17be03e7bae93e0b8c12f7c13
+SHA:            9f83505c798e493005d17608d93a1c47e9760b823be03fad33751b175b1ae8ab
+Bin-files:      8
+Bin-size:       28041
+Source-files:   10
+Source-size:    24318
+Total-files:    18
+Total-size:     52359
+End

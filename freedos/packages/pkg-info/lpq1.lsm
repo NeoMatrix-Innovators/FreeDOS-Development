@@ -1,0 +1,23 @@
+Begin3
+Title:          LPQ1
+Version:        2a
+Entered-date:   2015-06-30
+Description:    A file compressor and archiver
+Keywords:       archiver, lpq1
+Author:         Matt Mahoney
+Maintained-by:  -
+Primary-site:   -
+Alternate-site: -
+Original-site:  http://mattmahoney.net/dc/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 3
+CRC:            070fc1b4
+MD5:            1bf2d3f78996c06ba83751eb1dce7605
+SHA:            5d6c1db09a3983763e960ed7cd8f8bf89b072908a1cf3d67faad7c720863b6e7
+Bin-files:      7
+Bin-size:       46447
+Source-files:   2
+Source-size:    32573
+Total-files:    9
+Total-size:     79020
+End

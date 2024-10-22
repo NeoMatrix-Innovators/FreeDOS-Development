@@ -1,0 +1,22 @@
+Begin3
+Title:          E100PKT
+Version:        0.2a
+Entered-date:   2018-05-30
+Description:    Packet driver for DOS
+Keywords:       net, ethernet, packet, driver, e100, intel
+Author:         sethsimon@sdf.org (Seth Simon)
+Maintained-by:  sethsimon@sdf.org (Seth Simon)
+original-site:  gopher://sdf.org/1/users/sethsimon/e100pkt/
+Alternate-site: http://gopherproxy.meulie.net/sdf.org/1/users/sethsimon/e100pkt/
+Platforms:      DOS (NASM)
+Copying-policy: GNU General Public License, Version 3
+CRC:            141af3c6
+MD5:            8fc1e4e0e76cdaa9c165b49737f330be
+SHA:            d19b0e5264e9c2ea27ea540fb4ec612905447603fdde40ae50c62873c3feabc8
+Bin-files:      9
+Bin-size:       44597
+Source-files:   24
+Source-size:    66487
+Total-files:    33
+Total-size:     111084
+End

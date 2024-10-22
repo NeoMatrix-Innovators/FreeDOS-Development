@@ -1,0 +1,6 @@
+Begin3
+Language:    DE, 858
+Title:       cdrom2ui
+Description: Ein kleines Tool fr CD-Laufwerke. Untersttzt: eject, close, lock, unlock und reset.
+Keywords:    freedos, cd-rom
+End

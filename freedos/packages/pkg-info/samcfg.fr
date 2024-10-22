@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       SAMCFG
+Description: Ensemble de fichiers d'exemple pour cr‚er C:\CONFIG.SYS et C:\AUTOEXEC.BAT
+Keywords:    freedos, exemple, configuration, config.sys, autoexec.bat, batch, script
+End

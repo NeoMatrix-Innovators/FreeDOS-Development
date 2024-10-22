@@ -1,0 +1,21 @@
+Begin3
+Title:                 xkeyb
+Version:               1.15a
+Entered-date:          2011-07-25
+Description:           International Keyboard driver support
+Keywords:              keyb, keyboard, driver
+Author:                Dietmar Hohmann (d.hoehmann _AT_ gmx.net)
+Platforms:             DOS, FreeDOS
+Copying-policy:        GNU General Public License, Version 2
+Defunct-Original-Site: http://projects.freedos.net/keyb/
+Summary:               Keyboard driver for international support. Also includes KEYMAN + KLIB + LISTXDEF + SCANKBD
+CRC:                   c1e50ea2
+MD5:                   fc0a5e533f5ec2444b100728db2c63d5
+SHA:                   0d767bc3ea8d5176edecea99d30bffa0625a4cf77f1c5f5301c1d333e4c6662b
+Bin-files:             85
+Bin-size:              211209
+Source-files:          15
+Source-size:           172121
+Total-files:           100
+Total-size:            383330
+End

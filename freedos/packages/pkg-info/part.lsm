@@ -1,0 +1,24 @@
+Begin3
+Title:                  Ranish Partition Manager
+Version:                2.37a
+Entered-date:           2009-02-22
+Description:            Create, delete and resize partitions
+Keywords:               disk, partition, manager, ranish, fdisk, format
+Author:                 Mikhail Ranish ranish -at- intercom.com
+Maintained-by:          Mikhail Ranish ranish -at- intercom.com
+defunct-Original-site:  http://www.ranish.com/part/
+Platforms:              DOS, FreeDOS
+Copying-policy:         Public Domain
+Defunct-Primary-Site:   http://ev1.ranish.com/~mranish/part/
+Defunct-Alternate-Site: http://www.users.intercom.com/~ranish/part/
+Summary:                Partition Manager can: Save and restore MBR; Create and delete partitions; View hard disks' IDE information; Format and resize FAT-16 and FAT-32 file systems; Comes with Advanced Boot Managers.
+CRC:                    030a698e
+MD5:                    a8db528eaf63d48a73338e4e07deff84
+SHA:                    feb9cbcf11c644bcefb06152e2ee1bd7978bf649de7c03d875cd17fcfe676029
+Bin-files:              10
+Bin-size:               125516
+Source-files:           23
+Source-size:            360842
+Total-files:            33
+Total-size:             486358
+End

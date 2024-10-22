@@ -1,0 +1,20 @@
+Begin3
+Title:          picoTCP
+Version:        20151119a
+Entered-date:   2015-11-29
+Description:    picoTCP networking stack and tools
+Author:         Mateusz Viste
+Primary-site:   http://picotcp4dos.sourceforge.net
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        picoTCP networking stack (library and configuration tools)
+CRC:            63458220
+MD5:            c1bb0ae85dcc45720ad2a5368f223e02
+SHA:            6c16935e023fe78a482b685b884cf520aea945f62bd16e34fb8f3246316e2363
+Bin-files:      9
+Bin-size:       136305
+Source-files:   31
+Source-size:    734171
+Total-files:    40
+Total-size:     870476
+End

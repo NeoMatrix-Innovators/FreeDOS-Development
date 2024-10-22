@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       FreePascal
+Description: Un compilateur Pascal auto-h‚berg‚ 32/64 bits prenant en charge les dialectes Turbo et Delphi. (Certaines parties n‚cessitent le support LFN)
+Keywords:    pascal, programmation, compilateur
+End

@@ -1,0 +1,6 @@
+Begin3
+Language:    DE, 858
+Title:       Dialog
+Description: Dialogboxen in Shell-Skripten anzeigen.
+Keywords:    dialog, curses, ncurses
+End

@@ -1,0 +1,21 @@
+Begin3
+Title:          ANSiMat
+Version:        0.93a
+Entered-date:   2012-09-25
+Description:    Graphical viewer of ANSI files
+Keywords:       ansi, viewer
+Author:         Mateusz Viste
+Original-site:  http://sourceforge.net/projects/ansimat/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 3
+Summary:        ANSiMat is a graphical viewer of ANSI files. It can also be used to convert ANSI files into regular (BMP/PCX/PPM/TGA/TIF) graphic files or FLC (FLiC) animations.
+CRC:            0fd59a47
+MD5:            a2cbaf4f3c8bcbeabbd59e99401bd075
+SHA:            9b32221ebee42e40d9eda833524bdddafeb265604c77127e6c745fea43c7f45f
+Bin-files:      12
+Bin-size:       292711
+Source-files:   58
+Source-size:    1600604
+Total-files:    70
+Total-size:     1893315
+End

@@ -1,0 +1,23 @@
+Begin3
+Title:          DOG
+Version:        0.8.3c
+Entered-date:   2002-03-15
+Description:    An alternative command.com shell
+Summary:        An alternative command.com shell.
+Keywords:       command, shell
+Author:         Wolf Bergenheim
+Maintained-by:  Wolf Bergenheim
+Primary-site:   https://sourceforge.net/projects/dog/files/dog/
+Original-site:  https://sourceforge.net/projects/dog/files/dog/
+Platforms:      DOS (Turbo C++ 1.01, ASM), FreeDOS
+Copying-policy: GNU General Public License, Version 2
+CRC:            9b0fc76a
+MD5:            322f235663f2149c1795595df5763c68
+SHA:            beef7ddca23f26289c03d31f4813db029b782ca8d6504d961637d3682965e302
+Bin-files:      32
+Bin-size:       173549
+Source-files:   46
+Source-size:    194676
+Total-files:    78
+Total-size:     368225
+End

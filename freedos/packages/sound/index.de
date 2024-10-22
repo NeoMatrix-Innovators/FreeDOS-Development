@@ -1,0 +1,6 @@
+FD-REPOv1	Build time: 1645361091	Sound-Dienstprogramme	5
+adplay	1.6b	Musik-Player fÅr diverse Formate, nutzt OPL2/3-Audio.	1197d98e
+cdp	A4 (rev A)	Der Kommandozeilen-Audio-CD-Player fÅr DOS.	76265c51
+dosmid	0.9.5a	MIDI Player fÅr viele Synthesizer (AWE, MPU-401, OPL?).	a4ba39bd
+mplayer	1.0rc2 (rev A)	Mplayer ist ein Movie-Player, der von Linux auf DOS portiert wurde.	79c7bf85
+opencp	2.6.0pre6 (rev A)	OpenCubic Player ist ein Multi-Format (mp3, wav mid.....) Musik Player.	fb37a44c

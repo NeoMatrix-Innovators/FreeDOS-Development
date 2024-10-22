@@ -1,0 +1,21 @@
+Begin3
+Title:          SetLock
+Version:        1.0a
+Entered-date:   2001-11-24
+Description:    Set the caps, num, and scroll lock keys
+Keywords:       lock, caps, num, scroll, set
+Author:         shamm _AT_ cmlmicro.co.uk
+Maintained-by:  shamm _AT_ cmlmicro.co.uk
+Platforms:      DOS, FreeDOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        Set the caps, num, and scroll lock keys from software
+CRC:            8119cad8
+MD5:            a82679762e22759f2dea0643a45d9c3b
+SHA:            9d079b903f0c33dfcfba8bf3527b7a864eb55b39806bbb1b3f3a08ad34320570
+Bin-files:      7
+Bin-size:       1817
+Source-files:   1
+Source-size:    4049
+Total-files:    8
+Total-size:     5866
+End

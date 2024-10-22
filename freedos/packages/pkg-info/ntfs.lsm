@@ -1,0 +1,23 @@
+Begin3
+Title:          NTFS
+Version:        30Mar2001 (rev A)
+Entered-date:   2009-02-22
+Description:    Enables access to NTFS partitions
+Keywords:       ntfs, partition, file, access
+Author:         Christophe GRENIER
+Maintained-by:  Christophe GRENIER
+Primary-site:   http://www.cgsecurity.org/wiki/Chntpw_for_Dos
+Alternate-site: -
+Original-site:  http://www.cgsecurity.org/wiki/Chntpw_for_Dos
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+CRC:            362ef6db
+MD5:            65ceb5602b91fa2d755fcd843f90b0d7
+SHA:            1df97ab5e161926f3c06ca074f04d24a88a4968a442950a2cb3ad56b073bb732
+Bin-files:      16
+Bin-size:       505143
+Source-files:   50
+Source-size:    322374
+Total-files:    66
+Total-size:     827517
+End

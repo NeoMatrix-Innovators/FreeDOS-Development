@@ -1,0 +1,59 @@
+Language translation information for EDICT
+
+Note variable information comes in several types and in a specific order that
+cannot be changed (for now). Multiple white spaces are automatically compressed
+to a single space unless quoted. To display a quote, it must be quoted by a
+different type of quote. Finally, no spaces are placed before or after any
+variable.
+
+Your translation file should be placed in the NLS\EDICT directory. It's
+filename extension should be the same as the standard DOS language code for
+that language. For example, English is EDICT.EN and German is EDICT.DE.
+See https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes for more information
+on language and country codes.
+
+Use one of the existing translation files, like EDICT.EN as a starting point
+for your translation. That way, no needed text is missing.
+
+Variables:
+
+    %_          A single space character
+    %%          A single percent symbol
+    %r          A CRLF
+
+    %c          Insert the single character
+    %s          Insert the text string
+    %b          Insert the byte hex value
+    %w          Insert the word hex value (unused)
+    %i          Insert the integer
+    %I          Insert the (integer + 1)
+
+
+TITLE is the program title.
+COPYRIGHT is my copyright message
+
+LANGUAGE is not in the default translation and should probably be in the
+lanugage of the translation. You can provide something like one of these:
+
+LANGUAGE=English Language Translation by Jerome Shidel
+LANGUAGE=Deutsche ”bersetzung durch Robert Riebisch
+
+HELP_* is the text for the help screen. Each entry is displayed on its own line.
+The first time it finds a missing item, help text output stops. Up to 0xff (255)
+is supported.
+
+INVALID is used when an unrecognized command line switch is provided.
+
+BAD_INT is used when an error occurs parsing a number from the command line.
+BAD_VAL is used when a number is out of range.
+
+BErr_* are BIOS error messages.
+DErr_* are DOS error messages.
+
+With a little modification, the BIOS and DOS error message texts in the default
+external English version are a slimmed down version of those available online
+from a great DOS and ASM resource at:
+
+    http://stanislavs.org/helppc/idx_interrupt.html
+
+Although, I may change them out for less droll customized error messages.

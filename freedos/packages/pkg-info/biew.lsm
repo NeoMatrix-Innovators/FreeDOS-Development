@@ -1,0 +1,24 @@
+Begin3
+Title:                Beye
+Version:              6.10a
+Entered-date:         2016-04-28
+Description:          Biew is a binary/hexadecimal editor
+Keywords:             Biew, binary, hexadecimal, viewer, editor
+Author:               -
+Maintained-by:        -
+Primary-site:         http://ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/biew.html
+Alternate-site:       https://sourceforge.net/projects/beye/files/biew/6.1.0/
+Platforms:            DOS
+Copying-policy:       GNU General Public License
+Defunct-Primary-Site: http://biew.sf.net
+Summary:              Biew is a binary/hexadecimal viewer/editor. (requires i686+)
+CRC:                  1fe6ebe6
+MD5:                  ba4c47fbe49db97d66a43face0dcf5cf
+SHA:                  9dd0b80ccc6abbdc6b172f8c6b5de30f92b8666ba2cf2823d8d6c2f5ccec7f8f
+Bin-files:            52
+Bin-size:             1064143
+Source-files:         476
+Source-size:          4448645
+Total-files:          528
+Total-size:           5512788
+End

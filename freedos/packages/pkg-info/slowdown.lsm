@@ -1,0 +1,24 @@
+Begin3
+Title:          SLOWDOWN
+Version:        3.10a
+Entered-date:   2016-05-14
+Description:    Slow down a fast computer
+Keywords:       DOS
+Author:         Bret Johnson <bret@bretjohnson.us>
+Maintained-by:  Bret Johnson <bret@bretjohnson.us>
+Primary-site:   http://bretjohnson.us/
+Alternate-site: http://bretjohnson.us/
+Original-site:  http://bretjohnson.us/
+Platforms:      DOS
+Copying-policy: Freeware, see documentation
+Summary:        Slow down a fast computer. Speed is completely configurable from command line, or by using Hot-Keys. Has several different "methods" or "modes" to slow the computer with.
+CRC:            05cc2a16
+MD5:            eb3dcd49c3182f8beef86e2b8698d17a
+SHA:            9c5a75d37763049bdfa57953471748dd22cfad7ecf3d6682baad343e1f094780
+Bin-files:      12
+Bin-size:       240453
+Source-files:   3
+Source-size:    356870
+Total-files:    15
+Total-size:     597323
+End

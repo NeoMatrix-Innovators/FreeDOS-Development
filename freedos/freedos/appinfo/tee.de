@@ -1,0 +1,6 @@
+Begin3
+Language:    DE, 858
+Title:       TEE
+Description: Speichert seinen Input in eine Datei und zeigt ihn gleichzeitig auf stdout an.
+Keywords:    tee, unix
+End

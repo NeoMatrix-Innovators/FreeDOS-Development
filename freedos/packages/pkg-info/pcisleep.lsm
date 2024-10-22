@@ -1,0 +1,23 @@
+Begin3
+Title:          PCISLEEP
+Version:        12 mar 2005 (rev A)
+Entered-date:   2009-02-15
+Description:    PCISLEEP lists and sleeps pci cards
+Keywords:       PCISleep, pci, card, vga, sleep, list
+Author:         Eric Auer
+Maintained-by:  Eric Auer
+Primary-site:   http://ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/pcisleep.html
+Alternate-site: -
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        PCISLEEP lists and sleeps pci cards.
+CRC:            c23acedd
+MD5:            143920b2216205a4f008bee271491d70
+SHA:            2abc0901d23b8a999c3d674e5adc11abcf6f24441d1715feaa32e3c3ca7357d9
+Bin-files:      6
+Bin-size:       5302
+Source-files:   1
+Source-size:    41821
+Total-files:    7
+Total-size:     47123
+End

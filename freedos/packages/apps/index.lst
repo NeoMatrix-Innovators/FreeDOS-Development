@@ -1,0 +1,8 @@
+FD-REPOv1	Build time: 1645361091	Applications	7
+dn2	2.14 beta (rev A)	File manager that supports a variety of features	38c2aa4f
+doszip	2.55b	LFN-aware file manager with built-in (un)zipper.	1621b0c1
+fdimples	0.11.5	Easily install and remove packages	592db6ed
+fdshell	0.10beta (rev B)	DOSSHELL graphical user interface	972b868b
+fdtui	0.8	Text User Interface Shell for FreeDOS	d0196837
+imgedit	2022-02-10 alpha	Simple pixel editor mostly for creating graphics for the Danger Engine	4cbc3e5f
+pgme	2022-02-08	A multi-menu application launcher	dd323bb0

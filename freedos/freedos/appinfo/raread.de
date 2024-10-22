@@ -1,0 +1,6 @@
+Begin3
+Language:    DE, 858
+Title:       raread
+Description: Erzeugt ein Image einer Floppy (Diskette), welches mit RAWRITE wieder geschrieben werden kann.
+Keywords:    raw, read, floppy, image
+End

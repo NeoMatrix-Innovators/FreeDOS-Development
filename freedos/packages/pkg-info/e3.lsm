@@ -1,0 +1,20 @@
+Begin3
+Title:          e3
+Version:        2.7.1a
+Entered-date:   2015-05-28
+Description:    A mini text editor with both 32 and 16bit version
+Keywords:       editor
+Author:         Albrecht Kleine
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        A mini text editor that comes in both a 32 and 16bit version
+CRC:            cda01462
+MD5:            1313a1a20070a77a7dc0900aa6ca3655
+SHA:            c8d37cc2ca9c6676258a413bd77b865626217911faf81ee2e73050dc1caeed68
+Bin-files:      8
+Bin-size:       37142
+Source-files:   29
+Source-size:    623289
+Total-files:    37
+Total-size:     660431
+End

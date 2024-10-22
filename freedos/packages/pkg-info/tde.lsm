@@ -1,0 +1,23 @@
+Begin3
+Title:                 TDE (Thomson-Davis Editor)
+Version:               5.1w
+Entered-date:          2007-05-01
+Description:           A simple, binary and text file editor
+Keywords:              edit, editor, text
+Author:                Frank Davis Jason Hood <jadoxa -at- yahoo.com.au>
+Maintained-by:         Jason Hood <jadoxa -at- yahoo.com.au>
+defunct-Primary-site:  http://www.geocities.com/jadoxa/tde/
+defunct-Original-site: http://www.geocities.com/jadoxa/tde/
+Platforms:             DOS, FreeDOS, Win32 (console) Linux
+Copying-policy:        Public Domain
+Summary:               TDE is a simple, public domain, multi-file/multi-window binary and text file editor written for IBM PCs and close compatibles running DOS, Win32 (console)
+CRC:                   6e7518af
+MD5:                   dcc4a25058b91a73fa3000f4625e321b
+SHA:                   d717f3aeb5f110378609b78831663442fc5334cc2fffe3f019527e0f9d0ead00
+Bin-files:             25
+Bin-size:              665381
+Source-files:          72
+Source-size:           2049586
+Total-files:           97
+Total-size:            2714967
+End

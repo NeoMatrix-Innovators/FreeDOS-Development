@@ -1,0 +1,23 @@
+Begin3
+Title:                 DOSHEXED
+Version:               1.2g
+Entered-date:          2013-07-25
+Description:           Hex editor and viewer
+Keywords:              hex editor viewer debug
+Author:                Christopher Robert Evans 1-916-612-6904 <axiomfinity@ymail.com>
+Maintained-by:         Christopher Robert Evans 1-916-612-6904 <aaxiomfinity@gmail.com>
+Primary-site:          http://doshexed.sourceforge.net/
+Alternate-site:        http://tawhakisoft.com/
+Platforms:             DOS
+Copying-policy:        GNU General Public License, Version 3
+Defunct-Original-Site: http://nxdos.com/
+CRC:                   4f1cd182
+MD5:                   db4e975bc5451545f021670c047fe0cf
+SHA:                   4d8dd9a41330430fb2bdce3436106b3d2758013db682bd2673d31b2164dc5f8f
+Bin-files:             8
+Bin-size:              61951
+Source-files:          11
+Source-size:           51724
+Total-files:           19
+Total-size:            113675
+End

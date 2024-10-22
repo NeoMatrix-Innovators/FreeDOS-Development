@@ -1,0 +1,5 @@
+Begin3
+Language:    FR, 850
+Title:       NetHack
+Description: Un jeu d'exploration de donjon … un seul joueur.
+End

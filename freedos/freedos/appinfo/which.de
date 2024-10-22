@@ -1,0 +1,6 @@
+Begin3
+Language:    DE, 858
+Title:       which
+Description: Ein Dienstprogramm aus der UNIX-Welt, mit dem man ausfhrbare Dateien in Verzeichnissen finden kann, die in der Umgebungsvariablen PATH aufgefhrt sind. Volle Wildcard-Untersttzung, relative Pfadnamen, optionale Dateidetails (Gr”áe, Datum). Benutzerdefinierbare Programmerweiterungen, Codepage-korrekte Zeit-/Datumsformatierung. Neue DOS-Switchar-Untersttzung.
+Keywords:    DOS, extension, file, utility, find, locate, PATH
+End

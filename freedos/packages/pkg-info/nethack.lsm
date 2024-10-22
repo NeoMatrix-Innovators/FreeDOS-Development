@@ -1,0 +1,20 @@
+Begin3
+Title:          NetHack
+Version:        3.4.3a
+Entered-date:   2013-12-11
+Description:    Single player dungeon exploration game
+Author:         Stichting Mathematisch Centrum, M. Stephenson
+Primary-site:   http://www.nethack.org/
+Platforms:      DOS, Windows, GNU/Linux, OS/2, Mac, Amiga, Atari
+Copying-policy: NetHack General Public License
+Summary:        A single player dungeon exploration game.
+CRC:            d104b799
+MD5:            20cc7693548fba402d8f54188e39488d
+SHA:            8511813e8b79c7a06b6ec48cead974d2fad9eec5998dcf3bb4b4e39c5a11db60
+Bin-files:      16
+Bin-size:       2818935
+Source-files:   658
+Source-size:    11643908
+Total-files:    674
+Total-size:     14462843
+End

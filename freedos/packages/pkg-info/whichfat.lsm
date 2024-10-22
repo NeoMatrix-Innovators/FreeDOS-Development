@@ -1,0 +1,23 @@
+Begin3
+Title:                WhichFAT
+Version:              2003-11-24a
+Entered-date:         2016-06-26
+Description:          FAT32 kernel support detection and per-drive FAT (12-32) type detection
+Keywords:             freedos, fat, disk
+Author:               Eric Auer <eric (at) coli.uni-sb.de>
+Maintained-by:        Eric Auer <eric (at) coli.uni-sb.de>
+Primary-site:         http://ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/whichfat.html
+Alternate-site:       ftp://ftp.ibiblio.org/pub/micro/pc-stuff/freedos/files/util/system/
+Platform:             DOS (nasm assembler)
+Copying-policy:       Public Domain
+Defunct-Primary-Site: http://www.coli.uni-sb.de/~eric/stuff/soft/
+CRC:                  3963ec2f
+MD5:                  383996dfda5fed65ee277c8482153978
+SHA:                  6a2caedb7c912be20fb09cfacfd12c325d0c9e6cd9a71bb521be295495eefdb9
+Bin-files:            6
+Bin-size:             1986
+Source-files:         1
+Source-size:          5844
+Total-files:          7
+Total-size:           7830
+End

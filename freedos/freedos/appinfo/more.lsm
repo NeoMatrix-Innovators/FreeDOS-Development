@@ -1,0 +1,16 @@
+Begin3
+Title:          more
+Version:        4.3a
+Entered-date:   2007-10-01
+Description:    Display a text file or program output one page at a time
+Summary: 		Displays the contents of a text file or program output one page at a time
+Keywords:       freedos, more
+Author:         Jim Hall <jhall@freedos.org>
+Maintained-by:  Imre <imre.leber@telenet.be>
+Primary-site:   https://github.com/FDOS/more
+defunct-site:   http://www.isd.net/jhall1/freedos/utils.html
+Platforms:      DOS  *requires KITTEN
+Copying-policy: GNU General Public License, Version 2
+Wiki-site:      http://wiki.freedos.org/wiki/index.php/More
+Defunct-Site:   http://www.freedos.org/jhall/utils/
+End

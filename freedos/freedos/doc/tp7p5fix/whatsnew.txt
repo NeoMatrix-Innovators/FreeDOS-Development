@@ -1,0 +1,13 @@
+
+TP7/P5+ fix history.
+
+
+version   what's new
+------------------------------------------------------------------------------
+
+1.01      new way of tracing start of TP7-compiled program using int 21h
+          works fine inside TP7 IDE
+
+1.00      first experimental version.
+          uses int 10h to trace start of TP7-compiled program
+          doesn't work inside TP7 IDE

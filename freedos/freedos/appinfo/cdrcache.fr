@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       cdrcache
+Description: Tampon CD-ROM, met en m‚moire tampon la lecture pour un lecteur, XMS, 386 ou sup‚rieur
+Keywords:    cache, freedos, smartdrv, cd-rom
+End

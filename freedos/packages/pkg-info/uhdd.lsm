@@ -1,0 +1,23 @@
+Begin3
+Title:          UHDD
+Version:        2021-10-30
+Entered-date:   2021-10-30
+Description:    Hard disk/SSD caching driver
+Summary:        UHDD is a hard disk/SSD caching driver for up to 10 BIOS disks on up to 4 UltraDMA controllers. It will also provide caching to disks handled by UDVD2, if it is loaded after UHDD.
+Keywords:       cache, disk, dma, driver, ide, sata, ultradma
+Author:         Jack R. Ellis
+Maintained-by:  Mercury Thirteen (mercury0x0d@protonmail.com)
+Alternate-site: http://www.mercurycoding.com/downloads.html
+Mirror-site:    http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/ellis
+Platforms:      DOS
+Copying-policy: Free, with source code, no warranty
+CRC:            18c6e633
+MD5:            b3c27bc54e27cbe4d32e76c20dbe46ff
+SHA:            303b9f46097924ef59f2d683c50367abddba6d9197486c9e7c1bb48482c9a535
+Bin-files:      8
+Bin-size:       26802
+Source-files:   2
+Source-size:    82013
+Total-files:    10
+Total-size:     108815
+End

@@ -1,0 +1,21 @@
+Begin3
+Title:          HTGET
+Version:        1.06a
+Entered-date:   2009-04-10
+Description:    Download files from HTTP servers
+Keywords:       freedos, htget
+Author:         Ken Yap
+Maintained-by:  Mateusz Viste <mateusz(at)viste-family.net>
+Platforms:      DOS, FreeDOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        HTGET is a file grabber that will get files from HTTP servers.
+CRC:            2155309a
+MD5:            ec19959067bd2a3b9695426b61ac7915
+SHA:            7945bece9fe0fdac2168955712191b8fe4932d51e935fc0c5ed8269a2cdb1daf
+Bin-files:      10
+Bin-size:       399838
+Source-files:   5
+Source-size:    7804598
+Total-files:    15
+Total-size:     8204436
+End

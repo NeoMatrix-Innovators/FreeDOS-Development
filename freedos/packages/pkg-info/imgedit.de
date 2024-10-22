@@ -1,0 +1,7 @@
+Begin3
+Language:    DE, 858
+Title:       ImgEdit
+Description: Ein einfacher Bildeditor
+Summary:     Ein einfacher Pixeleditor haupts„chlich zum Erstellen von Grafiken fr die Danger Engine. Es bietet eingeschr„nkte Untersttzung fr nicht-native Grafikformate wie BMP. Derzeit k”nnen einige Optionen (wie die Bildgr”áe) nur ber die Befehlszeile eingestellt werden. Enth„lt auch den einfachen IMGVIEW-Viewer. Erfordert 386+, VGA und MAUS. (UPX-komprimiert)
+Keywords:    dos, game, images, sprites, igg, igs, bmp, development, dev
+End

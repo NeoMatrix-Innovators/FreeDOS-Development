@@ -1,0 +1,22 @@
+Begin3
+Title:          Arachne
+Version:        1.99
+Entered-date:   2021-12-23
+Description:    Web browser for both 8086 and i386
+Summary:        A DOS web browser with both 8086 and i386 versions.
+Keywords:       network, www, browser
+Author:         Michael Polak and Others
+Maintained-by:  Michael Polak
+Primary-site:   http://www.glennmcc.org
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+CRC:            fa0d73e3
+MD5:            c7d8db3029aa4f2f3b95d2d3aa8f4d2b
+SHA:            0a73a1fdb0a8937d360b1db3ba40bfb7283d07e91de9ff455244ef80f13bc900
+Bin-files:      1213
+Bin-size:       6278085
+Source-files:   440
+Source-size:    5611740
+Total-files:    1653
+Total-size:     11889825
+End

@@ -1,0 +1,7 @@
+Begin3
+Language:    FR, 850
+Title:       Package Tools
+Description: Utilitaires g‚n‚raux de maintenance de paquets FreeDOS
+Summary:     Utilitaires pour cr‚er et afficher des informations sur les paquets install‚s pour FreeDos. Par la suite, des utilitaires de d‚placement, de suppression et d'ex‚cution d?autres tƒches de maintenance g‚n‚rale sur d'autres paquets pourraient ˆtre ajout‚s.
+Keywords:    dos 16 bits, asm, pascal
+End

@@ -1,0 +1,20 @@
+Begin3
+Title:          less
+Version:        291a
+Entered-date:   2013-02-01
+Description:    Page viewer with backward movement
+Keywords:       less,more,pager
+Author:         Mark Nudelmam
+Platforms:      DOS
+Copying-policy: Simplified (2-Clause) BSD License
+Summary:        Less is a program similar to more, but which allows backward movement in the file as well as forward movement. Also, less does not have to read the entire input file before starting, so with large input files it starts up faster than text editors like vi.
+CRC:            6536b9c0
+MD5:            74768b94e55cb890c4983214aada2c87
+SHA:            6f2da6c318ba5bb9edc09986c922385e28293a6803e51e6824ceee8ad6738be8
+Bin-files:      11
+Bin-size:       186112
+Source-files:   61
+Source-size:    657025
+Total-files:    72
+Total-size:     843137
+End

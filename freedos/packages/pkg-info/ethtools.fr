@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       ETHTOOLS
+Description: Une collection d'outils de diagnostic pour les r‚seaux Ethernet. Compil‚ avec la pile WatTCP. Comprend ETHWHAT, WWWATCH, ETHSEND, ETHDUMP, ETHWATCH, ETHSHOW,
+Keywords:    ethtools
+End

@@ -1,0 +1,23 @@
+Begin3
+Title:          SRDISK (resizeable RAM disk)
+Version:        2.09d
+Entered-date:   2005-07-23
+Description:    Resizable RAM disk
+Keywords:       extension, utility, ramdisk
+Author:         Marko Kohtala kohtala-at-users.sourceforge.net
+Maintained-by:  Marko Kohtala
+Primary-site:   http://sourceforge.net/projects/srdisk
+Original-site:  http://sourceforge.net/projects/srdisk
+Platforms:      DOS, FreeDOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        Resizable RAM disk. Srdisk is fast and able to use over 32 MB of XMS and EMS memory. The size of the disk can be changed without rebooting or loss of content. Diskcopy compatible.
+CRC:            db1a819e
+MD5:            796ed76b97870bc2ab2b521ceef342c1
+SHA:            5a1ccea1deff04dff97994be4bdc0e16ee5ac4f8789dc016d8ac7c863f8ac537
+Bin-files:      15
+Bin-size:       154064
+Source-files:   58
+Source-size:    387327
+Total-files:    73
+Total-size:     541391
+End

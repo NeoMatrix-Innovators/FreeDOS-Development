@@ -1,0 +1,7 @@
+FD-REPOv1	Build time: 1645361091	GeliŸtirme Ara‡lar	6
+bcc	0.16.10a	Bruce'un C derleyicisi, k‡k modeller i‡in 8086 assembler reten sade bir C derleyicisidir.	7bed01aa
+fpc	3.2.2	Turbo ve Delphi leh‡elerini destekleyen, kendi kendini derleyebilen bir 32-64 bit Pascal derleyici. (Baz b”lmler LFN Deste§i gerektirir)	1bb88014
+kittenc	2021-08-01	catgets/kittengets ile uyumlu kaynak derleyicisi	c4fbf05d
+nasm	2.15.05a	Netwide Assembler (UPX ile SkŸtrlmŸ Srm)	b33948e8
+upx	3.96a	UPX, ‡eŸitli ‡alŸtrlabilir bi‡im i‡in ”zgr, taŸnabilir, geniŸletilebilir, yksek performansl ‡alŸtrc paketleyicidir.	be14f7f2
+watcomc	1.9	Open Watcom C/C++ compiler	9c22f267

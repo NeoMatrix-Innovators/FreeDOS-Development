@@ -1,0 +1,21 @@
+Begin3
+Title:          Wing
+Version:        0.7a
+Entered-date:   2013-07-13
+Description:    A Galaga-like space shooter
+Keywords:       galaga
+Author:         Adam Hiatt (cthulhu@grex.org), Anil Shrestra
+Primary-site:   http://wing.sourceforge.net
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        A Galaga-like space shooter.
+CRC:            31da5be0
+MD5:            cee85d184b093ad32034bd380d511ea4
+SHA:            1b2a533de63379b07d10b4a135a18013ced36a6493821af5d277a8d0be0bf302
+Bin-files:      108
+Bin-size:       3106588
+Source-files:   128
+Source-size:    2134900
+Total-files:    236
+Total-size:     5241488
+End

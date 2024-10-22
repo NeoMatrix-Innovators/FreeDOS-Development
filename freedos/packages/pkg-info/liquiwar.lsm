@@ -1,0 +1,20 @@
+Begin3
+Title:          Liquid War
+Version:        5.6.3a
+Entered-date:   2013-12-17
+Description:    A unique multiplayer wargame
+Author:         Christian Mauduit
+Primary-site:   http://www.ufoot.org/liquidwar
+Platforms:      DOS, Windows, GNU/Linux, FreeBSD, Mac OS X
+Copying-policy: GNU General Public License, Version 2
+Summary:        A unique multiplayer wargame.
+CRC:            5401d9b0
+MD5:            cf58cad296ec0317bf116eaaa04d0b4d
+SHA:            0f05259e75d8aff387030dc629e7d9e7e3ddc7d13ac7918d3aa54bfdc3bb4607
+Bin-files:      41
+Bin-size:       6954080
+Source-files:   806
+Source-size:    14014817
+Total-files:    847
+Total-size:     20968897
+End

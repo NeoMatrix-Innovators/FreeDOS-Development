@@ -1,0 +1,7 @@
+Begin3
+Language:    FR, 850
+Title:       BSUM
+Description: Calcule les sommes de contr“les BSD des fichiers
+Summary:     bsum est un petit outil (256 octets !) qui calcule les sommes de contr“le  BSD
+Keywords:    dos
+End

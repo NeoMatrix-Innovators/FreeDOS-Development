@@ -1,0 +1,20 @@
+Begin3
+Title:          WDE
+Version:        3.0c
+Entered-date:   2009-02-15
+Description:    Wde is a disk editor
+Keywords:       Wde, disk, editor
+Author:         Ben Cadieux
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        Wde is a disk editor.
+CRC:            b3285ecd
+MD5:            89f370170be1d1c4789cae145c519386
+SHA:            702f9be029c35da3585b302012c8b7009e1e3a8034bad9c948bcd5ef9efed33e
+Bin-files:      11
+Bin-size:       88305
+Source-files:   5
+Source-size:    192438
+Total-files:    16
+Total-size:     280743
+End

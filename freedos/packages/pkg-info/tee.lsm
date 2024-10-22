@@ -1,0 +1,23 @@
+Begin3
+Title:                TEE
+Version:              2.0.3a
+Entered-date:         2008-07-27
+Description:          Saves a copy of its input to a file
+Keywords:             tee, unix
+Author:               Jim Hall <jhall -at- freedos.org>
+Maintained-by:        Alex Malozemoff <amalozemoff1 -at- gmail.com>
+Platforms:            DOS (OpenWatcom C), FreeDOS
+Copying-policy:       GNU General Public License, Version 2
+Defunct-Primary-Site: http://www.cs.mcgill.ca/~amaloz/FreeDOS/TEE
+Summary:              Saves a copy of its input to a file, while printing a copy to stdout
+CRC:                  dc1ecfcf
+MD5:                  c81c227a99d7783b8a7895b04f6a03ca
+SHA:                  63043cc38c1c8e269bdf032165210b1ad8661737d31a04dd6e61dc3a723de256
+LFN:                  1
+Bin-files:            38
+Bin-size:             106968
+Source-files:         7
+Source-size:          29221
+Total-files:          45
+Total-size:           136189
+End

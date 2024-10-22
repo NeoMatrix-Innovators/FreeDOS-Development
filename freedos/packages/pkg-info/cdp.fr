@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       CDP
+Description: Lecteur de CD audio  pour DOS pilot‚ par la ligne de commande
+Keywords:    cdp, audio, cd-rom
+End

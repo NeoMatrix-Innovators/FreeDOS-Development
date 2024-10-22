@@ -1,0 +1,23 @@
+Begin3
+Title:          Smiley
+Version:        2021-11-10 alpha
+Entered-date:   2021-11-10
+Description:    A simple Pong-style game
+Summary:        A simple Pong-style game (VGA, 386+) mostly for testing various aspects of the Danger Engine. Requires VGA and 386+. A Mouse is highly recommended.
+Keywords:       dos game
+Author:         Jerome Shidel <jerome _AT_ shidel.net>
+Maintained-by:  Jerome Shidel <jerome _AT_ shidel.net>
+Primary-site:   https://fd.lod.bz/repos/current/pkg-html/smiley.html
+Alternate-site: https://gitlab.com/DangerApps/smiley
+Platforms:      DOS
+Copying-policy: BSD 3-Clause License
+CRC:            a8feccfa
+MD5:            de7656cce8cf1fd277c4afddab6c6736
+SHA:            706365164cf41ef54b5d95bfb75168f6b7a2891f72547562d30fd3846707e717
+Bin-files:      7
+Bin-size:       56462
+Source-files:   21
+Source-size:    49106
+Total-files:    28
+Total-size:     105568
+End

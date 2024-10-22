@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       NGE Nibbles
+Description: Un clone de Nibbles, un vieux jeu d'arcade.
+Keywords:    nibbles
+End

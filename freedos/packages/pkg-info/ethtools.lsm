@@ -1,0 +1,21 @@
+Begin3
+Title:          ETHTOOLS
+Version:        8feb2010 (rev A)
+Entered-date:   2013-02-01
+Description:    Diagnostic tools for ethernet networks
+Keywords:       ethtools
+Author:         Joergen Hoffmann
+Original-site:  http://www.bttr-software.de/products/jhoffmann/
+Platforms:      DOS
+Copying-policy: EUPL v1.1
+Summary:        A set of diagnostic tools for ethernet networks. Built using the WatTCP stack. Includes ETHWHAT, WWWATCH, ETHSEND, ETHDUMP, ETHWATCH, ETHSHOW,
+CRC:            fde3a0c2
+MD5:            ec6fbe388c9be68be994e68022dd845b
+SHA:            81cbb002623413234f9c137d0e1b41c6994f7847c55ea87984e474ac4308f34f
+Bin-files:      14
+Bin-size:       244762
+Source-files:   21
+Source-size:    182795
+Total-files:    35
+Total-size:     427557
+End

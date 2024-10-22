@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Lynx
+Description: Navigateur WWW textuel et graphique Lynx (portage DJGPP)
+Keywords:    www, navigateur, Internet
+End

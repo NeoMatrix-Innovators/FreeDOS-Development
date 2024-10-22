@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       freemacs
+Description: êditeur similaire Ö emacs pour DOS (comme GNU Emacs)
+Keywords:    Çditer, Çditeur, unicode
+End

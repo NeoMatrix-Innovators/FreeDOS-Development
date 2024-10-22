@@ -1,0 +1,6 @@
+Begin3
+Language:    DE, 858
+Title:       Whiptail
+Description: Erstellt TUI Dialogfelder, Eingabemasken und liest Benutzereingaben unter Nutzung von libnewt.
+Keywords:    dialog, whiptail, newt, gpm
+End

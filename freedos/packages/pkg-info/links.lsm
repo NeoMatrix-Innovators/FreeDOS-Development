@@ -1,0 +1,23 @@
+Begin3
+Title:          Links
+Version:        2.25
+Entered-date:   2021-10-03
+Description:    A Lynx-like text and graphics WWW browser
+Keywords:       www, browser, internet
+Author:         Mikulas Patocka, Karel 'Clock' Kulhavy, Petr 'Brain' Kulhavy, Martin 'PerM' Pergel
+Maintained-by:  Mikulas Patocka <mikulas _at_ artax.karlin.mff.cuni.cz>
+Primary-site:   http://links.twibright.com/download/
+Original-site:  http://links.twibright.com/download/
+Platforms:      DOS, FreeDOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        Links is a Lynx-like text and graphics WWW browser.
+CRC:            581cb740
+MD5:            75e66366e7f6f2cf4fd945dd724bf6a2
+SHA:            eec08c2eff5dc960dbe210133bb487827dc80fd1b9b705160aa4f5ac3f0be221
+Bin-files:      27
+Bin-size:       10785916
+Source-files:   3263
+Source-size:    16645735
+Total-files:    3290
+Total-size:     27431651
+End

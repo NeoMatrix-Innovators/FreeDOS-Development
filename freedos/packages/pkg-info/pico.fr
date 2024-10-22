@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Pico
+Description: êditeur de texte simple dans le style de Pine Composer
+Keywords:    Çditeur
+End

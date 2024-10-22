@@ -1,0 +1,20 @@
+Begin3
+Title:          LPT Driver
+Version:        0.7a
+Entered-date:   2013-08-16
+Description:    A tool to control LPT-attached devices manually or on a time basis
+Keywords:       LPT
+Author:         Mateusz Viste
+Original-site:  http://sourceforge.net/projects/lptdrv/
+Platforms:      DOS
+Copying-policy: Simplified (2-Clause) BSD License
+CRC:            50863821
+MD5:            80ef1b8fedb0cfea60cabd04454b679e
+SHA:            0a1725904f1dffc6a8f1b8ce70af6812ef8d1d0eccf106708bc85d749973fdaf
+Bin-files:      9
+Bin-size:       49304
+Source-files:   4
+Source-size:    14886
+Total-files:    13
+Total-size:     64190
+End

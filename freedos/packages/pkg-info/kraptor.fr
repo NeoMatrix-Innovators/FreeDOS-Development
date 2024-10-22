@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       KRaptor
+Description: Kraptor est un jeu libre complet similaire … Raptor avec plusieurs niveaux.
+Keywords:    raptor, jeu, tir
+End

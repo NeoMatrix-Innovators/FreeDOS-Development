@@ -1,0 +1,23 @@
+Begin3
+Title:          ListPCI
+Version:        1.02
+Entered-date:   2021-07-11
+Description:    Displays data on PCI devices
+Summary:        ListPCI is a PCI device listing utility which scans the PCI bus and displays data on all PCI devices it finds. It provides more verbose data than other comparable applications and is more flexible in its command line options. Using these, you may filter the devices reported to only those of a specified vendor ID or of a specified class. ListPCI can also return the number of matching devices in the DOS system variable ERRORLEVEL, making it easy to integrate into batch scripts.
+Keywords:       device, list, PCI
+Author:         Mercury Thirteen (mercury0x0d@protonmail.com)
+Maintained-by:  Mercury Thirteen (mercury0x0d@protonmail.com)
+Primary-site:   https://www.mercurycoding.com/downloads.html#DOS
+Original-site:  https://www.mercurycoding.com/downloads.html#DOS
+Platforms:      DOS
+Copying-policy: GPLv2, with source code, no warranty
+CRC:            5cccd490
+MD5:            6b6298be2c1714387bd4edd560c468af
+SHA:            aca21ce6a59a5fdbd53b8710c4486e91bb4ce7efa6cdb3bf58a60dac71f4c365
+Bin-files:      7
+Bin-size:       57735
+Source-files:   3
+Source-size:    168186
+Total-files:    10
+Total-size:     225921
+End

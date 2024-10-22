@@ -1,0 +1,24 @@
+Begin3
+Title:          Program Manager Eternity
+Version:        2022-02-08
+Entered-date:   2022-02-08
+Description:    A multi-menu application launcher
+Keywords:       dos launch pgm pgme efntdsgn menu kiosk 16 bit
+Author:         Jerome Shidel <jerome _AT_ shidel.net>
+Maintained-by:  Jerome Shidel <jerome _AT_ shidel.net>
+Primary-site:   http://sourceforge.net/projects/pgme/
+Original-site:  http://fd.lod.bz/repos/current/pkg-html/pgme.html
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Changes:        Bug fixes, NLS and other improvements
+Summary:        A fully customizable multi-menu application launcher for DOS. It also includes Font Designer and several other utilities. (Requires Mouse)
+CRC:            dd323bb0
+MD5:            71ac0ba02a46fa8bed77fb3ced4ff800
+SHA:            c8347d03de44f875fa5e28b9fa0af1e0309ac8674fe84fed6d97fcd098101fc2
+Bin-files:      90
+Bin-size:       941095
+Source-files:   199
+Source-size:    1446366
+Total-files:    289
+Total-size:     2387461
+End

@@ -1,0 +1,7 @@
+Begin3
+Language:    TR, 857
+Title:       ETHERDFS
+Description: Ethernet DOS dosya sistemi (uzaktaki bir srcy ham Ethernet zerinden eŸleŸtirir)
+Summary:     EtherDFS, DOS i‡in 'yklenebilir bir dosya sistemi' yerleŸi§idir. ˜letiŸim kurmak i‡in ham Ethernet ‡er‡eveleri kullanarak uzak bir bilgisayardan (genellikle GNU/Linux tabanl) bir srcy yerel bir src harfiyle eŸler. Yllarca LapLink'i ‡eŸitli 'retro' yani eski bilgisayarlarm arasnda dosya aktarmak i‡in kullanyordum. ˜Ÿe yaryor, evet, ama ayn zamanda can skc derecede yavaŸ ve srekli dikkat gerektiriyor. Bir gn, 'Tm DOS bilgisayarlarm NFS'nin * nix dnyasnda ‡alŸma Ÿekline benzer Ÿekilde ortak bir a§ srcsn paylaŸabilirse inanlmaz olmaz myd?' diye dŸndm. O gn EtherDFS do§du. A‡k‡a hi‡bir Ÿey icat etmedim - konsept neredeyse ilk IBM PC kadar uzun zamandr var ve birka‡ ticari rn ge‡miŸte bu ihtiyac karŸlad. Ancak, herhangi bir cretsiz ve a‡k kaynakl ‡”zmden haberdar de§ilim.Ayrca, bildi§im tm ticari ‡”zmler ”nce olduk‡a karmaŸk bir a§ ortam kurmay gerektirirken, EtherDFS'nin bir paket srcsnden baŸka bir Ÿeye ihtiyac yoktur.
+Keywords:    etherdfs
+End

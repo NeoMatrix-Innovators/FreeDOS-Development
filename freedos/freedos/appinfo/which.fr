@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       which
+Description: which est un utilitaire n‚ dans le monde UNIX qui permet aux utilisateurs de trouver des fichiers ex‚cutables dans les r‚pertoires list‚s dans la variable d'environnement PATH. Prise en charge complŠte des caractŠres g‚n‚riques, noms de chemins relatifs, d‚tails de fichier facultatifs (taille, date). Extensions de programme d‚finissables par l'utilisateur, format de page/date correct pour la page de codes. Nouveau support DOS switchar.
+Keywords:    DOS, extension, fichier, utilitaire, trouver, localiser, PATH
+End

@@ -1,0 +1,20 @@
+Begin3
+Title:          Spool
+Version:        2.2a
+Entered-date:   1995-06-28
+Description:    Spools file printing in the background
+Keywords:       print, spool, spooler
+Author:         Craig Derouen
+Platforms:      DOS, FreeDOS
+Copying-policy: Public Domain
+Summary:        Spools file printing in the background. This does not require the use of a PRINT command.
+CRC:            9597704c
+MD5:            173e61b19f17af71a4cc86d10da9773a
+SHA:            aa5625b999be76d4b90dd7cfa654d7921f741f78db6c57b44b372fe20d4d64b6
+Bin-files:      7
+Bin-size:       6098
+Source-files:   2
+Source-size:    53491
+Total-files:    9
+Total-size:     59589
+End

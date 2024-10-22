@@ -1,0 +1,6 @@
+Begin3
+Language:    DE, 858
+Title:       trch
+Description: öbersetzt Zeichen. Dies war frÅher das Programm UNIX2DOS, aber das öbersetzen von Zeichen kann mehr. [éhnlich, aber nicht identisch mit UNIX 'tr'.] (enthÑlt Cats GNU LGPL).
+Keywords:    trch, unix2dos, tr
+End

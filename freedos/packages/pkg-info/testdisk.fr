@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Testdisk (and Photorec)
+Description: Testdisk v‚rifie les partitions/secteur d'amor‡age des disquesÿ; Photorec r‚cupŠre de nombreuses types de donn‚es
+Keywords:    testdisk, photorec, data, recover, test
+End

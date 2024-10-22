@@ -1,0 +1,21 @@
+Begin3
+Title:                DOS/32A
+Version:              9.1.2a
+Entered-date:         2009-02-15
+Description:          DOS/32A is a DOS extender
+Keywords:             7-zip, 7z, 7za, archiver
+Defunct-Primary-site: http://dos32a.narechk.net/
+Legacy-Site:          https://sourceforge.net/projects/dos32a/
+Platforms:            DOS
+Copying-policy:       Open source, similar to BSD License
+Summary:              DOS/32A is a DOS extender.
+CRC:                  1f6e8894
+MD5:                  a607175040cfbf3f58eb80a7aa39aa17
+SHA:                  2f5e62c5fcbef24ccd27a2d3324806d5672700c926d4c7cec14852e280362999
+Bin-files:            15
+Bin-size:             275347
+Source-files:         39
+Source-size:          512942
+Total-files:          54
+Total-size:           788289
+End

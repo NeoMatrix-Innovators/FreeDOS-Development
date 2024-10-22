@@ -1,0 +1,22 @@
+Begin3
+Title:                  Whiptail
+Version:                0.52.10a
+Entered-date:           2016-07-17
+Description:            Create TUI  forms to collect user input using libnewt
+Keywords:               dialog, whiptail, newt, gpm
+Author:                 Red Hat
+Maintained-by:          Red Hat, DOS port by Blairdude@gmail.com
+defunct-Alternate-site: https://fedorahosted.org/newt/
+Platforms:              Unix, DOS
+Copying-policy:         GNU Library General Public License, Version 2
+Summary:                Create TUI dialog boxes and forms and collect user input using libnewt. (Requires CWSDPMI)
+CRC:                    b1c631ab
+MD5:                    1ab197886f88427e72fb30fd73f7b227
+SHA:                    f313f503190f73d7c8dbf48b9f5ff149d322bf1dfdae19e3780cb723c105042f
+Bin-files:              7
+Bin-size:               121980
+Source-files:           44
+Source-size:            601955
+Total-files:            51
+Total-size:             723935
+End

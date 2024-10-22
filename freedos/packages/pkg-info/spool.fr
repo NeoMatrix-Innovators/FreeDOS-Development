@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Spool
+Description: Regroupe l'impression de fichiers en arriŠre-plan. Cela ne n‚cessite pas l'utilisation d'une commande PRINT.
+Keywords:    imprimer, spool, spooler
+End

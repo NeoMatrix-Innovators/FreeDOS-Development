@@ -1,0 +1,20 @@
+Begin3
+Title:          HiRAM
+Version:        1.9a
+Entered-date:   2015-08-18
+Description:    Upper Memory (UMB) Extender
+Keywords:       UMB,memory,manager
+Author:         JVP
+Platforms:      DOS
+Copying-policy: Modified (2-Clause) BSD License
+Summary:        Upper Memory (UMB) Extender for 80286, 80386, 80486 CPUs
+CRC:            550728b5
+MD5:            4abf18671bce5d61a99fb0ae4eb8374c
+SHA:            64fffd660c7e9604f7c99a6450efeb6da16144fd3dd3babe9d1baaafabbcfdb4
+Bin-files:      24
+Bin-size:       100823
+Source-files:   1
+Source-size:    65775
+Total-files:    25
+Total-size:     166598
+End

@@ -1,0 +1,17 @@
+FD-REPOv1	Build time: 1645361091	Unix-„hnliche Dienstprogramme	16
+cal	1.07a	Kalenderprogramm „hnlich dem UNIX 'cal'.	25b7be9c
+du	1.0a	Zeigt die Festplattennutzung an, wie UNIX 'du'.	b7833017
+gnubc	1.02a	Bc ist eine Sprache um Berechnung zu automatisieren. Syntax „hnlich C, aber unterscheidet sich doch davon. Es untersttzt einige Funktionen zur interaktiven Ausfhrung vom Statements. Bc ist Teil von POSIX P1003.2/D11.	be361cdb
+gnused	4.2.2a	GNU sed ist die GNU Implementierung des POSIX Stream Editors sed.	f8b2f576
+grep	2.0a	Grep durchsucht Dateien (oder stdin) nach Zeilen, die  einem vorgegebenen Muster entsprechen. Das Muster kann ein regul„rer Ausdruck oder eine literale Zeichenfolge sein.	1831fda3
+head	1.0a	Zeigt einen Teil einer Datei an.	c10358ad
+less	291a	Less ist ein Programm „hnlich more, jedoch den Nutzer zeilenweise scrollen l„sst. Auáerdem l„dt es nicht gleich die ganze Datei beim Programmstart und ist deshalb sehr schnell bereit.	6536b9c0
+md5sum	3.0a	MD5-Checksummen erstellen.	71586e3c
+nro	1.2a	Textverarbeitung „hnlich nroff auf UNIX.	b9ece9dd
+sleep	1.0a	Sleep ist dem gleichnamigen UNIX-Tool „hnlich. Sleep kann die Ausfhrung von Batchdateien fr eine bestimmte Zeit pausieren. Sleep gibt an Betriebssysteme, die dies untersttzen, Zeitscheiben ab. Sleep erkennt und bercksichtigt auch den DOS-Switchar.	f1322eee
+tee	2.0.3a	Speichert seinen Input in eine Datei und zeigt ihn gleichzeitig auf stdout an.	dc1ecfcf
+touch	1.4.4a	Setzen von Datum und Uhrzeit einer Datei wie beim UNIX-Tool 'touch'.	b4fc87a3
+trch	3.1g	šbersetzt Zeichen. Dies war frher das Programm UNIX2DOS, aber das šbersetzen von Zeichen kann mehr. [hnlich, aber nicht identisch mit UNIX 'tr'.] (enth„lt Cats GNU LGPL).	4b117090
+uptimec	2.60a	Zeigt die Uptime (Betriebszeit) an, sogar in DOSEMU. hnlich dem UNIX-Tool 'uptime'.	55e9c9c4
+which	2.1a	Ein Dienstprogramm aus der UNIX-Welt, mit dem man ausfhrbare Dateien in Verzeichnissen finden kann, die in der Umgebungsvariablen PATH aufgefhrt sind. Volle Wildcard-Untersttzung, relative Pfadnamen, optionale Dateidetails (Gr”áe, Datum). Benutzerdefinierbare Programmerweiterungen, Codepage-korrekte Zeit-/Datumsformatierung. Neue DOS-Switchar-Untersttzung.	0a9c224b
+xgrep	1.03a	Schnelles, UNIX-„hnliches grep mit Untersttzung fr regul„re Ausdrcke.	6801a74d

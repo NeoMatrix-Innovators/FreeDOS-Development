@@ -1,0 +1,19 @@
+Begin3
+Title:          Dialog
+Version:        1.1-20080819a
+Entered-date:   2009-02-13
+Description:    Display dialog boxes in shell scripts
+Keywords:       dialog, curses
+Author:         Thomas E. Dickey, Savio Lam
+Platforms:      DOS, Unix, Windows, Curses, GTK
+Copying-policy: GNU Lesser General Pubic License, Version 2.1
+CRC:            5c966da5
+MD5:            82b52080d4e1f126b3bb8d5fa42f5a71
+SHA:            39823e7d42fc7e220a5ad3d2337bef5488793ea4f2b472910c658613fb56b80d
+Bin-files:      8
+Bin-size:       299101
+Source-files:   275
+Source-size:    1676083
+Total-files:    283
+Total-size:     1975184
+End

@@ -1,0 +1,20 @@
+Begin3
+Title:          picoSNTP
+Version:        0.9.1a
+Entered-date:   2016-04-11
+Description:    SNTP client for DOS, based on picoTCP
+Keywords:       NTP, SNTP
+Author:         Mateusz Viste
+Primary-site:   http://picosntp.sourceforge.net
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+CRC:            fd13e8eb
+MD5:            5aaf57758630990e60150c9b9e2b9efd
+SHA:            acfd98063b1197bdf7416235fb001e4ede104c6a746b8cd7408742301893724b
+Bin-files:      9
+Bin-size:       90765
+Source-files:   10
+Source-size:    265180
+Total-files:    19
+Total-size:     355945
+End

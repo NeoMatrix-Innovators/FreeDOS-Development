@@ -1,0 +1,17 @@
+Begin3
+Title:          ARJ
+Version:        2.78a
+Entered-date:   2007-11-30
+Description:    The open-source ARJ archiver
+Platforms:      DOS
+Copying-policy: GNU General Public License, version 2
+CRC:            ed591315
+MD5:            21c67ec0ae528fefdf8c11d49b7a1507
+SHA:            c3b97ceffd9fc598215324f98f6260d9cd7ebb840e6984902d88fb3d7b4cff16
+Bin-files:      14
+Bin-size:       242781
+Source-files:   168
+Source-size:    1467501
+Total-files:    182
+Total-size:     1710282
+End

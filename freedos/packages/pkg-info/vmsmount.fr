@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       VMSMOUNT
+Description: Une redirection DOS pour monter les dossiers partag‚s Vmware
+Keywords:    vmware
+End

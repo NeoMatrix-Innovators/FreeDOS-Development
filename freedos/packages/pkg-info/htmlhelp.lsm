@@ -1,0 +1,23 @@
+Begin3
+Title:                 FreeDOS Help (HTML)
+Version:               1.0.8b
+Entered-date:          2021-03-06
+Description:           FreeDOS help files in HTML format
+Summary:               FreeDOS help files in HTML format
+Keywords:              help, html
+Author:                Joe Cosentino (creator of the viewer)
+Maintained-by:         W. Spiegl, fritz - dot - mueller - AT - mail -dot - com
+Primary-site:          http://home.mnet-online.de/willybilly/
+defunct-Original-site: http://www.geocities.com/xsaintx69/freedos/
+Platforms:             DOS, Turbo C++; Html
+Copying-policy:        Express+GNU Free Documentation License
+CRC:                   7c4da3bc
+MD5:                   883539d8c19ec88e4cbe2f7e78381f6d
+SHA:                   bc9ce5f7f3c9adc3610c468dc908f8d2c764887a22ffbb6bd6099348d1fbba0e
+Bin-files:             1218
+Bin-size:              4855278
+Source-files:          74
+Source-size:           633849
+Total-files:           1292
+Total-size:            5489127
+End

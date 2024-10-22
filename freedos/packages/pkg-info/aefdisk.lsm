@@ -1,0 +1,23 @@
+Begin3
+Title:          aefdisk
+Version:        1.0a
+Entered-date:   2018-12-30
+Description:    Command line disk partition utility
+Keywords:       dos fdisk partition
+Author:         Nagy Daniel
+Maintained-by:  TK Chia
+Primary-site:   https://github.com/nagydjol/aefdisk
+Alternate-site: https://github.com/tkchia/aefdisk
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        Command line driven disk partitioning utility for DOS. (ported for Open Watcom)
+CRC:            fe87ee00
+MD5:            6a2a2091255df807d865980c34bf12ef
+SHA:            30f1ccd217689f781c9938e790eec7b6b33851030c5f2794dd224b66955e1214
+Bin-files:      8
+Bin-size:       72076
+Source-files:   7
+Source-size:    172333
+Total-files:    15
+Total-size:     244409
+End

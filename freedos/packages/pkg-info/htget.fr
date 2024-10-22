@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       HTGET
+Description: HTGET est un gestionnaire de fichiers qui r‚cup‚rera des fichiers … partir de serveurs HTTP.
+Keywords:    freedos, htget
+End

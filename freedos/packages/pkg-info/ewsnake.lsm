@@ -1,0 +1,20 @@
+Begin3
+Title:          EW Snake
+Version:        0.5a
+Entered-date:   2013-07-16
+Description:    A version of the classic snake game
+Keywords:       snake, nibble
+Author:         Federico Marverti (yfede)
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        A version of the classic snake game for DOS.
+CRC:            23a4dbe0
+MD5:            143511754716b70551dfd4d456410ccd
+SHA:            3e721b17dc7b3d3f4708b58900f3c7115dec6ae0f0d36505fbccb543dc8bdcbc
+Bin-files:      9
+Bin-size:       362731
+Source-files:   10
+Source-size:    88842
+Total-files:    19
+Total-size:     451573
+End

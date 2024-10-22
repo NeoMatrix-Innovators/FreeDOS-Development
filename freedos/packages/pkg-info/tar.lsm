@@ -1,0 +1,22 @@
+Begin3
+Title:          TAR (GNU TAR)
+Version:        1.12a
+Entered-date:   2008-01-20
+Description:    A tape archiver
+Keywords:       archiver, tape
+Author:         Kai Uwe Rommel (ver. 1.09) rommel-at-lan.informatik.tu-muenchen.dbp.de
+Maintained-by:  -
+Alternate-site: http://mirrors.kernel.org/gnu/tar/
+Original-site:  http://www.gnu.org/software/tar/
+Platforms:      DOS, FreeDOS
+Copying-policy: GNU General Public License, Version 2
+CRC:            f90e739d
+MD5:            e7d4e69c1331f4c1857b679a02277d2a
+SHA:            cd6d72376846ddc0667e09c1bb8024cc822725ff42911b80ed472fa2b974a5b7
+Bin-files:      12
+Bin-size:       96174
+Source-files:   57
+Source-size:    420781
+Total-files:    69
+Total-size:     516955
+End

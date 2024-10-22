@@ -1,0 +1,21 @@
+Begin3
+Title:          MEMTESTE
+Version:        2003a
+Entered-date:   2016-04-28
+Description:    Program for testing DRAM (main memory
+Keywords:       RAM test, memtest
+Author:         Eric Auer
+Original-site:  http://www.auersoft.eu/soft/specials/
+Platforms:      DOS
+Copying-policy: Freeware
+Summary:        MEMTESTE is a program for testing DRAM (main memory) of PC-compatible computers built on Intel 386 or higher processors.
+CRC:            45a0cce1
+MD5:            8f9931cd1c2fe71e27e6176dae89edb5
+SHA:            25a0ea5d19ef86d7e0cd6baa3c2769cea3634b617b9378afbb36539b14834a6f
+Bin-files:      6
+Bin-size:       32799
+Source-files:   2
+Source-size:    7334
+Total-files:    8
+Total-size:     40133
+End

@@ -1,0 +1,22 @@
+Begin3
+Title:          AdPlay
+Version:        1.6b
+Entered-date:   2015-06-23
+Description:    Multiple format music player using OPL2/3 audio
+Summary:        A multiple formats music player using OPL2/3 audio.
+Keywords:       adplay,adplug
+Author:         Simon Peter
+Maintained-by:  Simon Peter
+Original-site:  http://adplug.sourceforge.net/
+Platforms:      DOS
+Copying-policy: zlib/libpng License
+CRC:            1197d98e
+MD5:            16a25b7bc4cbec74cff10fc9627f764f
+SHA:            998ab02b9b30251dd03446a7b29b0120b1b02711d79996095bfa47f56663a816
+Bin-files:      8
+Bin-size:       754130
+Source-files:   15
+Source-size:    90303
+Total-files:    23
+Total-size:     844433
+End

@@ -1,0 +1,6 @@
+FD-REPOv1	Build time: 1645361091	Outils de sons et musique	5
+adplay	1.6b	Lecteur de musique multi-formats qui utilise l'audio OPL2/3	1197d98e
+cdp	A4 (rev A)	Lecteur de CD audio  pour DOS pilot‚ par la ligne de commande	76265c51
+dosmid	0.9.5a	Lecteur MIDI pour de nombreux synth‚tiseurs (AWE, MPU-401, OPL?)	a4ba39bd
+mplayer	1.0rc2 (rev A)	MPlayer est un lecteur de films port‚ depuis GNU/Linux.	79c7bf85
+opencp	2.6.0pre6 (rev A)	OpenCubic Player est un lecteur de musique multi-formats (mp3,wav,mid?)	fb37a44c

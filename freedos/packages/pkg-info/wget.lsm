@@ -1,0 +1,21 @@
+Begin3
+Title:          Wget
+Version:        1.11.2a
+Entered-date:   2013-06-13
+Description:    The non-interactive network downloader
+Keywords:       freedos, wget
+Author:         Hrvoje Niksic <hniksic@arsdigita.com>
+Original-site:  http://www.gnu.org/software/wget/
+Platforms:      FreeDOS
+Copying-policy: GNU General Public License, Version 3
+Summary:        The non-interactive network downloader.
+CRC:            1598769b
+MD5:            2016786b8be275440d1ea331dcb573f9
+SHA:            b358f10ade8f81a2fe2251ed1809b008cee63d3fcf9751ff85db00e751cf99b5
+Bin-files:      13
+Bin-size:       1130826
+Source-files:   212
+Source-size:    5413832
+Total-files:    225
+Total-size:     6544658
+End

@@ -1,0 +1,17 @@
+FD-REPOv1	Build time: 1645361091	Device Drivers	16
+cdrcache	2004-05-13a	Caches reads for a drive	2484bd2a
+doslfn	0.41d	Provides the long filename (LFN) API	8726041d
+gcdrom	2.4b	SATA native IDE CD/DVD-ROM driver	63fb5de0
+hiram	1.9a	Upper Memory (UMB) Extender	550728b5
+lfndos	1.06a	Provides  long filename support	2a0a4419
+lptdrv	0.7a	A tool to control LPT-attached devices manually or on a time basis	50863821
+ntfs	30Mar2001 (rev A)	Enables access to NTFS partitions	362ef6db
+shareext	2.0a	Share Extender	d4f54b79
+shsufdrv	1.02a	Driver for floppy and hard disk images	d62292b1
+spool	2.2a	Spools file printing in the background	9597704c
+srdisk	2.09d	Resizable RAM disk	db1a819e
+udvd2	2015-03-05d	CD/DVD UltraDMA device driver	f17eefb5
+uhdd	2021-10-30	Hard disk/SSD caching driver	18c6e633
+uide	2020-07-07a	General-purpose caching driver for DOS	8ce0e4b3
+usbdos	2010-01-30a	Collection of drivers, for UHCI (USB)	47a59627
+xkeyb	1.15a	International Keyboard driver support	c1e50ea2

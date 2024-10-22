@@ -1,0 +1,22 @@
+Begin3
+Title:          kittenc
+Version:        2021-08-01
+Entered-date:   2021-08-17
+Description:    Catgets/kittengets compatible resource compiler
+Keywords:       dos, lib, devel
+Author:         James Hall, Eric Auer, Tom Ehlert
+Maintained-by:  Tom Ehlert
+Mirror-site:    https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/libs/kitten/
+Platforms:      DOS
+Copying-policy: GNU Lesser General Public License, version 2.1 (or later)
+CRC:            c4fbf05d
+MD5:            a17939d380884ea4f251a6646b32dcda
+SHA:            1fe6bb28c24a7048aabc9637aa9091bf212d07ac1bfd1ec78bca372c0a957f62
+LFN:            1
+Bin-files:      15
+Bin-size:       57876
+Source-files:   12
+Source-size:    49717
+Total-files:    27
+Total-size:     107593
+End

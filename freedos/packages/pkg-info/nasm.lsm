@@ -1,0 +1,23 @@
+Begin3
+Title:          Nasm
+Version:        2.15.05a
+Entered-date:   2020-08-28
+Description:    The Netwide Assembler (NASM)
+Summary:        The Netwide Assembler (NASM) is an 80x86 and x86-64 assembler designed for portability and modularity. It supports a range of object file formats, including Linux and *BSD a.out, ELF, COFF, Mach-O, 16-bit and 32-bit OBJ (OMF) format, Win32 and Win64. It will also output plain binary files, Intel hex and Motorola S-Record formats. Its syntax is designed to be simple and easy to understand, similar to the syntax in the Intel Software Developer Manual with minimal complexity. It supports all currently known x86 architectural extensions, and has strong support for macros.
+Keywords:       nasm, asm, assembler, assembly
+Author:         Peter Anvin and others
+Maintained-by:  Peter Anvin
+Primary-site:   http://www.nasm.us/
+Platforms:      DOS
+Copying-policy: Simplified (2-Clause) BSD License
+CRC:            b33948e8
+MD5:            715fc1cecb736b398d96a6d5ad701cd4
+SHA:            dee5d87ab3ca103b7c693f501cbfd8162b01e9581dab458c4b40caa467e6c63b
+LFN:            1
+Bin-files:      53
+Bin-size:       7060100
+Source-files:   1070
+Source-size:    12270543
+Total-files:    1123
+Total-size:     19330643
+End

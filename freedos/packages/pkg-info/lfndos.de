@@ -1,0 +1,6 @@
+Begin3
+Language:    DE, 858
+Title:       LFNDOS
+Description: Bietet Win95 Long Filename API fÅr DOS-Programme. Jedes LFN-DOS-Programm, wie DOS7 command.com/edit und alle DJGPP Programme kann lange Dateinamen nutzen. Entwickelt fÅr Win95, kann es jedoch auch Ñlteren DOS Versionen lange Dateinamen beibringen.
+Keywords:    long file name, lfn
+End

@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       cal
+Description: Programme de calendrier, similaire au 'cal' sur UNIX
+Keywords:    freedos
+End

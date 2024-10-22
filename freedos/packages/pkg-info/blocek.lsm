@@ -1,0 +1,21 @@
+Begin3
+Title:          Blocek
+Version:        1.62r2
+Entered-date:   2021-08-08
+Description:    A graphical text editor with Unicode and picture formats support
+Keywords:       editor, unicode
+Author:         Laaca
+Primary-site:   http://laaca.sweb.cz/
+Platforms:      DOS
+Copying-policy: GNU General Public License
+Summary:        A graphical text editor with Unicode and picture formats support.
+CRC:            c2dbe140
+MD5:            157304aa8a669811ee094142481ed408
+SHA:            1e86bceed9db51467a9514905ca8959dddbab5c7c2d301d9e1c745dab148c25d
+Bin-files:      396
+Bin-size:       2439114
+Source-files:   485
+Source-size:    8594351
+Total-files:    881
+Total-size:     11033465
+End

@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Help
+Description: Visionneur HTML et contenu de l'aide de  FreeDOS
+Keywords:    aide, html
+End

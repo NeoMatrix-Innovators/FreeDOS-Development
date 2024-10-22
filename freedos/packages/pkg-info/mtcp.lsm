@@ -1,0 +1,22 @@
+Begin3
+Title:          mTCP (upx)
+Version:        2020-03-07
+Entered-date:   2020-03-07
+Description:    A collection of TCP/IP tools
+Summary:        A collection of TCP/IP tools: DHCP, IRC, FTP, Telnet, Netcat, HTGet, Ping, SNTP
+Keywords:       dos tcp/ip realmode dhcp ftp telnet htget irc ircjr netcat sntp ping opensource 16 bit
+Author:         Michael B. Brutman <mbbrutman _AT_ gmail.com>
+Maintained-by:  Michael B. Brutman <mbbrutman _AT_ gmail.com>
+Original-site:  http://www.brutman.com/mTCP/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 3
+CRC:            6c876606
+MD5:            fdc42e0c85a259fc84669c75d6c305a9
+SHA:            33d275c8be671e336e65d5e315d03a1f321cc5514a4f48d1e033a6af244c0bdd
+Bin-files:      25
+Bin-size:       1685541
+Source-files:   97
+Source-size:    1419340
+Total-files:    122
+Total-size:     3104881
+End

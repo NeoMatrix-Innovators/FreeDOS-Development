@@ -1,0 +1,7 @@
+Begin3
+Language:    TR, 857
+Title:       MinEd
+Description: Kapsaml Unicode ve CJK deste§i i‡eren metin dzenleyicisi. Dz metin belgeleri, programlar, HTML vs. dzenleme i‡in kullanŸl ve verimli ”zellikler. Kullanc dostu arayz, fare ile kontrol ve menler i‡erir.
+Summary:     Mined, g‡l bir metin dzenleyicisidir. Mined, (otomatik alglama ”zellikleri ve terminal de§iŸikliklerinin otomatik y”netimi veya Han karakter bilgisi gibi) di§er dzenleyicilerin farknda olmad§ ”zel durumlar kapsayan hem geniŸ Unicode hem de CJK deste§i sunar. Mined, Unicode'u dz metin terminalinde (xterm veya rxvt gibi) destekleyen ilk dzenleyici olmuŸtur.
+Keywords:    dzenle, dzenleyici, unicode, kod sayfas, kodlama
+End

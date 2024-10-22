@@ -1,0 +1,20 @@
+Begin3
+Title:          Mirror Magic
+Version:        2.0.2a
+Entered-date:   2013-12-07
+Description:    An arcade style game like "Deflektor"
+Author:         Holger Schemel
+Primary-site:   http://artsoft.org/mirrormagic/
+Platforms:      DOS, GNU/Linux, Windows
+Copying-policy: GNU General Public License, Version 2
+Summary:        An arcade style game like "Deflektor" (C 64) or "Mindbender" (Amiga)
+CRC:            94e0c875
+MD5:            6066ae97e54d075d0144d0802d4ddbea
+SHA:            e00d2220341a1610450b8f7a197875c33c910261ff47760062b40c8074fca68c
+Bin-files:      214
+Bin-size:       2402646
+Source-files:   45
+Source-size:    729287
+Total-files:    259
+Total-size:     3131933
+End

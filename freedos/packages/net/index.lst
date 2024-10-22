@@ -1,0 +1,32 @@
+FD-REPOv1	Build time: 1645361091	Networking	31
+arachne	1.99	Web browser for both 8086 and i386	fa0d73e3
+crynwr	2006-09-02c	Collection of free packet drivers	e375b46d
+curl	7.77.0	Command line tool for transferring data	e0b7c5a1
+dillo	3.0p9a (rev B)	Web browser known for its speed and small footprint	df849702
+dwol	1.0a	Compute and send "wake-on-lan" packets	322dfd21
+e1000pkt	February 1, 2007 (rev A)	Packet driver for Intel(R) PRO/1000	806489aa
+e100pkt	0.2a	Packet driver for DOS	141af3c6
+etherdfs	0.8.2a	Ethernet DOS file system	2c7e5118
+ethtools	8feb2010 (rev A)	Diagnostic tools for ethernet networks	fde3a0c2
+fdnet	2022-01-11	Basic networking support package	6650e592
+gopherus	1.2a	Console-mode gopher client	bbe5c905
+htget	1.06a	Download files from HTTP servers	2155309a
+links	2.25	A Lynx-like text and graphics WWW browser	581cb740
+lsppp	1.0	A small DOS PPP packet driver	20c6a2b7
+lynx	2.9.0-dev.10r2	Lynx text and graphics WWW browser	958baffb
+m2wat	0.1a	Transfer the settings from MTCP to WATTCP	d6568304
+mskermit	3.16a	Communications suite to transfer files between computers	0b7491f9
+mtcp	2020-03-07	A collection of TCP/IP tools	6c876606
+newsnuz	0.98a	Usenet (NNTP) reader based on WatTCP	21ce4a27
+ntool	1.5a	An incarnation of the famous program NETCAT	e6f4a6db
+picosntp	0.9.1a	SNTP client for DOS, based on picoTCP	fd13e8eb
+picotcp	20151119a	picoTCP networking stack and tools	63458220
+ping	2.2a	The ping internet diagnostic tool.	35b92e05
+rsync	2.2.5a	Synchronizes files and directories	2ae9d57f
+ssh2dos	0.2.1a	SSH client for SSH protocol v. 2.0	8b129854
+sshdos	0.95a	SSH client for DOS	84b2ae5a
+terminal	3.2a	A tiny VT100/ANSI terminal	85f77c4a
+vmsmount	0.5c	Redirector to mount VMware shared folders	9cf80608
+vncview	3.3.7a	VNC viewer for 8086+, based on Xvncviewer	dde4b5b9
+wattcp	2016-05-19a	WATTCP	fa7b5ade
+wget	1.11.2a	The non-interactive network downloader	1598769b

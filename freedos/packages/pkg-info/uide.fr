@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       UIDE
+Description: Un pilote de mise en m‚moire tampon … usage g‚n‚ral pour les lecteurs DOS, les disquettes, les CD/DVD, les disques SATA et UltraDMA
+Keywords:    ahci, cache, cc, cd, cd-rom, cdrom, disk, dma, driver, eide, floppy, ide, pata, rom, sata, sata, uhdd, uide, ultra
+End

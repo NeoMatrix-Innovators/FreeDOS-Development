@@ -1,0 +1,23 @@
+Begin3
+Title:          7zdec
+Version:        17.00 beta (rev A)
+Entered-date:   2017-11-13
+Description:    Standalone decompressor for 7-Zip archives
+Summary:        A small, standalone decompressor for 7-Zip archives.
+Keywords:       7z, 7zdec, 7zdecode, archivers
+Author:         Igor Pavlov
+Maintained-by:  Igor Pavlov
+Primary-site:   http://www.sourceforge.net/projects/sevenzip
+Original-site:  http://www.7-zip.org
+Platforms:      DOS, Windows, *nix
+Copying-policy: Public domain
+CRC:            6c57d9b1
+MD5:            70968a7ae72a7348174897d2ee2eee97
+SHA:            d9f384c4aa0a8ba89231d5b17551d80346bddb1cd13e73a680556f4731199783
+Bin-files:      8
+Bin-size:       63453
+Source-files:   1
+Source-size:    44118
+Total-files:    9
+Total-size:     107571
+End

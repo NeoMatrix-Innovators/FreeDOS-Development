@@ -1,0 +1,21 @@
+Begin3
+Title:          mbedit - Multi platform editor
+Version:        8.64a
+Entered-date:   2013-02-07
+Description:    Full screen text editor with macro option
+Keywords:       editor,hex
+Author:         Michael Braun
+Original-site:  http://www.braun-home.net/michael/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        mbedit is a full screen text editor with macro option, online calculator, command history buffer, hex editor and many other features.
+CRC:            170f2c36
+MD5:            766f85b7d88408e269a7660390f739e8
+SHA:            f85c1ab82bb774313a0c30e411d4fef3e1e8d2182437fd1c0286654201160638
+Bin-files:      99
+Bin-size:       622741
+Source-files:   95
+Source-size:    987087
+Total-files:    194
+Total-size:     1609828
+End

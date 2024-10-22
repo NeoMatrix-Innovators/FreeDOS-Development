@@ -1,0 +1,16 @@
+Begin3
+Title:          V8Power Tools
+Version:        22.02.07
+Entered-date:   2022-02-07
+Description:    Batch file enhancement utilities
+Summary:		A set of batch file enhancement utilities for DOS that can provide text UI and other processing functions (UPX'd)
+Keywords:       dos 16 bit batch vask vchoice vecho vpause vframe vmath vline vprogres
+Changes:		Simple choice added to vask.
+Author:         Jerome Shidel <jerome _AT_ shidel.net>
+Maintained-by:  Jerome Shidel <jerome _AT_ shidel.net>
+Primary-site:   https://github.com/LoopZ/V8Power
+Alternate-site: http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/repositories/latest/pkg-html/v8power.html
+Original-site:  https://up.lod.bz/V8Power/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+End

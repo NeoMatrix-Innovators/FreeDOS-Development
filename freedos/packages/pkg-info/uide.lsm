@@ -1,0 +1,21 @@
+Begin3
+Title:          UIDE
+Version:        2020-07-07a
+Entered-date:   2020-07-07
+Description:    General-purpose caching driver for DOS
+Keywords:       ahci, cache, cc, cd, cd-rom, cdrom, disk, dma, driver, eide, floppy, ide, pata, rom, sata, sata, uhdd, uide, ultra
+Author:         Jack R. Ellis
+Maintained-by:  Mercury Thirteen (mercury0x0d@protonmail.com)
+Platforms:      DOS
+Copying-policy: Free w/sources
+Summary:        A general-purpose caching driver for DOS drives, Floppy, CD/DVD, SATA and UltraDMA disks
+CRC:            8ce0e4b3
+MD5:            1537625e05a7d53a5588a38c5ff8f58b
+SHA:            ca4586edfcbc63f797f4946dcec82bc11cd420a15c063a55fec98319f23e62bb
+Bin-files:      8
+Bin-size:       32919
+Source-files:   2
+Source-size:    129166
+Total-files:    10
+Total-size:     162085
+End

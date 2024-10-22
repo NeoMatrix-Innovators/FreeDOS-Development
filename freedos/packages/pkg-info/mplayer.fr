@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       MPlayer
+Description: MPlayer est un lecteur de films port‚ depuis GNU/Linux.
+Keywords:    multim‚dia,vid‚o,lecteur
+End

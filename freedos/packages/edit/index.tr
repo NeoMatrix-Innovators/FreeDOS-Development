@@ -1,0 +1,17 @@
+FD-REPOv1	Build time: 1645361091	Dzenleyiciler	16
+biew	6.10a	Biew, bir ikili/onaltl g”rntleyici/dzenleyicidir. (i686+ gerektirir)	1fe6ebe6
+blocek	1.62r2	Unicode ve resim bi‡imleri destekli grafik metin dzenleyicisi	c2dbe140
+doshexed	1.2g	Onaltl dzenleyici ve g”rntleyici	4f1cd182
+e3	2.7.1a	Hem 16 hem de 32 bit srmnde gelen k‡k bir metin dzenleyicisi	cda01462
+elvis	2.2a	Standart UNIX dzenleyicisi olan vi/ex'in bir klonu. Neredeyse tm vi/ex komutlarn destekler	295f17c0
+fed	2.24c	Renk ile s”zdizimi vurgulama ve daha fazlasn i‡eren katlama metin dzenleyicisi	a58e4e3b
+freemacs	1.6h	DOS i‡in emacs'e benzeyen bir dzenleyici (GNU Emacs gibi)	59bf43d3
+mbedit	8.64a	mbedit, makro se‡ene§i, hesap makinesi, komut tarih‡esi arabelle§i, onaltl dzenleyici ve fazlasn i‡eren tam ekran bir metin dzenleyicisidir.	170f2c36
+mined	2015.25a	Kapsaml Unicode ve CJK deste§i i‡eren metin dzenleyicisi. Dz metin belgeleri, programlar, HTML vs. dzenleme i‡in kullanŸl ve verimli ”zellikler. Kullanc dostu arayz, fare ile kontrol ve menler i‡erir.	2b9519a5
+msedit	0.11a	Mateusz'un Saucy (mark) Dzenleyicisi	8b351c1c
+ospedit	2.1.1a	DOS i‡in arkadaŸ canls bir metin dzenleyicisi.	c9400b69
+pico	3.96a	Pine Composer tarz sade bir metin dzenleyicisi	301fc35c
+setedit	0.5.4a	DGJPP i‡in BC++ tmleŸik geliŸtirme ortamna ve RHIDE'a benzeyen bir programc dzenleyicisi	bb805916
+tde	5.1w	TDE, DOS ve Win32 (konsol) ‡alŸtran IBM PC'ler ve yakn uyumlular i‡in yazlmŸ sade, kamu alanna braklmŸ, ‡oklu dosya/‡oklu pencere ikili ve metin dosya dzenleyicisidir.	6e7518af
+uhex	1.0.4a	uhex, sade ve hzl bir onaltl dzenleyicidir	910e592c
+vim	7.3a	'vi' dzenleyicisinin iyileŸtirilmiŸ bir srm	14cff902

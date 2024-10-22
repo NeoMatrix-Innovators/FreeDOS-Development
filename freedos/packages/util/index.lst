@@ -1,0 +1,58 @@
+FD-REPOv1	Build time: 1645361091	Utilities	57
+aefdisk	1.0a	Command line disk partition utility	fe87ee00
+ambread	20201223	Reader for Ancient Machine Book files	3845698b
+ansimat	0.93a	Graphical viewer of ANSI files	0fd59a47
+b64	0.06R (rev A)	Base64 Content-Transfer-Encoding	f940dfeb
+bmp2png	1.62a	Convert  BMP images to PNG	0f396f96
+bootfix	1.4a	Bootfix is a boot sector repair tool	d409f0e6
+bsum	1.1a	Compute BSD checksums of files	2c81e33a
+callver	2007-08-19a	Sets DOS version  for a program	b1fd312f
+cdrom2ui	2003-11-16a	Basic CD-ROM drive utilities	0ca5a9dd
+cpied	1.3d	GUI-driven CPI font editor	dce8e6a1
+cwsdpmi	7a	32-bit DPMI DOS extender designed	68000114
+dialog	1.1-20080819a	Display dialog boxes in shell scripts	5c966da5
+dog	0.8.3c	An alternative command.com shell	9b0fc76a
+dos32a	9.1.2a	DOS/32A is a DOS extender	1f6e8894
+dosfsck	2.11d	Check the consistency of file system	597867a7
+dosutil	2012a	Collection of small utilities for batch files	2d651e83
+edict	0.10 (BETA) (rev A)	Create images of problem diskettes	0c2eebaf
+fdisrc	1.3	The FreeDOS Installer (FDI) source files.	679abd34
+fdnpkg	0.99.7a	Network-enabled package manager	852ca0c0
+finddisk	2005-03-23a	Utility to locate a disk by label	ba1f7c50
+flashrom	0.9.4(-revision 1495) (rev A)	EEPROM firmware and BIOS save/update tool	eecd8007
+foxcalc	0.92a	Calculator with a TUI and mouse support	847cedc6
+foxtype	0.16a	Text file viewer supporting UTF-8	463a0d36
+gnuchcp	1.0b	Changes the EGA/VGA bitmap font in text mode	f2bfcc3a
+gnufonts	1.0a	EGA/VGA bitmap fonts for text modes	7552f3fd
+hexcomp	1.0.4a	Graphically compares binary files	703659ad
+listpci	1.02	Displays data on PCI devices	5cccd490
+listvesa	1.01	Reports supported VESA video modes	77f6a43e
+localcfg	0.90a	Locales preferences configuration tool	18191130
+localize	1.00a	Translates texts	9e837051
+memteste	2003a	Program for testing DRAM (main memory	45a0cce1
+ospimg	1.4a	Read and create floppy disk images	e4cecfa1
+part	2.37a	Create, delete and resize partitions	030a698e
+pcisleep	12 mar 2005 (rev A)	PCISLEEP lists and sleeps pci cards	c23acedd
+pdtree	1.02-1a	Display the folder structure of a drive or path.	9f5b0a7c
+pg	1.16a	Displays the contents of a text file one page at a time	3fe5e511
+pkgtools	2021-12-31	Display information on installed packages	ea34f091
+raread	1.1a	Creates an image of a floppy diskette	f274d322
+rawrite	1.3a	Write disk image to a floppy drive	68f5edcd
+rcal	1.0a	A big-numbers calculator with floating point that mimics the "paper rolling" calculators	3aa4c8ab
+search	1.0a	Locates files on your computer	788d1840
+setlock	1.0a	Set the caps, num, and scroll lock keys	8119cad8
+slowdown	3.10a	Slow down a fast computer	05cc2a16
+stamp	2.0a	Set, view, and filter the timestamps of files	00deaaff
+switchar	1.0a	Display and set the DOS switch character	3586ba66
+testdisk	7.1a	Checks partition/bootsector of disks	e796f84e
+topspin	3a	A menu interpreter program	606ba79c
+tp7p5fix	1.04	TSR to fix runtime error 200 in programs	222b7ada
+unrtf	0.21.5a	Convert RTF documents to other formats	0fc20871
+utf8tocp	0.9.2a	Convert UTF-8 files to codepage files	281792ca
+v8power	22.02.07	Batch file enhancement utilities	50f478fc
+wcd	6.0.2a	Wherever Change Directory	16fb7a22
+wde	3.0c	Wde is a disk editor	b3285ecd
+whichfat	2003-11-24a	FAT32 kernel support detection and per-drive FAT (12-32) type detection	3963ec2f
+wptail	0.52.10a	Create TUI  forms to collect user input using libnewt	b1c631ab
+xdel	2.06a	Extended file delete, DR-DOS like	4e7cd24c
+zerofill	1.05a	Fills empty space on a drive with zeros	435c4521

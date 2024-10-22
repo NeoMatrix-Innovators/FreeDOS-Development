@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Boom
+Description: Un portage GPL du code source de Doom. Empaquet‚ avec FreeDoom pour une exp‚rience de jeu complŠte.
+Keywords:    doom,boom,freedoom
+End

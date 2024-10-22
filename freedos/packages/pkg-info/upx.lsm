@@ -1,0 +1,24 @@
+Begin3
+Title:          UPX
+Version:        3.96a
+Entered-date:   2020-01-23
+Description:    High-performance executable packer
+Keywords:       executable packer
+Author:         Markus F.X.J. Oberhumer, Laszlo Molnar and John F. Reiser
+Maintained-by:  Markus F.X.J. Oberhumer, Laszlo Molnar and John F. Reiser
+Primary-site:   https://upx.github.io
+Alternate-site: https://github.com/upx/upx http://upx.sourceforge.net/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        UPX is a free, portable, extendable, high-performance executable packer for several different executable formats.
+CRC:            be14f7f2
+MD5:            ccb47ea08ca034b592cda9f4a773d9a8
+SHA:            3744d35dffc521b4e8b6e6c666ad45ca70bb1f0192f5db2271fe0bdd3fd7a9ad
+LFN:            1
+Bin-files:      27
+Bin-size:       1368828
+Source-files:   593
+Source-size:    9899633
+Total-files:    620
+Total-size:     11268461
+End

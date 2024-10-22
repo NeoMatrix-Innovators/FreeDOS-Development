@@ -1,0 +1,22 @@
+Begin3
+Title:          BlockDrop
+Version:        v0.1
+Entered-date:   2022-02-13
+Description:    A falling block game
+Summary:        A falling block game that is nothing like Tetris. (Requires a mouse and 386+)
+Keywords:       dos game
+Author:         Jerome Shidel <jerome _AT_ shidel.net>
+Maintained-by:  Jerome Shidel <jerome _AT_ shidel.net>
+Alternate-site: https://gitlab.com/DangerApps/blkdrop
+Platforms:      DOS
+Copying-policy: BSD 3-Clause License
+CRC:            d8fe4dd2
+MD5:            ef3f6a4c2db7a191d69f9f5d9fea9b37
+SHA:            c5c8a3d447c18d7164b3b58b4dc63b47286084665f75e0c621f0250039a3c6f5
+Bin-files:      9
+Bin-size:       129796
+Source-files:   67
+Source-size:    106202
+Total-files:    76
+Total-size:     235998
+End

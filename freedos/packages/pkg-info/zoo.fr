@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       zoo
+Description: Manipuler les archives zoo.
+Keywords:    zoo
+End

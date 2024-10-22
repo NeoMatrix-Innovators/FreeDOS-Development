@@ -1,0 +1,23 @@
+Begin3
+Title:          Localize
+Version:        1.00a
+Entered-date:   2016-05-14
+Description:    Translates texts
+Keywords:       freedos localize batch
+Author:         Eric Auer <e.auer -at- jpberlin.de
+Maintained-by:  Eric Auer <e.auer -at- jpberlin.de
+Primary-site:   http://www.auersoft.eu/soft/
+Alternate-site: http://www.freedos.org
+Original-site:  http://www.auersoft.eu/soft/
+Platforms:      dos
+Copying-policy: GNU General Public License, Version 2
+CRC:            9e837051
+MD5:            744e92e24e2a0dd3966f952f0dc3f424
+SHA:            d975b3dd5b446473731e9908f785b80eb33d09762fcd8d9e11e17473426e9b4a
+Bin-files:      13
+Bin-size:       10902
+Source-files:   5
+Source-size:    22984
+Total-files:    18
+Total-size:     33886
+End

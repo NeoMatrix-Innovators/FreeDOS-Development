@@ -1,0 +1,21 @@
+Begin3
+Title:          GZIP
+Version:        1.2.4a
+Entered-date:   2007-04-23
+Description:    GZip compression program
+Keywords:       gzip, zip, unzip, archiver, packer
+Author:         Jean-loup Gailly, jloup -at- gzip.org
+Original-site:  http://www.gzip.org/
+Platforms:      DOS, FreeDOS, OS/2, Mac and a lot of others
+Copying-policy: GNU General Public License, Version 2
+Summary:        Compresses single files, such as to compress a tar file to a tgz file. (8086 and 386 versions)
+CRC:            5e2d3f37
+MD5:            111bceab2bf8c205923e0f2a101735b1
+SHA:            951b39ecca64471cb600ded8f3b7ce1637becce3b74e3d426e6b007e83808756
+Bin-files:      11
+Bin-size:       207134
+Source-files:   80
+Source-size:    609974
+Total-files:    91
+Total-size:     817108
+End

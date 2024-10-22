@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       hangman
+Description: Jeu du pendu en plusieurs langues
+Keywords:    pendu
+End

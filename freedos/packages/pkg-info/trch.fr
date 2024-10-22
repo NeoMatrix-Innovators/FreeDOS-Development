@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       trch
+Description: Traduit les caractäres. Auparavant, c'Çtait le programme UNIX2DOS, mais la traduction de caractäres peut faire plus pour vous. [Similaire Ö, mais diffÇrent de, UNIX 'tr'.] (Comprend Cats GNU LGPL)
+Keywords:    trch, unix2dos, tr
+End

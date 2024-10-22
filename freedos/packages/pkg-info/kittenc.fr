@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       kittenc
+Description: Compilateur de ressources compatible avec catgets/kittengets
+Keywords:    dos, lib, d‚veloppement
+End

@@ -1,0 +1,23 @@
+Begin3
+Title:          DOSMid
+Version:        0.9.5a
+Entered-date:   2018-12-10
+Description:    MIDI and MUS player for many synthesizers
+Summary:        DOSMid is a MIDI and MUS player for many synthesizers (AWE, MPU-401, OPL...). It's a real mode application designed to run on very modest hardware configurations. It plays standard MIDI files, as well as MIDI in RIFF (ie. RMID), and MUS tunes (as used by Id Software in numerous games like Doom, Heretic, Hexen, etc).
+Keywords:       midi,mus,rmid,player
+Author:         Mateusz Viste
+Maintained-by:  Mateusz Viste
+Alternate-site: http://sourceforge.net/projects/dosmid/
+Original-site:  http://dosmid.sourceforge.net/
+Platforms:      DOS
+Copying-policy: Simplified (2-Clause) BSD License
+CRC:            a4ba39bd
+MD5:            9ddd75e5b61b9f3c36e5d5561cb4ebf4
+SHA:            8073a614a4c81940ce3ff04f7cece6bf8e606d4282151eb148b8c39c04f7145d
+Bin-files:      9
+Bin-size:       65106
+Source-files:   43
+Source-size:    500358
+Total-files:    52
+Total-size:     565464
+End

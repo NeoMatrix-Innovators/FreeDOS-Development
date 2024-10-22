@@ -1,0 +1,17 @@
+FD-REPOv1	Build time: 1645361091	Aygt Srcleri	16
+cdrcache	2004-05-13a	CD-ROM ”nbelle§i, bir src i‡in okunanlar ”nbelle§e alr, XMS, 386 veya daha iyisi	2484bd2a
+doslfn	0.41d	Dz DOS'ta uzun dosya ad (LFN) API'sini (Windows olmadan) sa§lar	8726041d
+gcdrom	2.4b	DOS i‡in SATA IDE CD/DVD-ROM srcs ('ODD DOS srcs' olarak da bilinir) Intel ICH6/ICH7/ICH8, Jmicron 363/368, Nvidia CK804 MCP55/MCP51 vs. gibi tm SATA IDE denetleyicilerini destekler (ad de§iŸtirilmiŸ bir XCDROM'dan derlenmiŸtir)	63fb5de0
+hiram	1.9a	80286, 80386, 80486 yongalar i‡in Yksek Bellek (Upper Memory Block (UMB)) GeniŸleticisi	550728b5
+lfndos	1.06a	DOS programlarna Windows 95 uzun dosya ismi API'n sa§lar. DOS 7 Command.com, edit.com ve tm DJGPP programlar gibi uzun dosya adlarn kullanabilen herhangi bir DOS program, bunlar LFNDOS ile ykleyebilir ve kaydedebilir. DOS kipini kullanan Win95 kullanclar i‡in tasarlanmŸtr, fakat eski DOS srmleri altnda da ‡alŸr.	2a0a4419
+lptdrv	0.7a	LPT ba§l cihazlar elle veya zamana ba§l olarak kontrol etmek i‡in bir ara‡	50863821
+ntfs	30Mar2001 (rev A)	NTFS b”lmlere eriŸimi etkinleŸtirir	362ef6db
+shareext	2.0a	Share (paylaŸm) geniŸleticisi	d4f54b79
+shsufdrv	1.02a	SHSUFDRV, disket ve sabit disk kalplar i‡in bir srcdr. SHSURDRV kalb RAM belle§e ykler ve/veya RAM srcler oluŸturur.	d62292b1
+spool	2.2a	Dosya yazdrmay arka planda toplar. Bu, bir PRINT komutunun kullanlmasn gerektirmez.	9597704c
+srdisk	2.09d	Yeniden boyutlandrlabilir Ramdisk. Srdisk hzldr ve 32 MB zeri XMS ve EMS belle§i kullanabilir. Diskin boyutu, yeniden baŸlatma veya i‡erik kayb olmadan de§iŸtirilebilir. Diskcopy ile uyumludur.	db1a819e
+udvd2	2015-03-05d	CD/DVD UltraDMA cihaz srcs	f17eefb5
+uhdd	2021-10-30	UHDD, 9 'eski' ve yerel PCI SATA/IDE denetleyicisi zerinde 22'ye kadar BIOS diski i‡in salt disk arabelle§e alma srcsdr.	18c6e633
+uide	2020-07-07a	DOS disk srcleri i‡in, CD/DVD, disket, SATA ve UltraDMA diskleri i‡in genel ama‡l bir arabelle§e alma srcs	8ce0e4b3
+usbdos	2010-01-30a	UHCI (USB 1.1 12Mbit/1.5mbit) i‡in DOS src koleksiyonu	47a59627
+xkeyb	1.15a	Uluslararas destek i‡in klavye srcs. Ayrca KEYMAN + KLUB + LISTDEF + SCANKBD i‡erir	c1e50ea2

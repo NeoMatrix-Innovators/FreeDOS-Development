@@ -1,0 +1,6 @@
+Begin3
+Language:    DE, 858
+Title:       Syslinux
+Description: Die Syslinux Bootloader Sammlung.
+Keywords:    eltorito syslinux memdisk isolinux module chain
+End

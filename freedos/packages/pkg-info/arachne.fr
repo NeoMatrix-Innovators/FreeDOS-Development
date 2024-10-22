@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Arachne
+Description: Un navigateur web pour DOS (versions 8086 & i386)
+Keywords:    r‚seau, www, navigateur
+End

@@ -1,0 +1,7 @@
+Begin3
+Language:    FR, 850
+Title:       ETHERDFS
+Description: SystŠme de fichiers DOS Ethernet (mappe un lecteur distant sur Ethernet brut)
+Summary:     EtherDFS est un TSR ®systŠme de fichiers installable¯ pour DOS. Il mappe un lecteur d'un ordinateur distant (g‚n‚ralement bas‚ sur GNU/Linux) … une lettre de lecteur local, en utilisant des trames Ethernet brutes pour communiquer. Pendant des ann‚es, j'utilisais LapLink pour transf‚rer des fichiers entre mes diff‚rents ordinateurs ®r‚tro¯. Cela fonctionne, oui, mais c'est aussi affreusement lent et n‚cessite une attention constante. Un jour, j'ai pens‚: ®ne serait-il pas ‚tonnant que tous mes PC DOS puissent partager un lecteur r‚seau commun, de la mˆme maniŠre que NFS fonctionne dans le monde *nix?¯. Ce jour EtherDFS ‚tait n‚. Je n'ai clairement rien invent‚ - le concept existe depuis presque aussi longtemps que le premier PC IBM, et plusieurs produits commerciaux ont r‚pondu … ce besoin dans le pass‚. Je ne connais cependant aucune solution libre et open-source. De plus, toutes les solutions commerciales que je connais n‚cessitent d'abord de configurer un environnement r‚seau assez complexe, tandis qu'EtherDFS n'a besoin de rien de plus qu'un simple pilote de paquets.
+Keywords:    etherdfs
+End

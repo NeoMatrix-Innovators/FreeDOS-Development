@@ -1,0 +1,17 @@
+FD-REPOv1	Build time: 1645361091	Pilotes de p‚riph‚riques	16
+cdrcache	2004-05-13a	Tampon CD-ROM, met en m‚moire tampon la lecture pour un lecteur, XMS, 386 ou sup‚rieur	2484bd2a
+doslfn	0.41d	Fournit l'API de noms de fichier longs (LFN) sous DOS (sans Windows)	8726041d
+gcdrom	2.4b	Pilote de CD/DVD-ROM IDE natif SATA pour DOS (alias ® pilote ODD DOS ¯) prend en charge tous les contr“leurs IDE natifs SATA, tels que Intel ICH6/ICH7/ICH8, Jmicron 363/368, Nvidia CK804 MCP55/MCP51, etc. (compil‚ … partir de un XCDROM rebaptis‚)	63fb5de0
+hiram	1.9a	Extenseur de m‚moire haute (Upper Memory, UMB) pour processeurs 80286, 80386, 80486	550728b5
+lfndos	1.06a	Fournit l'API de noms de fichier longs Windows 95 aux programmes DOS. Tout programme DOS pouvant utiliser des noms de fichiers longs, par exemple DOS 7 Command.com, edit.com et tous les programmes DJGPP, peut les charger et les enregistrer avec LFNDOS. Con‡u pour les utilisateurs Win95 utilisant le mode DOS, bien qu'il fonctionne ‚galement sous les versions DOS anciennes.	2a0a4419
+lptdrv	0.7a	un outil pour contr“ler les appareils connect‚s … LPT manuellement ou en fonction  du temps	50863821
+ntfs	30Mar2001 (rev A)	Permet l'accŠs … des partitions NTFS	362ef6db
+shareext	2.0a	Extenseur de partage (Share)	d4f54b79
+shsufdrv	1.02a	SHSUFDRV est un pilote pour les images de disque dur et de disquette. SHSURDRV copie l'image sur la m‚moire vive et/ou cr‚e des lecteurs RAM.	d62292b1
+spool	2.2a	Regroupe l'impression de fichiers en arriŠre-plan. Cela ne n‚cessite pas l'utilisation d'une commande PRINT.	9597704c
+srdisk	2.09d	Ramdisk redimensionnable. Srdisk est rapide et capable d'utiliser plus de 32 Mo de m‚moire XMS et EMS. La taille du disque peut ˆtre modifi‚e sans red‚marrage ni perte de contenu. Compatible avec Diskcopy.	db1a819e
+udvd2	2015-03-05d	Pilote de lecteur CD/DVD UltraDMA	f17eefb5
+uhdd	2021-10-30	UHDD est un pilote de mise en cache sur disque uniquement pour un maximum de 22 disques BIOS sur un maximum de 9 contr“leurs ®Legacy¯ et PCI natif SATA/IDE.	18c6e633
+uide	2020-07-07a	Un pilote de mise en m‚moire tampon … usage g‚n‚ral pour les lecteurs DOS, les disquettes, les CD/DVD, les disques SATA et UltraDMA	8ce0e4b3
+usbdos	2010-01-30a	Collection de pilotes DOS, pour UHCI (USB 1.1 12Mbit/1.5mbit)	47a59627
+xkeyb	1.15a	Pilote de clavier pour la prise en charge du support international. Comprend ‚galement KEYMAN + KLIB + LISTXDEF + SCANKBD	c1e50ea2

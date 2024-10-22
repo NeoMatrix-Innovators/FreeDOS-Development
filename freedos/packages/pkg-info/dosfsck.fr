@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       DOSFSCK
+Description: v‚rifie  la coh‚rence de systŠmes de fichiers PC/MS-DOS  et essaye optionnellement de les r‚parer
+Keywords:    scandisk,chkdsk
+End

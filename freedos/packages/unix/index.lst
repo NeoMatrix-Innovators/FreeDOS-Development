@@ -1,0 +1,17 @@
+FD-REPOv1	Build time: 1645361091	Unix Like Tools	16
+cal	1.07a	Calendar program, similar to UNIX 'cal'	25b7be9c
+du	1.0a	Display disk usage, similar to UNIX 'du'	b7833017
+gnubc	1.02a	bc is an arbitrary precision numeric processing language	be361cdb
+gnused	4.2.2a	GNU sed is the POSIX stream editor	f8b2f576
+grep	2.0a	grep searches files (or standard input) for lines that match a given pattern. The pattern may be a regular expression or a literal string.	1831fda3
+head	1.0a	Displays a part of a file	c10358ad
+less	291a	Page viewer with backward movement	6536b9c0
+md5sum	3.0a	Perform a checksum using the MD5 hash method	71586e3c
+nro	1.2a	Text processor similar to nroff on UNIX	b9ece9dd
+sleep	1.0a	Similar to the UNIX 'sleep' utility	f1322eee
+tee	2.0.3a	Saves a copy of its input to a file	dc1ecfcf
+touch	1.4.4a	Set the date + time stamp on a file	b4fc87a3
+trch	3.1g	Translates characters	4b117090
+uptimec	2.60a	Reports the system uptime	55e9c9c4
+which	2.1a	Find executables located in the PATH directory list	0a9c224b
+xgrep	1.03a	UNIX-like `grep' clone with regular expressions	6801a74d

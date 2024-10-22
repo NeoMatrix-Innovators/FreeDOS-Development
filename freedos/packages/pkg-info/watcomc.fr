@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Open Watcom C Compiler
+Description: Compilateur C/C++ Open Watcom
+Keywords:    watcom, c, compilateur
+End

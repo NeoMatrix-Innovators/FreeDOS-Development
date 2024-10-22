@@ -1,0 +1,7 @@
+Begin3
+Language:    FR, 850
+Title:       MinEd
+Description: êditeur de texte avec prise en charge Çtendue de l'Unicode et du CJK. Fonctions pratiques et efficaces pour l'Çdition de documents en texte brut, de programmes, du HTML etc. Interface conviviale, contrìle via la souris et menus.
+Summary:     Mined est un Çditeur de texte puissant. Mined fournit Ö la fois un support Çtendu Unicode et CJK offrant de nombreuses fonctionnalitÇs spÇcifiques et couvrant des cas particuliers que d'autres Çditeurs ne connaissent pas (comme les fonctions de dÇtection automatique et la gestion automatique des variantes de terminal ou des informations de caractäre Han). C'Çtait le premier Çditeur qui supportait Unicode dans un terminal en texte brut (comme xterm ou rxvt).
+Keywords:    Çditer, Çditeur, Unicode, page de code, encodage
+End

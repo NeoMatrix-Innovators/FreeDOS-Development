@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       utf8tocp
+Description: Convertit les fichiers texte UTF-8 en d'autres pages de code et vice versa
+Keywords:    page de codes, convertisseur
+End

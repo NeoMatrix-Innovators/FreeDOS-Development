@@ -1,0 +1,23 @@
+Begin3
+Title:          Testdisk (and Photorec)
+Version:        7.1a
+Entered-date:   2019-07-07
+Description:    Checks partition/bootsector of disks
+Keywords:       testdisk, photorec, data, recover, test
+Author:         Christophe GRENIER
+Maintained-by:  Christophe GRENIER
+Primary-site:   http://www.cgsecurity.org/
+Alternate-site: -
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        Testdisk checks partition/bootsector of disks; Photorec recovers many types of data
+CRC:            e796f84e
+MD5:            438baf7f819d6e2ca1ecd9d862ebdd4a
+SHA:            0fb635ef41c40aa49b6016ec3b45669589bae52c7b70e8bbc3e6c73934161525
+Bin-files:      18
+Bin-size:       1393144
+Source-files:   739
+Source-size:    4521903
+Total-files:    757
+Total-size:     5915047
+End

@@ -1,0 +1,7 @@
+Begin3
+Language:    DE, 858
+Title:       Uptime (Chamorro)
+Description: Zeigt die Uptime (Betriebszeit) an, sogar in DOSEMU. Žhnlich dem UNIX-Tool 'uptime'.
+Summary:     UPTIME ist ein 16bit DOS Tool, das die Zeit anzeigt, die seit Systemstart vergangen ist. Es ist das Pendant zum *NIX-Tool uptime.
+Keywords:    uptime
+End

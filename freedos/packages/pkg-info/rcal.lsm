@@ -1,0 +1,24 @@
+Begin3
+Title:          rcal
+Version:        1.0a
+Entered-date:   2018-08-02
+Description:    A big-numbers calculator with floating point that mimics the "paper rolling" calculators
+Summary:        A big-numbers calculator with floating point that mimics the "paper rolling" calculators. 8086+
+Keywords:       calc, calculator
+Author:         Mateusz Viste
+Maintained-by:  Mateusz Viste
+Primary-site:   http://rcal.sourceforge.net
+Original-site:  http://rcal.sourceforge.net
+Alternate-Site: https://sourceforge.net/projects/rcal/
+Platforms:      dos
+Copying-policy: MIT License
+CRC:            3aa4c8ab
+MD5:            d39ee82f681f526a02c95e5ad9ec67bd
+SHA:            82c33e026838a0693364ce819490c37e88f9513bc97d76ef49923907a34e0fae
+Bin-files:      8
+Bin-size:       31803
+Source-files:   23
+Source-size:    209831
+Total-files:    31
+Total-size:     241634
+End

@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       DOSUTIL
+Description: Collection de petits utilitaires pour les fichiers batch
+Keywords:    DOSUTILS SCRDUMP
+End

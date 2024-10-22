@@ -1,0 +1,17 @@
+Begin3
+Title:                SHARE
+Version:              08/2006a
+Entered-date:         2007-10-20
+Description:          File sharing and locking capabilities
+Summary:			  Installs file sharing and locking capabilities on your hard disk - for FreeDOS kernel only
+Keywords:             share,file sharing
+Author:               Ron Cemer
+Maintained-by:        Michael Devore (FreeDosStuff -AT- devoresoftware.com) Japheth <mail -at- japheth.de>
+Primary-site:         https://github.com/FDOS/share
+Platforms:            FreeDOS only
+Copying-policy:       GNU General Public License
+Wiki-site:            http://wiki.freedos.org/wiki/index.php/Share
+Defunct-Primary-Site: http://www.japheth.de/Download/share.zip
+legacy-site:          http://www.dosemu.org/~bart/
+legacy-site:          ftp://ftp.devoresoftware.com/downloads/share.zip
+End

@@ -1,0 +1,21 @@
+Begin3
+Title:          ETHERDFS
+Version:        0.8.2a
+Entered-date:   2018-02-03
+Description:    Ethernet DOS file system
+Summary:        EtherDFS is an 'installable filesystem' TSR for DOS. It maps a drive from a remote computer (typically Linux-based) to a local drive letter, using raw ethernet frames to communicate.
+Keywords:       etherdfs
+Author:         Mateusz Viste
+Alternate-site: http://etherdfs.sourceforge.net
+Platforms:      DOS
+Copying-policy: MIT License
+CRC:            2c7e5118
+MD5:            ed6ebe575c65b7839623dac2b98f4880
+SHA:            180fcc35209db7b589bc119ebd52a97629044742c5eaa255579ded46ec2c43b8
+Bin-files:      8
+Bin-size:       23246
+Source-files:   14
+Source-size:    121009
+Total-files:    22
+Total-size:     144255
+End

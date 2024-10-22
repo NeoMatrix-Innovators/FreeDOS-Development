@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       bcc - Bruce's C compiler
+Description: Bruce's C compiler est un compilateur qui produit de l'assembleur 8086 pour les petits modäles.
+Keywords:    K&R,C89,C,compilateur
+End

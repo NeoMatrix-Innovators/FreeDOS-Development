@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Floppy Bird
+Description: Floppy Bird est un clone de l'infƒme Flappy Bird ‚crit en assembleur 16 bits (x86).En d'autres termes, il fonctionne sur du m‚tal brut et ne n‚cessite pas de systŠme d'exploitation sous-jacent, c'est un systŠme d'exploitation … lui seul.
+Keywords:    jeux, action
+End

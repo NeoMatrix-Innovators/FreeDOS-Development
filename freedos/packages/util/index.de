@@ -1,0 +1,57 @@
+FD-REPOv1	Build time: 1645361091	Dienstprogramme	56
+aefdisk	1.0a	Kommandozeilengesteuertes Partitionierungstool fÅr DOS (portiert fÅr Open Watcom).	fe87ee00
+ambread	20201223	Der Reader fÅr das AMB (Ancient Machine Book) Format.	3845698b
+ansimat	0.93a	ANSiMat ist ein grafisches Anzeigetool fÅr ANSI-Dateien. Es kann auch genutzt werden, um ANSI-Dateien in regulÑre Bilddateien (BMP/PCX/PPM/TGA/TIF) umzuwandeln, ebenso in FLC (FLiC) Animationen.	0fd59a47
+b64	0.06R (rev A)	Tool zur Base64 Codierung nach RFC1113.	f940dfeb
+bmp2png	1.62a	Kommandozeilentool zum Umwandeln von BMPs in PNG und umgekehrt.	0f396f96
+bootfix	1.4a	Bootfix ist ein Bootsektortool zum Testen und Reparieren des Bootsektors.	d409f0e6
+bsum	1.1a	Erzeugt BSD-Checksummen von Dateien.	2c81e33a
+callver	2007-08-19a	Setzt die DOS Version fÅr das AusfÅhren eines Programms.	b1fd312f
+cdrom2ui	2003-11-16a	Ein kleines Tool fÅr CD-Laufwerke. UnterstÅtzt: eject, close, lock, unlock und reset.	0ca5a9dd
+cpied	1.3d	Ein CPI-Font-Editor mit GUI.	dce8e6a1
+cwsdpmi	7a	32-bit DPMI DOS Extender fÅr DJGPP.	68000114
+dialog	1.1-20080819a	Dialogboxen in Shell-Skripten anzeigen.	5c966da5
+dog	0.8.3c	Eine alternative command.com Shell, Ñhnlich FreeCOM, aber anders...	9b0fc76a
+dos32a	9.1.2a	DOS/32A ist ein DOS Extender.	1f6e8894
+dosfsck	2.11d	Testen und ggfs. Reparieren von PC/MS-DOS Datei-Systemen.	597867a7
+dosutil	2012a	Eine Sammlung kleinerer Tools fÅr Batchdateien.	2d651e83
+edict	0.10 (BETA) (rev A)	Umfangreiches Tool zum Erstellen von Diskimages - auch fÅr Disketten mit Problemen .	0c2eebaf
+fdnpkg	0.99.7a	Ein Netzwerk-Paketmanager fÅr FreeDOS.	852ca0c0
+finddisk	2005-03-23a	Ein Kleines Tool um Partitionen Åber ihr Label zu finden.	ba1f7c50
+flashrom	0.9.4(-revision 1495) (rev A)	Universal EEPROM Firmware und BIOS Flash-Tool (schreibt + speichert).	eecd8007
+foxcalc	0.92a	Ein netter Taschenrechner mit Text-User-Interface und Maus-UnterstÅtzung.	847cedc6
+foxtype	0.16a	Ein etwas besserer Text-Datei-Betrachter mit UTF-8 Support.	463a0d36
+gnuchcp	1.0b	LOADFONT (GNUCHCP) Ñndert die EGA/VGA Bitmap Schrift auf dem Bildschirm im Text-Mode.	f2bfcc3a
+gnufonts	1.0a	LOADFONT (GNUCHCP) rohe EGA/VGA-Bitmap-Schriftarten fÅr Textmodi.	7552f3fd
+hexcomp	1.0.4a	Vergleicht BinÑr-Dateien grafisch.	703659ad
+listpci	1.02	Zeigt Daten auf PCI-GerÑten an.	5cccd490
+listvesa	1.01	Dienstprogramm das meldet, welche VESA-Videomodi unterstÅtzt werden.	77f6a43e
+localcfg	0.90a	Tool zum Konfigurieren der locales-Einstellungen.	18191130
+localize	1.00a	öbersetzt Text.	9e837051
+memteste	2003a	MEMTESTE ist ein Programm zum Testen von DRAM (Hauptspeicher) von PC-kompatiblen Computern, die auf einem Intel 386-Prozessor oder hîher basieren.	45a0cce1
+ospimg	1.4a	Tool zum Lesen und Schreiben von Floppy Images.	e4cecfa1
+part	2.37a	Partition Manager, kann: Speichern/Schreiben des MBR, Erstellen und Lîschen von Partitionen, IDE-Informationen anzeigen, Formatieren und éndern der Grî·e von FAT-16 und FAT-32 Dateisystemen. Kommt mit ausgefeilten Bootmanagern.	030a698e
+pcisleep	12 mar 2005 (rev A)	PCISLEEP zeigt PCI-Karten an und schickt sie schlafen.	c23acedd
+pdtree	1.02-1a	Zeigt die Ordnerstruktur eines Laufwerks oder Pfads grafisch an. Wenn die LFN-API verfÅgbar ist, kann es auch lange Dateinamen. Support fÅr message catalogs in verschiedenen Sprachen (mit cats). LÑuft auf DOS und Windows NT/9x.	9f5b0a7c
+pg	1.16a	Zeigt den Inhalt einer Textdatei seitenweise an.	3fe5e511
+pkgtools	2021-12-31	Die allgemeinen Wartungsutilities fÅr FreeDOS-Pakete.	ea34f091
+raread	1.1a	Erzeugt ein Image einer Floppy (Diskette), welches mit RAWRITE wieder geschrieben werden kann.	f274d322
+rawrite	1.3a	Ein Floppy-Image von RAREAD auf eine Diskette schreiben.	68f5edcd
+rcal	1.0a	ein Taschenrechner fÅr gro·e Zahlen mit Gleitkomma, der die Taschenrechner mit Papierrollen nachahmt. 8086+.	3aa4c8ab
+search	1.0a	Findet Dateien auf dem Computer.	788d1840
+setlock	1.0a	Caps, Num und Scroll Lock Tasten per Software steuern.	8119cad8
+slowdown	3.10a	Verlangsamt einen schnellen Computer. Die Geschwindigkeit ist vollstÑndig Åber die Befehlszeile oder Åber Hotkeys konfigurierbar. Bietet verschiedene Methoden oder Modi um den Computer langsamer zu machen.	05cc2a16
+stamp	2.0a	Setzen, Lesen und Filtern der Zeitstempel von Dateien.	00deaaff
+switchar	1.0a	Anzeigen und Setzen des DOS Switchar.	3586ba66
+testdisk	7.1a	Testdisk checkt Partitionen und Bootsektoren von DatentrÑgern. Photorec ist ein Tool um Daten verschiedenster Art zu retten.	e796f84e
+topspin	3a	Ein MenÅ-Interpreter-Programm, welches dem Benutzer erlaubt, Umgebungen zu erstellen, wo es keine gibt.	606ba79c
+tp7p5fix	1.04	TSR zum Beheben des Runtime Error 200 in Turbo Pascal-Programmen zur Laufzeit, ohne dass ein Patch die ausfÅhrbare Datei patchen mu·.	222b7ada
+unrtf	0.21.5a	Konvertiert Dokumente im RTF-Format in andere Formate (html, latex, txt, ?).	0fc20871
+utf8tocp	0.9.2a	Konvertiert UTF-8-Textdateien in andere Codepages und zurÅck.	281792ca
+v8power	22.02.07	Eine Sammlung von Tools, die bei DOS-Batchdateien Verbesserungen fÅr die TextbenutzeroberflÑche und andere Verarbeitungsfunktionen bereitstellen kînnen (UPX komprimiert).	50f478fc
+wcd	6.0.2a	Wherever Change Directory (WCD) 16Bit Version fÅr DOS, ein Norton Change Directory (NCD) Klon mit neuen Features.	16fb7a22
+wde	3.0c	WDE ist ein Disk-Editor.	b3285ecd
+whichfat	2003-11-24a	FAT32 Kernel-Support-Erkennung und FAT-Typ-Erkennung (FAT 12-32) pro Laufwerk.	3963ec2f
+wptail	0.52.10a	Erstellt TUI Dialogfelder, Eingabemasken und liest Benutzereingaben unter Nutzung von libnewt.	b1c631ab
+xdel	2.06a	Erweitertes Lîschen von Dateien. DR-DOS Ñhnlich.	4e7cd24c
+zerofill	1.05a	FÅllt unbenutzten Speicher auf einen DatentrÑger mit Nullen.	435c4521

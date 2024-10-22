@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       stamp
+Description: D‚finir, afficher et filtrer les horodatages des fichiers
+Keywords:    freedos
+End

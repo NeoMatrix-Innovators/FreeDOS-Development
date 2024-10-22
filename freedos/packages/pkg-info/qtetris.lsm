@@ -1,0 +1,21 @@
+Begin3
+Title:          TETRIS Queen
+Version:        1.4.1a
+Entered-date:   2013-07-16
+Description:    A clone of the TETRIS game, and tribute to the band Queen
+Keywords:       tetris
+Author:         David A. Capello
+Primary-site:   http://qtetris.sourceforge.net
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        A clone of the TETRIS game, and a tribute to the Queen band at the same time.
+CRC:            b017ab63
+MD5:            f67457718d360387da57aa5a6df596c5
+SHA:            9fc0edce4c4c4696f7236c79819c68f0559c71698912033372b8038dd1c5337e
+Bin-files:      22
+Bin-size:       2275482
+Source-files:   148
+Source-size:    2971907
+Total-files:    170
+Total-size:     5247389
+End

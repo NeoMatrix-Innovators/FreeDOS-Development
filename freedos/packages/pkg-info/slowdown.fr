@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       SLOWDOWN
+Description: Ralentir un ordinateur rapide. La vitesse est entiärement configurable depuis la ligne de commande ou en utilisant des touches de raccourci. Possäde plusieurs 'mÇthodes' ou 'modes' pour ralentir l'ordinateur.
+Keywords:    DOS
+End

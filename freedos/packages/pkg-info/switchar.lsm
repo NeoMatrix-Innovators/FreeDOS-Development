@@ -1,0 +1,21 @@
+Begin3
+Title:                switchar
+Version:              1.0a
+Entered-date:         1998-09-30
+Description:          Display and set the DOS switch character
+Keywords:             freedos
+Author:               cdye _AT_ unm.edu
+Maintained-by:        raster _at_ highfiber.com
+Platforms:            DOS, FreeDOS
+Copying-policy:       GNU General Public License, Version 2
+Defunct-Primary-Site: http://www.highfiber.com/~raster/freeware.htm
+CRC:                  3586ba66
+MD5:                  2b1981782cd7b0d0f9e204fac45da281
+SHA:                  6843685f08516650c34c3c364b0d82352e7cd32a8e631c00e24ed900c60e6fbe
+Bin-files:            7
+Bin-size:             8028
+Source-files:         1
+Source-size:          18339
+Total-files:          8
+Total-size:           26367
+End

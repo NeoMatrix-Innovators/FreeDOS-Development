@@ -1,0 +1,23 @@
+Begin3
+Title:          hangman
+Version:        1.05b
+Entered-date:   2021-11-27
+Description:    Multilingual hangman
+Keywords:       hangman
+Author:         Mateusz Viste
+Maintained-by:  Mateusz Viste
+Primary-site:   http://hangman-dos.sourceforge.net
+Alternate-site: http://sourceforge.net/projects/hangman-dos/
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+Summary:        Multilingual hangman.
+CRC:            b173eadd
+MD5:            f7513134a4efcc931b49ef1226d999fd
+SHA:            064dc37db2b074bdbb9c61d13e5c137257c0bc7575a5697cd1fdded09f2be05b
+Bin-files:      25
+Bin-size:       101711
+Source-files:   1
+Source-size:    16678
+Total-files:    26
+Total-size:     118389
+End

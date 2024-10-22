@@ -1,0 +1,21 @@
+Begin3
+Title:          uHex
+Version:        1.0.4a
+Entered-date:   2015-08-27
+Description:    uHex is a simple and fast hex editor
+Keywords:       hex,editor,viewer
+Author:         Mateusz Viste
+Alternate-site: http://sourceforge.net/projects/uhex
+Original-site:  http://uhex.sourceforge.net
+Platforms:      DOS
+Copying-policy: Simplified (2-clause) BSD License
+CRC:            910e592c
+MD5:            64fc484edf47c7bfb20eaa591a8af904
+SHA:            9adf7a4390f28141c1522a5d271a95d0ff24d355f99baca207d731294ea2f4d5
+Bin-files:      9
+Bin-size:       16847
+Source-files:   15
+Source-size:    59930
+Total-files:    24
+Total-size:     76777
+End

@@ -1,0 +1,20 @@
+Begin3
+Title:          Vitetris
+Version:        0.55a
+Entered-date:   2013-12-07
+Description:    A terminal-based Tetris clone
+Author:         Victor Nilsson
+Primary-site:   http://victornils.net/tetris
+Platforms:      DOS, GNU/Linux, Windows
+Copying-policy: Simplified (2-Clause) BSD License
+Summary:        A terminal-based Tetris clone.
+CRC:            c303363a
+MD5:            39ca6a82da255763fd13bff689ee2ee6
+SHA:            7917d3ad3b8e78aa6b1dd9427c9f063a29f8053fbf3dd964e5214300a9a039a9
+Bin-files:      14
+Bin-size:       320668
+Source-files:   144
+Source-size:    432939
+Total-files:    158
+Total-size:     753607
+End

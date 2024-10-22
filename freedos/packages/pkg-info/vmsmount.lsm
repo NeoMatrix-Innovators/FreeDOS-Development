@@ -1,0 +1,23 @@
+Begin3
+Title:                 VMSMOUNT
+Version:               0.5c
+Entered-date:          2013-07-16
+Description:           Redirector to mount VMware shared folders
+Keywords:              vmware
+Author:                Eduardo Casino-Almao <mail@eduardocasino.es>
+Maintained-by:         Eduardo Casino-Almao <mail@eduardocasino.es>
+Primary-site:          https://sourceforge.net/projects/vmsmount/
+Platforms:             DOS
+Copying-policy:        GNU General Public License, Version 2
+Defunct-Original-Site: https://www.eduardocasino.es/code/vmsmount/
+Summary:               A DOS redirector for mounting VMware's shared folders
+CRC:                   9cf80608
+MD5:                   a8f19fe9bee67a9e87d6ce83639d784d
+SHA:                   9706eb652cc36dcc942c4c5d41b5d70fb256e12ca0fc4c5564afd3ea60faf72e
+Bin-files:             34
+Bin-size:              79772
+Source-files:          53
+Source-size:           243184
+Total-files:           87
+Total-size:            322956
+End

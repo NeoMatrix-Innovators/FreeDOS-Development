@@ -1,0 +1,7 @@
+FD-REPOv1	Build time: 1645361091	D‚veloppement	6
+bcc	0.16.10a	Bruce's C compiler est un compilateur qui produit de l'assembleur 8086 pour les petits modŠles.	7bed01aa
+fpc	3.2.2	Un compilateur Pascal auto-h‚berg‚ 32/64 bits prenant en charge les dialectes Turbo et Delphi. (Certaines parties n‚cessitent le support LFN)	1bb88014
+kittenc	2021-08-01	Compilateur de ressources compatible avec catgets/kittengets	c4fbf05d
+nasm	2.15.05a	L'assembleur Netwide (version compress‚e avec UPX)	b33948e8
+upx	3.96a	UPX est un empaqueteur libre, portable, extensible et performant pour diff‚rents formats ex‚cutables.	be14f7f2
+watcomc	1.9	Compilateur C/C++ Open Watcom	9c22f267

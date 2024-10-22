@@ -1,0 +1,20 @@
+Begin3
+Title:          xDel
+Version:        2.06a
+Entered-date:   2002-05-22
+Description:    Extended file delete, DR-DOS like
+Keywords:       xdel, del, deltree, delete
+Author:         Alain Mouette <alainm at bonseletrons.com.br>
+Maintained-by:  Alain Mouette <alainm at bonseletrons.com.br>
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+CRC:            4e7cd24c
+MD5:            0a26abebb13fc5ad2f12c955b5c1e887
+SHA:            1e4f9a61f645c9af195675216e56b046e84227065032778c9caf0c8290cad647
+Bin-files:      14
+Bin-size:       33966
+Source-files:   5
+Source-size:    36671
+Total-files:    19
+Total-size:     70637
+End

@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       cURL
+Description: Curl est un outil en ligne de commande pour transf‚rer des donn‚es sp‚cifi‚es avec la syntaxe de l'URL.
+Keywords:    freedos, curl
+End

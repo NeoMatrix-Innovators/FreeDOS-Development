@@ -1,0 +1,6 @@
+Begin3
+Language:    DE, 858
+Title:       WhichFAT
+Description: FAT32 Kernel-Support-Erkennung und FAT-Typ-Erkennung (FAT 12-32) pro Laufwerk.
+Keywords:    freedos, fat, disk
+End

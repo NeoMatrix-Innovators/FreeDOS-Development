@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Localize
+Description: Traduire des textes
+Keywords:    freedos localiser batch
+End

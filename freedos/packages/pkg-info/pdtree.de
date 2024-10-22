@@ -1,0 +1,6 @@
+Begin3
+Language:    DE, 858
+Title:       pdTree
+Description: Zeigt die Ordnerstruktur eines Laufwerks oder Pfads grafisch an. Wenn die LFN-API verfÅgbar ist, kann es auch lange Dateinamen. Support fÅr message catalogs in verschiedenen Sprachen (mit cats). LÑuft auf DOS und Windows NT/9x.
+Keywords:    tree, freedos, DOS, Win32
+End

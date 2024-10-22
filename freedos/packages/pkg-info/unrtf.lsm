@@ -1,0 +1,20 @@
+Begin3
+Title:          UnRTF
+Version:        0.21.5a
+Entered-date:   2013-08-22
+Description:    Convert RTF documents to other formats
+Summary:        Convert RTF documents to other formats (html,latex,txt...)
+Keywords:       rtf
+Author:         Zachary Smith
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 3
+CRC:            0fc20871
+MD5:            7451f722579367dae4c9da092aecd95c
+SHA:            bffdae9f1d844345e2d9b02abe10de62789fb1260da3de9e7b51a6f58a6e511c
+Bin-files:      18
+Bin-size:       1090092
+Source-files:   166
+Source-size:    5792324
+Total-files:    184
+Total-size:     6882416
+End

@@ -1,0 +1,8 @@
+FD-REPOv1	Build time: 1645361091	Applications	7
+dn2	2.14 beta (rev A)	DOS Navigator 2 OpenSource est un gestionnaire de fichiers basÇ sur DOS Navigator (c) 1991-99 par RIT Research Labs.	38c2aa4f
+doszip	2.55b	Petit gestionnaire de fichiers compatible LFN avec un gestionnaire zip intÇgrÇ. CompilÇ avec JWasm et OpenWatcom. Comprend toutes les sources pour DOS et Windows	1621b0c1
+fdimples	0.11.5	Programme d'installation de FreeDOS - Logiciel d'Çdition de la liste de mes paquets	592db6ed
+fdshell	0.10beta (rev B)	ImplÇmentation de l'interface utilisateur graphique DOSSHELL pour FreeDOS	972b868b
+fdtui	0.8	Shell d'interface utilisateur en mode texte de FreeDOS.	d0196837
+imgedit	2022-02-10 alpha	êditeur simple d?images	4cbc3e5f
+pgme	2022-02-08	Un lanceur d'application multi-menus entiärement personnalisable pour DOS. Il comprend Çgalement Font Designer et plusieurs autres utilitaires. (NÇcessite la souris)	dd323bb0

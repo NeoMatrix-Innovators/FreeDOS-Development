@@ -1,0 +1,21 @@
+Begin3
+Title:          MSEDIT
+Version:        0.11a
+Entered-date:   2012-09-22
+Description:    Mateusz' Saucy Editor
+Keywords:       text editor
+Author:         Mateusz Viste
+Primary-site:   http://sourceforge.net/projects/msedit/
+Alternate-site: Alternate-site
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 2
+CRC:            8b351c1c
+MD5:            5b70cb95a6ff5cab96757cd1940124cb
+SHA:            7e4a967cb80908858ffea084ed446f0056a1be2a2187965cef2c15aa89781f03
+Bin-files:      10
+Bin-size:       165243
+Source-files:   1
+Source-size:    50617
+Total-files:    11
+Total-size:     215860
+End

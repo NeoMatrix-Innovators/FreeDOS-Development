@@ -1,0 +1,22 @@
+Begin3
+Title:          OSPlus Text Editor
+Version:        2.1.1a
+Entered-date:   2017-05-05
+Description:    A friendly text editor for DOS
+Summary:        OSPlus Text Editor: A friendly text editor for DOS. Includes Real mode and Protected mode (DJGPP) versions.
+Keywords:       text, editor, dos, rtf, txt, wri
+Author:         Owen Rudge <orudge _AT_ freeuk.com>
+Maintained-by:  Owen Rudge <orudge _AT_ freeuk.com>
+Original-site:  http://osplus.sourceforge.net/
+Platforms:      DOS (Borland C++ 4.51, DJGPP), FreeDOS
+Copying-policy: GNU General Public License, Version 2
+CRC:            c9400b69
+MD5:            7f9d8e6ccb4832ed5591c73579d9b1e4
+SHA:            7ca83eb59a590c2d769e7b3ba540bec5577461b484b364a5022a41557dafd6f7
+Bin-files:      38
+Bin-size:       994124
+Source-files:   85
+Source-size:    442652
+Total-files:    123
+Total-size:     1436776
+End

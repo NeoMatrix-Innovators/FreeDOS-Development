@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Dillo
+Description: Navigateur Web graphique connu pour sa rapidit‚ et son faible encombrement.
+Keywords:    dillo, web, www, navigateur
+End

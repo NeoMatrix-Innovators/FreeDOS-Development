@@ -1,0 +1,21 @@
+Begin3
+Title:          NTOOL
+Version:        1.5a
+Entered-date:   2013-02-01
+Description:    An incarnation of the famous program NETCAT
+Keywords:       ntool,netcat
+Author:         Joergen Hoffmann
+Original-site:  http://www.bttr-software.de/products/jhoffmann/
+Platforms:      DOS
+Copying-policy: EUPL v1.1
+Summary:        NTOOL is just another incarnation of the famous program NETCAT, based on the WatTCP stack.
+CRC:            e6f4a6db
+MD5:            a3287a5eb4240ac48b98e40f34744f42
+SHA:            887e09b21ef8c80e4750fa5918c481b3c1019b112c0afc5f902bfa38d862eb17
+Bin-files:      8
+Bin-size:       185621
+Source-files:   7
+Source-size:    89273
+Total-files:    15
+Total-size:     274894
+End

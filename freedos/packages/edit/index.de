@@ -1,0 +1,17 @@
+FD-REPOv1	Build time: 1645361091	Editoren	16
+biew	6.10a	Biew ist ein bin/hex Editor und Anzeigeprogramm. (Benîtigt i686+).	1fe6ebe6
+blocek	1.62r2	Ein graphischer Texteditor mit Unicode- und BildunterstÅtzung.	c2dbe140
+doshexed	1.2g	Hex Editor und Betrachter.	4f1cd182
+e3	2.7.1a	Ein sehr kleiner Texteditor in einer 16bit- sowie einer 32bit-Version.	cda01462
+elvis	2.2a	Ein VI/EX Klon, DEM Standard UNIX Editor. UnterstÅtzt fast alle VI/EX Befehle.	295f17c0
+fed	2.24c	Ein Text-Editor mit farbigem Syntax-Highlighting und Zeilenumbruch.	a58e4e3b
+freemacs	1.6h	Ein GNU-Emacs Ñhnlicher DOS-Editor.	59bf43d3
+mbedit	8.64a	Mbedit ist ein Full-Screen-Editor mit Macros, Taschenrechner, Kommandohistorie, Hex Editor und vielen weiteren Features.	170f2c36
+mined	2015.25a	Texteditor mit Unicode und CJK Support. Nette Features zum Editieren von reinen Text Dateien, Programmen, HTML usw. Benutzerfreundliche OberflÑche, Maus und MenÅs.	2b9519a5
+msedit	0.11a	Mateusz' Saucy (frecher) Editor.	8b351c1c
+ospedit	2.1.1a	Ein freundlicher Text-Editor fÅr DOS.	c9400b69
+pico	3.96a	Einfacher Texteditor im Stil des Pine Composers.	301fc35c
+setedit	0.5.4a	Ein Programmier-Editor fÅr DJGPP, Ñhnlich der Borland C++ IDE und RHIDE.	bb805916
+tde	5.1w	TDE ist ein einfacher, public-domain Multi-Datei und Multi-Fenster Editor fÅr Text- und BinÑr-Dateien. Entwickelt fÅr IBM PCs und Klone mit DOS und Win32 Konsole.	6e7518af
+uhex	1.0.4a	Uhex ist ein einfacher und schneller Hex-Editor.	910e592c
+vim	7.3a	Erweiterte, verbesserte Version von 'vi'.	14cff902

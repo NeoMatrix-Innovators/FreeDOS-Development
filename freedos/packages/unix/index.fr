@@ -1,0 +1,17 @@
+FD-REPOv1	Build time: 1645361091	Outils Unix	16
+cal	1.07a	Programme de calendrier, similaire au 'cal' sur UNIX	25b7be9c
+du	1.0a	Afficher l'utilisation du disque, comme UNIX 'du'	b7833017
+gnubc	1.02a	bc est un langage de traitement num‚rique de pr‚cision arbitraire. La syntaxe est similaire … C mais diffŠre dans de nombreux domaines importants. Il supporte l'ex‚cution interactive des instructions. bc est un utilitaire inclus dans le projet de norme POSIX P1003.2/D11.	be361cdb
+gnused	4.2.2a	GNU sed est l'impl‚mentation GNU de l'‚diteur de flux POSIX `sed'.	f8b2f576
+grep	2.0a	grep recherche dans les fichiers (ou dans l'entr‚e standard) les lignes correspondant … un modŠle donn‚. Le modŠle peut ˆtre une expression r‚guliŠre ou une chaŒne litt‚rale.	1831fda3
+head	1.0a	affiche une partie d'un fichier	c10358ad
+less	291a	Less est un programme similaire … more, mais qui permet le d‚placement … rebours dans le fichier aussi bien que le d‚placement vers l'avant. Aussi, less n'a pas … lire toute l'entr‚e avant de d‚marrer, donc avec de fichiers d'entr‚e imposants il d‚marre plus vite que les ‚diteurs de texte comme vi.	6536b9c0
+md5sum	3.0a	Programme de sommes de contr“le MD5	71586e3c
+nro	1.2a	Un processeur de texte similaire … nroff sur UNIX	b9ece9dd
+sleep	1.0a	sleep est similaire … l'utilitaire UNIX du mˆme nom. sleep peut ˆtre utilis‚ pour suspendre l'ex‚cution des fichiers de commandes pendant un certain temps. sleep donne les tranches de temps aux systŠmes d'exploitation qui le supportent. sleep reconnaŒt et honore ‚galement le switchar DOS.	f1322eee
+tee	2.0.3a	Enregistre une copie de son entr‚e dans un fichier, tout en imprimant une copie sur stdout	dc1ecfcf
+touch	1.4.4a	D‚finir la date et l'heure sur un fichier comme avec *nix 'touch'	b4fc87a3
+trch	3.1g	Traduit les caractŠres. Auparavant, c'‚tait le programme UNIX2DOS, mais la traduction de caractŠres peut faire plus pour vous. [Similaire …, mais diff‚rent de, UNIX 'tr'.] (Comprend Cats GNU LGPL)	4b117090
+uptimec	2.60a	Indique la dur‚e de fonctionnement, mˆme … l'int‚rieur de DOSEmu. Similaire … 'uptime' d'UNIX.	55e9c9c4
+which	2.1a	which est un utilitaire n‚ dans le monde UNIX qui permet aux utilisateurs de trouver des fichiers ex‚cutables dans les r‚pertoires list‚s dans la variable d'environnement PATH. Prise en charge complŠte des caractŠres g‚n‚riques, noms de chemins relatifs, d‚tails de fichier facultatifs (taille, date). Extensions de programme d‚finissables par l'utilisateur, format de page/date correct pour la page de codes. Nouveau support DOS switchar.	0a9c224b
+xgrep	1.03a	Clone de `grep' sur UNIX rapide prenant en charge les expressions r‚guliŠres	6801a74d

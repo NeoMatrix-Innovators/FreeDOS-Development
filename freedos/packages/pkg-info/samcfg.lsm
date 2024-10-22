@@ -1,0 +1,21 @@
+Begin3
+Title:          SAMCFG
+Version:        20110719a
+Entered-date:   2011-07-19
+Description:    Sample configuration files
+Summary:        Set of sample files for creating C:CONFIG.SYS and C:AUTOEXEC.BAT from previous versions of FreeDOS.
+Keywords:       freedos, sample, configuration, config.sys, autoexec.bat, batch, script
+Author:         Bernd Blaauw <bblaauw@home.nl>
+Maintained-by:  Bernd Blaauw <bblaauw@home.nl>
+Platforms:      DOS, FreeDOS
+Copying-policy: Public domain
+CRC:            ce19ae9e
+MD5:            57a5d4e5f8cc837439f0cc7c5d0b5548
+SHA:            05e0a5e897183d16d567b626c57843bba1cae12b8ace197946356b2ed5faca69
+Bin-files:      20
+Bin-size:       60722
+Source-files:   6
+Source-size:    91392
+Total-files:    26
+Total-size:     152114
+End

@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       DOS Defender
+Description: DOS Defender est un jeu DOS en mode r‚el x86 pour Ludum Dare # 31 (d‚cembre 2014). Comme peu de machines DOS existent encore, la plate-forme cible est en fait DOSBox, mais le jeu devrait fonctionner dans une certaine mesure sur n'importe quel systŠme DOS. Il peut ˆtre jou‚ avec une souris mais il est destin‚ … ˆtre jou‚ avec un manette
+Keywords:    games
+End

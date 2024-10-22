@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       TETRIS Queen
+Description: Un clone du jeu TETRIS et un hommage au groupe Queen en mˆme temps.
+Keywords:    tetris
+End

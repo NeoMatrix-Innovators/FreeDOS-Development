@@ -1,0 +1,21 @@
+Begin3
+Title:          GNU sed
+Version:        4.2.2a
+Entered-date:   2016-07-10
+Description:    GNU sed is the POSIX stream editor
+Keywords:       sed
+Maintained-by:  Jim Meyering <jim _at_ meyering.net>, and Assaf Gordon <assafgordon _at_ gmail.com>
+Original-site:  http://www.gnu.org/software/sed
+Platforms:      DOS, FreeDOS
+Copying-policy: GNU General Public License, Version 3
+Summary:        GNU sed is the GNU implementation of the POSIX stream editor `sed'.
+CRC:            f8b2f576
+MD5:            180193e886f68dc745a9a2c1d0dc7a46
+SHA:            32d284ee63b56ca04e8fe67f3af9e992ebfe3f5198151ada85fb2bc4739582a6
+Bin-files:      16
+Bin-size:       589446
+Source-files:   614
+Source-size:    8439812
+Total-files:    630
+Total-size:     9029258
+End

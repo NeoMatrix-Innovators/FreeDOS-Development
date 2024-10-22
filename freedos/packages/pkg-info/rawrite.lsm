@@ -1,0 +1,22 @@
+Begin3
+Title:                  rawrite
+Version:                1.3a
+Entered-date:           2008-06-19
+Description:            Write disk image to a floppy drive
+Keywords:               floppy, write, rawrite
+Author:                 Mark Becker (mbeck _AT_ ai.mit.edu)
+Maintained-by:          Guy Helmer (ghelmer _AT_ dsuvax.dsu.edu)
+defunct-Alternate-site: http://www.fdos.org/ripcord/rawrite/
+Platforms:              DOS, FreeDOS
+Copying-policy:         Source code available (open)
+Summary:                Write disk file to raw floppy diskette
+CRC:                    68f5edcd
+MD5:                    0d1ca38d45c44c6787de9c6207765423
+SHA:                    5e5c2956d855375ad1e9bc99fe668cbde41d1d2a0bbd96d5db6a671852eb13f1
+Bin-files:              7
+Bin-size:               18303
+Source-files:           1
+Source-size:            6166
+Total-files:            8
+Total-size:             24469
+End

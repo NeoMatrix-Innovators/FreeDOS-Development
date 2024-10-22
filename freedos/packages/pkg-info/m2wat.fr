@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       M2WAT
+Description: Utilitaire pour transf‚rer les r‚glages de MTCP.CFG vers WATTCP.CFG.
+Keywords:    mTCP, WATTCP, DHCP
+End

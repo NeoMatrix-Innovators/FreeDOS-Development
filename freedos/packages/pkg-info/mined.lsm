@@ -1,0 +1,23 @@
+Begin3
+Title:          MinEd
+Version:        2015.25a
+Entered-date:   2017-05-05
+Description:    Text editor with Unicode and CJK support
+Summary:        Text editor with extensive Unicode and CJK support. Convenient and efficient features for editing of plain text documents, programs, HTML etc. User-friendly interface, mouse control and menus.
+Keywords:       edit, editor, unicode, codepage, encoding
+Author:         Michiel Huisjes (Minix), Achim MÅller (UNIX), Thomas Wolff <mined -at- towo.net>
+Maintained-by:  Thomas Wolff <mined -at- towo.net>
+Primary-site:   http://sourceforge.net/projects/mined/
+Alternate-site: http://towo.net/mined/
+Platforms:      DOS, Win32 (Cygwin), *nix
+Copying-policy: GNU General Public License, Version 3
+CRC:            2b9519a5
+MD5:            0aa51e96d96c800ecc890f9ab3bbb64e
+SHA:            e68abfa195cae48bf035ae24a507ff32fd57d605430aaa2af74e590b07ff714f
+Bin-files:      9
+Bin-size:       1352607
+Source-files:   588
+Source-size:    28525923
+Total-files:    597
+Total-size:     29878530
+End

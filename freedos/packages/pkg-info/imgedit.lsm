@@ -1,0 +1,24 @@
+Begin3
+Title:          ImgEdit
+Version:        2022-02-10 alpha
+Entered-date:   2022-02-10
+Description:    Simple pixel editor mostly for creating graphics for the Danger Engine
+Summary:        A simple pixel editor mostly for creating graphics and fonts for “the Danger Engine” based programs and games. It has limited support for non-native graphics formats like BMP. At present, some options (like image size) can only be set from the command-line. Also, it includes a simple viewer called IMGVIEW. Requires 386+, VGA and MOUSE. (UPX Compressed)
+Keywords:       dos, game, images, sprites, igg, igs, bmp, development, dev
+Author:         Jerome Shidel <jerome _AT_ shidel.net>
+Maintained-by:  Jerome Shidel <jerome _AT_ shidel.net>
+Primary-site:   https://fd.lod.bz/repos/current/pkg-html/imgedit.html
+Alternate-site: https://gitlab.com/DangerApps/imgedit
+Changes:        Bug Fixes and XBM export for C Sources.
+Platforms:      DOS
+Copying-policy: BSD 3-Clause License
+CRC:            4cbc3e5f
+MD5:            5253e3cb9369c09b108c33e1d322753f
+SHA:            1fa2b8cfe503cd5b66d58da882de770c15ef90423a540daac10e8f8fa5b40801
+Bin-files:      7
+Bin-size:       224523
+Source-files:   57
+Source-size:    219137
+Total-files:    64
+Total-size:     443660
+End

@@ -1,0 +1,23 @@
+Begin3
+Title:          Gopherus
+Version:        1.2a
+Entered-date:   2020-01-19
+Description:    Console-mode gopher client
+Summary:        Gopherus is a free, multiplatform, console-mode gopher client available for DOS, Linux and Windows. It provides a classic text interface to the gopherspace.
+Keywords:       gopher net network
+Author:         Mateusz Viste
+Maintained-by:  Mateusz Viste
+Primary-site:   http://gopherus.sourceforge.net/
+Original-site:  http://gopherus.sourceforge.net/
+Platforms:      DOS
+Copying-policy: Simplified (2-Clause) BSD License
+CRC:            bbe5c905
+MD5:            1c72b089cbba356e884448e401b49b73
+SHA:            f785b0d7626e37f92faef7dae48993fde8bd052948c659c93b6594c500492503
+Bin-files:      9
+Bin-size:       161713
+Source-files:   213
+Source-size:    4876941
+Total-files:    222
+Total-size:     5038654
+End

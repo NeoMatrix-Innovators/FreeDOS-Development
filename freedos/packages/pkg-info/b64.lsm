@@ -1,0 +1,24 @@
+Begin3
+Title:          b64
+Version:        0.06R (rev A)
+Entered-date:   2013-02-01
+Description:    Base64 Content-Transfer-Encoding
+Keywords:       b64,base64
+Author:         Bob Trower
+Maintained-by:  -
+Primary-site:   -
+Alternate-site: -
+Original-site:  http://base64.sourceforge.net
+Platforms:      DOS
+Copying-policy: MIT license
+Summary:        Utility that implements the Base64 Content-Transfer-Encoding standard described in RFC1113.
+CRC:            f940dfeb
+MD5:            4e4b24cecb9b93a2cef612e2d57cf9db
+SHA:            c303b678e115ddd5534a9d158701c9672d3344ee7946d7efe3c391974793b002
+Bin-files:      8
+Bin-size:       16162
+Source-files:   6
+Source-size:    22689
+Total-files:    14
+Total-size:     38851
+End

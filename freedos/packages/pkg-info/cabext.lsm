@@ -1,0 +1,23 @@
+Begin3
+Title:                 CABExtract
+Version:               1.8a
+Entered-date:          2018-10-30
+Description:           Extract files from a variety of CAB formats
+Keywords:              cab, compressed, archive
+Author:                Stuart Caie <kyzer -at- 4u.net>
+Maintained-by:         Robert Riebisch
+Primary-site:          http://www.cabextract.org.uk/
+Platforms:             DOS
+Copying-policy:        GNU General Public License, Version 3
+Defunct-Original-Site: http://www.kyz.uklinux.net/cabextract.php
+Summary:               CABExtract can extract files from a variety of Microsoft CAB formats.
+CRC:                   357ee2a5
+MD5:                   11a233667b6b1e4df57261e74aeebce7
+SHA:                   8d34295481f9ffa92a444affc84ed7816ff25bd0491eb4aa82989ee223271cfd
+Bin-files:             14
+Bin-size:              162460
+Source-files:          57
+Source-size:           1069155
+Total-files:           71
+Total-size:            1231615
+End

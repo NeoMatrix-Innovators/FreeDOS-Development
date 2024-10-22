@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       Whiptail
+Description: Cr‚er des boŒtes de dialogue et des formulaires TUI et collecter les entr‚es utilisateur … l'aide de libnewt
+Keywords:    dialogue, whiptail, newt, gpm
+End

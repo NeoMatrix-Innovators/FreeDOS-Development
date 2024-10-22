@@ -1,0 +1,21 @@
+Begin3
+Title:                 bcc - Bruce's C compiler
+Version:               0.16.10a
+Entered-date:          2017-04-16
+Description:           Simple C compiler that produces 8086 assembler for tiny/small models.
+Keywords:              K&R,C89,C,compiler
+Author:                Bruce Evans, Robert de Bath
+Platforms:             DOS
+Copying-policy:        GNU General Public License, Version 2
+Defunct-Original-Site: http://www.debath.co.uk/
+Summary:               Bruce's C compiler is a simple C compiler that produces 8086 assembler for tiny/small models.
+CRC:                   7bed01aa
+MD5:                   042824bdcb75e905d4e5b2bdabd76bc8
+SHA:                   70ca44f14232fccb165bb0413cde01d37087b4c10d0267f2f244a6f17a2002c3
+Bin-files:             115
+Bin-size:              794410
+Source-files:          662
+Source-size:           2446546
+Total-files:           777
+Total-size:            3240956
+End

@@ -1,0 +1,22 @@
+Begin3
+Title:                pdTree
+Version:              1.02-1a
+Entered-date:         2004-05-22
+Description:          Display the folder structure of a drive or path.
+Keywords:             tree, FreeDOS, DOS, Win32
+Author:               Kenneth J. Davis <jeremyd@computer.org>
+Maintained-by:        Kenneth J. Davis <jeremyd@computer.org>
+defunct-Primary-site: http://www.darklogic.org/fdos/ftp/tree/
+Platforms:            DOS (TC30, BC31), Win32 (VC5, BCC55)
+Copying-policy:       Public Domain (optional use of LGPL catgets by Jim Hall)
+Summary:              Graphically displays the folder structure of a drive or path. Supports long file names if LFN api present, support for message catalogs (different languages) using cats, and supports both Windows NT/9x and DOS.
+CRC:                  9f5b0a7c
+MD5:                  6ff4c28983124f174a531e0c7757828f
+SHA:                  a1022c1e03c86f16c668e51cb2755c9738c0b74466d4576437477fd35b03d6a2
+Bin-files:            6
+Bin-size:             42120
+Source-files:         31
+Source-size:          218698
+Total-files:          37
+Total-size:           260818
+End

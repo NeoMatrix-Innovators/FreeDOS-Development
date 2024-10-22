@@ -1,0 +1,31 @@
+FD-REPOv1	Build time: 1645361091	Oyunlar	30
+blkdrop	v0.1	DÅüen bloklara dayalç bir oyun	d8fe4dd2
+bolitare	0.62b	DOS iáin bir Freecell klonu	224feeb6
+boom	2.02a	Doom kaynak kodunun GPL taüçmasç. Tam oyun deneyimi iáin FreeDoom ile paketlenmiütir.	5dbc91d6
+dosdef	1.00a	DOS Defender, Ludum Dare #31 (Aralçk 2014) iáin bir x86 geráek mod DOS oyunudur. Az sayçda DOS makinelerinin hÉlÉ mevcut olmasçndan dolayç hedef platform aslçnda DOSBox'dçr, ancak herhangi bir DOS sisteminde belli bir noktaya kadar áalçümasç gerekir. Oyun fareyle oynanabilir ancak oyun kolu ile oynanmak iáin tasarlanmçütçr.	d61ee06b
+eliza	1.01a	en eski YZ bilgisayar sohbet robotlarçndan biri	f9850151
+empong	0.91a	Emeritus Pong, 'Pong' oyununun bir klonudur.	52985e35
+ev4de	1.2a	EV4DE ('evade' yani iveyd olarak telaffuz edilir) bir gemiyi uzayda uáurmak ve gîktaülarçndan kaáçnmakla ilgili bir oyundur. öá farklç oyun kipi oynayabilir, ek gemilerin kilidini aáabilir ve en yÅksek puanç alabilirsiniz! EV4DE bir klavye ile oynanabilir, ancak bir oyun kolu kullanmançzç hararetle tavsiye ederim.	3b6610b9
+ewsnake	0.5a	('Nibbles' olarak da bilinen) klasik yçlan oyununun klonu.	23a4dbe0
+flpybird	1.0a	Floppy Bird, 16 bir assembly (x86) ile yazçlmçü meühur Flappy Bird klonudur. Baüka bir deyiüle doßrudan metal Åzerinde áalçüçr ve bir iületim sistemine gerek duymaz, o kendi kendine bir iületim sistemidir.	ad292fd8
+fmines	1.00a	GÅzel grafik temalarç bulunan minesweeper'a (mayçnlara) benzer bir oyun.	6a56b580
+freedoom	3.30b	SMMU, MBF ve Boom'dan tÅretilmiü Doom kaynak taüçmasçdçr. Bu sÅrÅm tam oyun deneyimi iáin FeeDoom ile paketlenmiütir.	85fb87e3
+gnuchess	4.0 patch 60 (rev A)	GNU Chess bir satraná programçdçr. Katkçda bulunanlar onu daha gÅálÅ, iyi ve üçk bir program yapmak iáin zamanlarçnç ve áabalarçnç baßçülarlar.	46f36a97
+hangman	1.05b	Äok dilli cellat (hangman) oyunu	b173eadd
+ivan	0.50a	Grafik, rogue'a benzer bir oyun.	4f6b5e97
+kraptor	Apr_2004 (rev A)	Kraptor, biráok seviyesi bulunan aáçk kaynaklç Raptor benzeri bir oyundur.	b36aaf4b
+liquiwar	5.6.3a	Äok oyunculu benzersiz bir savaü oyunu.	5401d9b0
+mirmagic	2.0.2a	'Deflektor' (C 64) veya 'Mindbender' (Amiga) gibi Arcade tarzç bir oyun.	94e0c875
+mistral	1.0	Klasik makineniz iáin casusluk temalç tur tabanlç eski tarzlç bir rol yapma oyunu, RPG.	beb32643
+nethack	3.4.3a	Tek oyunculu zindan keüfi oyunu.	d104b799
+nge_nibb	0.1.0a	Eski bir arcade oyunu olan Nibbles'çn bir klonu.	a2200bf9
+noudar	1.2	OpenGL 1.1 veya OpenGL ES 2.0 kullanarak C++ 14 (benzeri) ile yazçlmçü ve DOS oyun tadç olan birinci üahçs zindan keüfi oyunu.	f71896d2
+qtetris	1.4.1a	TETRIS oyununun bir klonu, ve aynç zamanda Queen grubuna bir atçf.	b017ab63
+sayswho	v0.1	Sade bir hafçza oyunu.	0e2a1690
+senet	1.0a	Äok eski bir oyun, kîkÅ eski Mçsçr'a dayançr	3c5bee15
+smiley	2021-11-10 alpha	Pong tÅrÅnde sade bir oyun (VGA, 386+)	a8feccfa
+sudoku86	1.0.3a	8086/8088 yongalarç iáin 16 bit bir Sudoku oyunu	9e0d8f33
+vertigo	0.26a	Uáuü modelinin geráekáilißine odaklanan bir uáuü simÅlatîrÅ.	10627770
+vitetris	0.55a	Terminale dayalç bir Tetris klonu.	c303363a
+wing	0.7a	Galaga benzeri bir uzayda atçü oyunu.	31da5be0
+zmiy	0.85.2a	DOS ve 8086 iáin (Nibbles gibi) bir yçlan oyunu	1ad03ce9

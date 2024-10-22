@@ -1,0 +1,22 @@
+Begin3
+Title:                  LFNDOS
+Version:                1.06a
+Entered-date:           2015-02-18
+Description:            Provides  long filename support
+Keywords:               long file name, lfn
+Author:                 Chris Jones dosuser _AT_ hotmail.com
+Platforms:              DOS, FreeDOS
+Copying-policy:         GNU General Public License, Version 2
+Defunct-Original-Site:  http://members.nbci.com/dosuser/dosutils.htm
+Defunct-Alternate-Site: http://www.dunfield.com/downloads.htm
+Summary:                Provides the Windows 95 long filename API to DOS programs. Any DOS program which can use long filenames, for example DOS 7 Command.com, edit.com and all DJGPP programs, can load and save using them with LFNDOS. Designed for Win95 users using DOS-mode, although it works under old DOS versions too.
+CRC:                    2a0a4419
+MD5:                    4b52b6da3471dfcf301151deea909ddf
+SHA:                    8f7dd83bb774f435d133baf1d1af1a4794d8b254f26ed19c07faa1186951b0e7
+Bin-files:              7
+Bin-size:               55410
+Source-files:           16
+Source-size:            414383
+Total-files:            23
+Total-size:             469793
+End

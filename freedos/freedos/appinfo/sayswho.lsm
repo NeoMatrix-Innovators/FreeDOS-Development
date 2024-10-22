@@ -1,0 +1,15 @@
+Begin3
+Title:          SaysWho
+Version:        v0.1
+Entered-date:   2022-02-15
+Description:    A simple memory game.
+Summary:		A simple classic memory game. (Requires a 386+, PC speaker recommended)
+Keywords:       dos game
+Author:         Jerome Shidel <jerome _AT_ shidel.net>
+Maintained-by:  Jerome Shidel <jerome _AT_ shidel.net>
+Primary-site:
+Alternate-site: https://gitlab.com/DangerApps/sayswho
+Original-site:
+Platforms:      DOS
+Copying-policy: BSD 3-Clause License
+End

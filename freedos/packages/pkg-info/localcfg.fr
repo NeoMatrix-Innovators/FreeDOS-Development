@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       localcfg
+Description: Outil de configuration des pr‚f‚rences locales
+Keywords:    country.sys
+End

@@ -1,0 +1,6 @@
+Begin3
+Language:    FR, 850
+Title:       SetLock
+Description: R‚gler les touches Verr Num, VerrÿMaj et Arrˆt D‚fil … partir du logiciel
+Keywords:    Verr Num, VerrÿMaj, Arrˆt D‚fil, d‚finir
+End

@@ -1,0 +1,12 @@
+FD-REPOv1	Build time: 1645361091	Archivierer	11
+7zdec	17.00 beta (rev A)	Extraktionsprogramm fÅr 7zip-Archive.	6c57d9b1
+arj	2.78a	Der Open Source ARJ Packer.	ed591315
+bz2	1.0.8a	BZIP2 Komprimierung.	47c8c90c
+cabext	1.8a	CABExtract entpackt eine Anzahl verschiedener Microsoft CAB Formate.	357ee2a5
+gzip	1.2.4a	GNU zip Packer, Ein Archivierungsprogramm Ñhnlich PKZIP.	5e2d3f37
+lpq1	2a	LPQ1 ist ein Datei-Packer und Archivierer.	070fc1b4
+p7zip	4.65a	P7zip ist ein schneller Port von 7za (dem Kommandozeilen-Teil von 7zip). 7Z ist einer der Packer mit der hîchsten Kompressionsrate.	81c055e7
+tar	1.12a	Ein Tape Archivierer.	f90e739d
+unzip	6.00a	Ein Dekompressionstool Ñhnlich PKUNZIP.	0a8a4d72
+zip	3.0	Ein Packer Ñhnlich PKZIP.	7efefc96
+zoo	2.1a	Manipulieren von ZOO Archiven.	5948a9c2

@@ -1,0 +1,31 @@
+FD-REPOv1	Build time: 1645361091	Jeux	30
+blkdrop	v0.1	Un jeu fond‚ sur des blocs qui tombent	d8fe4dd2
+bolitare	0.62b	Un clone de  Freecell pour DOS	224feeb6
+boom	2.02a	Un portage GPL du code source de Doom. Empaquet‚ avec FreeDoom pour une exp‚rience de jeu complŠte.	5dbc91d6
+dosdef	1.00a	DOS Defender est un jeu DOS en mode r‚el x86 pour Ludum Dare # 31 (d‚cembre 2014). Comme peu de machines DOS existent encore, la plate-forme cible est en fait DOSBox, mais le jeu devrait fonctionner dans une certaine mesure sur n'importe quel systŠme DOS. Il peut ˆtre jou‚ avec une souris mais il est destin‚ … ˆtre jou‚ avec un manette	d61ee06b
+eliza	1.01a	L'une des premiŠres IA de robot de discussion	f9850151
+empong	0.91a	Emeritus Pong est un clone du bon vieux jeu 'Pong'.	52985e35
+ev4de	1.2a	EV4DE est un jeu  qui consiste … piloter un vaisseau dans l'espace et … ‚viter les ast‚ro‹des. Jouez avec trois diff‚rents modes, d‚bloquez des vaisseaux suppl‚mentaires, obtenez le meilleur scoreÿ! Il est possible de jouer … EV4DE avec le clavier, mais je recommande fortement l'utilisation d'une manette.	3b6610b9
+ewsnake	0.5a	Un clone du jeu classique de serpent (aussi connu en tant que 'nibbles').	23a4dbe0
+flpybird	1.0a	Floppy Bird est un clone de l'infƒme Flappy Bird ‚crit en assembleur 16 bits (x86).En d'autres termes, il fonctionne sur du m‚tal brut et ne n‚cessite pas de systŠme d'exploitation sous-jacent, c'est un systŠme d'exploitation … lui seul.	ad292fd8
+fmines	1.00a	Un jeu de type mines avec de jolis thŠmes graphiques.	6a56b580
+freedoom	3.30b	SMMU est un portage du code source de Doom d‚riv‚ de MBF et Boom. Cette version est empaquet‚e avec FreeDoom pour une exp‚rience de jeu complŠte.	85fb87e3
+gnuchess	4.0 patch 60 (rev A)	GNU Chess est un programme d'‚checs public. Les contributeurs font don de leur temps et de leurs efforts pour en faire un logiciel plus puissant, meilleur et plus soign‚.	46f36a97
+hangman	1.05b	Jeu du pendu en plusieurs langues	b173eadd
+ivan	0.50a	Un jeu graphique similaire … rogue.	4f6b5e97
+kraptor	Apr_2004 (rev A)	Kraptor est un jeu libre complet similaire … Raptor avec plusieurs niveaux.	b36aaf4b
+liquiwar	5.6.3a	Un wargame multijoueurs unique.	5401d9b0
+mirmagic	2.0.2a	Un jeu d'arcade comme 'Deflektor' (C 64) ou 'Mindbender' (Amiga)	94e0c875
+mistral	1.0	Un jeu RPG r‚tro bas‚ sur le thŠme de l'espionnage pour votre ordinateur classique.	beb32643
+nethack	3.4.3a	Un jeu d'exploration de donjon … un seul joueur.	d104b799
+nge_nibb	0.1.0a	Un clone de Nibbles, un vieux jeu d'arcade.	a2200bf9
+noudar	1.2	Un jeu d'exploration de donjon … la premiŠre personne avec un go–t de jeu DOS, ‚crit en in C++14 en utilisant  OpenGL 1.1 ou OpenGL ES 2.0.	f71896d2
+qtetris	1.4.1a	Un clone du jeu TETRIS et un hommage au groupe Queen en mˆme temps.	b017ab63
+sayswho	v0.1	Un jeu simple de m‚morisation.	0e2a1690
+senet	1.0a	Un jeu trŠs ancien, qui remonte … l'gypte antique	3c5bee15
+smiley	2021-11-10 alpha	Un jeu simple de style Pong (VGA, 386+)	a8feccfa
+sudoku86	1.0.3a	un jeu Sudoku 16 bits pour DOS et les processeurs 8086/8088	9e0d8f33
+vertigo	0.26a	Un simulateur de vol qui se concentre sur le r‚alisme du modŠle de vol.	10627770
+vitetris	0.55a	Un clone de Tetris en mode texte.	c303363a
+wing	0.7a	Un jeu de tir dans l'espace similaire … galaga.	31da5be0
+zmiy	0.85.2a	Un jeu de serpent (similaire … Nibbles) pour DOS et 8086	1ad03ce9

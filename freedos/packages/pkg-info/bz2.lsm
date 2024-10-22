@@ -1,0 +1,24 @@
+Begin3
+Title:          BZIP2
+Version:        1.0.8a
+Entered-date:   2020-04-18
+Description:    BZIP2 compression program
+Keywords:       bzip, bunzip, zip, unzip, packer
+Author:         Julian R. Seward jseward-at-bzip.org
+Maintained-by:  BZIP2 project
+Primary-site:   http://ftp.delorie.com/pub/djgpp/current/v2apps/
+Alternate-site: http://sourceforge.net/projects/bzip2/
+Original-site:  http://www.bzip.org/
+Platforms:      DOS, FreeDOS, Linux, Windows
+Copying-policy: Open Source, see license file
+Summary:        The BZIP2 compression program.
+CRC:            47c8c90c
+MD5:            3a36877be46a67febd8b1e2c07163a8a
+SHA:            50921a1e20ea176bbaa91361e6fcf8c71f37fc42037391fb96b069d3f430ab86
+Bin-files:      15
+Bin-size:       2383949
+Source-files:   69
+Source-size:    1236583
+Total-files:    84
+Total-size:     3620532
+End

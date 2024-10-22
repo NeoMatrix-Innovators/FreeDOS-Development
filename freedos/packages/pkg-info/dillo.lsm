@@ -1,0 +1,25 @@
+Begin3
+Title:          Dillo
+Version:        3.0p9a (rev B)
+Entered-date:   2021-06-19
+Description:    Web browser known for its speed and small footprint
+Keywords:       dillo, web, www, browser
+Author:         Dillo developers
+Maintained-by:  -
+Primary-site:   https://www.dillo.org
+Alternate-site: -
+Original-site:  https://www.dillo.org
+Mirror-site:    -
+Platforms:      DOS
+Copying-policy: GNU General Public License, Version 3
+Summary:        A graphical web browser known for its speed and small footprint.
+CRC:            df849702
+MD5:            c0769ef840b6cf61a0315b1b46501862
+SHA:            fcc0aa6a94f809a4e2d4ed8b534b668684a0dde765926bf7d38792941f1679f9
+Bin-files:      109
+Bin-size:       14488956
+Source-files:   307
+Source-size:    2437910
+Total-files:    416
+Total-size:     16926866
+End

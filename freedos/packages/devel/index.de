@@ -1,0 +1,7 @@
+FD-REPOv1	Build time: 1645361091	Entwicklung	6
+bcc	0.16.10a	Bruce's C Compiler ist ein kleiner C Compiler, der 8086 ASM-Code fr die Tiny und Small Modelle erzeugt.	7bed01aa
+fpc	3.2.2	Ein selbsthostender 32-/64-bit Pascal Compiler (u.a fr Turbo- und Delphi-Dialekte, Teile ben”tigen LFN Untersttzung).	1bb88014
+kittenc	2021-08-01	catgets/kittengets-kompatibler Ressourcen-Compiler	c4fbf05d
+nasm	2.15.05a	Der Netwide Assembler (UPX-komprimiert).	b33948e8
+upx	3.96a	UPX ist ein freier, portabler, erweiterbarer, leistungsstarker ausfhrbarer Packer fr verschiedene ausfhrbare Formate.	be14f7f2
+watcomc	1.9	Open Watcom C/C++ Compiler.	9c22f267
